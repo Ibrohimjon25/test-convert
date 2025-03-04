@@ -1,0 +1,2312 @@
+2025-03-03T10:34:05.105Z - Umumiy tekshiruv boshlandi
+2025-03-03T10:34:05.165Z - MySQL foreign key soni: 25, PostgreSQL foreign key soni: 25
+2025-03-03T10:34:05.173Z - Jadval soni mos keladi
+2025-03-03T10:34:05.174Z - access_modifier_rules: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:05.174Z - access_modifier_rules: Tekshiruv boshlandi
+2025-03-03T10:34:05.178Z - access_modifier_rules: MySQL qator soni - 595, PostgreSQL qator soni - 595
+2025-03-03T10:34:05.178Z - access_modifier_rules: Qator soni mos keladi
+2025-03-03T10:34:05.184Z - access_modifier_rules: ID lar tekshirildi - MySQL: 595, PostgreSQL: 595
+2025-03-03T10:34:05.186Z - access_modifier_rules: ID lar mos keladi
+2025-03-03T10:34:05.191Z - access_modifier_rules: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:34:05.191Z - access_modifier_rules: Qator ID=7 - MySQL: {"id":7,"access_modifier_id":1,"rule_id":13,"created_at":"2022-03-10T09:48:29.000Z","updated_at":"2022-03-10T09:48:29.000Z"}
+2025-03-03T10:34:05.191Z - access_modifier_rules: Qator ID=7 - PostgreSQL: {"access_modifier_id":"1","created_at":"2022-03-10T04:48:29.000Z","id":"7","rule_id":"13","updated_at":"2022-03-10T04:48:29.000Z"}
+2025-03-03T10:34:05.191Z - access_modifier_rules: Namuna ma'lumotlari farq qiladi - Ustun 'access_modifier_id' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:05.192Z - access_modifier_rules: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'access_modifier_id' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:05.192Z - access_modifier_rules: Tekshiruv yakunlandi
+2025-03-03T10:34:06.193Z - access_modifiers: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:06.193Z - access_modifiers: Tekshiruv boshlandi
+2025-03-03T10:34:06.196Z - access_modifiers: MySQL qator soni - 22, PostgreSQL qator soni - 22
+2025-03-03T10:34:06.197Z - access_modifiers: Qator soni mos keladi
+2025-03-03T10:34:06.201Z - access_modifiers: ID lar tekshirildi - MySQL: 22, PostgreSQL: 22
+2025-03-03T10:34:06.202Z - access_modifiers: ID lar mos keladi
+2025-03-03T10:34:06.208Z - access_modifiers: Namuna qatorlari - MySQL: 22, PostgreSQL: 22
+2025-03-03T10:34:06.208Z - access_modifiers: Qator ID=1 - MySQL: {"id":1,"title":"Омбор бошқарувчиси","active":1,"created_at":"2022-03-10T09:48:29.000Z","updated_at":"2022-03-10T09:48:29.000Z"}
+2025-03-03T10:34:06.208Z - access_modifiers: Qator ID=1 - PostgreSQL: {"active":"1","created_at":"2022-03-10T04:48:29.000Z","id":"1","title":"Омбор бошқарувчиси","updated_at":"2022-03-10T04:48:29.000Z"}
+2025-03-03T10:34:06.208Z - access_modifiers: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:06.208Z - access_modifiers: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:06.208Z - access_modifiers: Tekshiruv yakunlandi
+2025-03-03T10:34:07.209Z - account_number_costs: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:07.209Z - account_number_costs: Tekshiruv boshlandi
+2025-03-03T10:34:07.214Z - account_number_costs: MySQL qator soni - 644, PostgreSQL qator soni - 644
+2025-03-03T10:34:07.214Z - account_number_costs: Qator soni mos keladi
+2025-03-03T10:34:07.225Z - account_number_costs: ID lar tekshirildi - MySQL: 644, PostgreSQL: 644
+2025-03-03T10:34:07.225Z - account_number_costs: ID lar mos keladi
+2025-03-03T10:34:07.233Z - account_number_costs: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:34:07.233Z - account_number_costs: Qator ID=1 - MySQL: {"id":1,"cost_id":7,"account_number":"16401000205099273001","created_at":"2022-04-19T15:29:55.000Z","updated_at":"2022-04-19T15:29:55.000Z"}
+2025-03-03T10:34:07.233Z - account_number_costs: Qator ID=1 - PostgreSQL: {"account_number":"16401000205099273001","cost_id":"7","created_at":"2022-04-19T10:29:55.000Z","id":"1","updated_at":"2022-04-19T10:29:55.000Z"}
+2025-03-03T10:34:07.233Z - account_number_costs: Namuna ma'lumotlari farq qiladi - Ustun 'cost_id' farq qiladi: MySQL=7, PostgreSQL=7
+2025-03-03T10:34:07.233Z - account_number_costs: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'cost_id' farq qiladi: MySQL=7, PostgreSQL=7
+2025-03-03T10:34:07.233Z - account_number_costs: Tekshiruv yakunlandi
+2025-03-03T10:34:08.235Z - account_number_input_types: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:08.235Z - account_number_input_types: Tekshiruv boshlandi
+2025-03-03T10:34:08.237Z - account_number_input_types: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-03T10:34:08.237Z - account_number_input_types: Qator soni mos keladi
+2025-03-03T10:34:08.239Z - account_number_input_types: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-03T10:34:08.239Z - account_number_input_types: ID lar mos keladi
+2025-03-03T10:34:08.240Z - account_number_input_types: Namuna yo'q (jadval bo'sh)
+2025-03-03T10:34:08.240Z - account_number_input_types: Jadval mos keladi
+2025-03-03T10:34:08.240Z - account_number_input_types: Tekshiruv yakunlandi
+2025-03-03T10:34:09.241Z - actions: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:09.241Z - actions: Tekshiruv boshlandi
+2025-03-03T10:34:09.246Z - actions: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-03T10:34:09.246Z - actions: Qator soni mos keladi
+2025-03-03T10:34:09.248Z - actions: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:34:09.249Z - actions: ID lar mos keladi
+2025-03-03T10:34:09.252Z - actions: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:34:09.252Z - actions: Qator ID=1 - MySQL: {"id":1,"title":"add","created_at":"2021-02-05T13:45:34.000Z","updated_at":"2021-02-05T13:45:34.000Z"}
+2025-03-03T10:34:09.252Z - actions: Qator ID=1 - PostgreSQL: {"created_at":"2021-02-05T08:45:34.000Z","id":"1","title":"add","updated_at":"2021-02-05T08:45:34.000Z"}
+2025-03-03T10:34:09.252Z - actions: Namuna ma'lumotlari farq qiladi - Ustun 'created_at' farq qiladi: MySQL=Fri Feb 05 2021 18:45:34 GMT+0500 (Uzbekistan Standard Time), PostgreSQL=Fri Feb 05 2021 13:45:34 GMT+0500 (Uzbekistan Standard Time)
+2025-03-03T10:34:09.253Z - actions: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'created_at' farq qiladi: MySQL=Fri Feb 05 2021 18:45:34 GMT+0500 (Uzbekistan Standard Time), PostgreSQL=Fri Feb 05 2021 13:45:34 GMT+0500 (Uzbekistan Standard Time)
+2025-03-03T10:34:09.253Z - actions: Tekshiruv yakunlandi
+2025-03-03T10:34:10.254Z - additional_functions: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:10.254Z - additional_functions: Tekshiruv boshlandi
+2025-03-03T10:34:10.257Z - additional_functions: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-03T10:34:10.257Z - additional_functions: Qator soni mos keladi
+2025-03-03T10:34:10.259Z - additional_functions: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:34:10.259Z - additional_functions: ID lar mos keladi
+2025-03-03T10:34:10.264Z - additional_functions: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:34:10.264Z - additional_functions: Qator ID=1 - MySQL: {"id":1,"function_name":"stop_sale","organization_id":1,"active":1,"created_at":null,"updated_at":null}
+2025-03-03T10:34:10.264Z - additional_functions: Qator ID=1 - PostgreSQL: {"active":"1","created_at":null,"function_name":"stop_sale","id":"1","organization_id":"1","updated_at":null}
+2025-03-03T10:34:10.264Z - additional_functions: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:10.264Z - additional_functions: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:10.264Z - additional_functions: Tekshiruv yakunlandi
+2025-03-03T10:34:11.265Z - additionals: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:11.265Z - additionals: Tekshiruv boshlandi
+2025-03-03T10:34:11.268Z - additionals: MySQL qator soni - 4, PostgreSQL qator soni - 4
+2025-03-03T10:34:11.269Z - additionals: Qator soni mos keladi
+2025-03-03T10:34:11.270Z - additionals: ID lar tekshirildi - MySQL: 4, PostgreSQL: 4
+2025-03-03T10:34:11.271Z - additionals: ID lar mos keladi
+2025-03-03T10:34:11.273Z - additionals: Namuna qatorlari - MySQL: 4, PostgreSQL: 4
+2025-03-03T10:34:11.274Z - additionals: Qator ID=1 - MySQL: {"id":1,"title":"Фойда учун (пул киматида)","type":"summa","active":0,"created_at":"2021-08-15T15:05:46.000Z","updated_at":"2021-08-15T15:05:46.000Z","raise_type":1,"main_organization_id":1}
+2025-03-03T10:34:11.274Z - additionals: Qator ID=1 - PostgreSQL: {"active":"0","created_at":"2021-08-15T10:05:46.000Z","id":"1","main_organization_id":"1","raise_type":1,"title":"Фойда учун (пул киматида)","type":"summa","updated_at":"2021-08-15T10:05:46.000Z"}
+2025-03-03T10:34:11.274Z - additionals: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=0, PostgreSQL=0
+2025-03-03T10:34:11.274Z - additionals: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=0, PostgreSQL=0
+2025-03-03T10:34:11.274Z - additionals: Tekshiruv yakunlandi
+2025-03-03T10:34:12.275Z - agent_groups: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:12.275Z - agent_groups: Tekshiruv boshlandi
+2025-03-03T10:34:12.278Z - agent_groups: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-03T10:34:12.278Z - agent_groups: Qator soni mos keladi
+2025-03-03T10:34:12.280Z - agent_groups: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-03T10:34:12.281Z - agent_groups: ID lar mos keladi
+2025-03-03T10:34:12.281Z - agent_groups: Namuna yo'q (jadval bo'sh)
+2025-03-03T10:34:12.281Z - agent_groups: Jadval mos keladi
+2025-03-03T10:34:12.281Z - agent_groups: Tekshiruv yakunlandi
+2025-03-03T10:34:13.281Z - agent_has_workplaces: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:13.282Z - agent_has_workplaces: Tekshiruv boshlandi
+2025-03-03T10:34:13.285Z - agent_has_workplaces: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-03T10:34:13.285Z - agent_has_workplaces: Qator soni mos keladi
+2025-03-03T10:34:13.288Z - agent_has_workplaces: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-03T10:34:13.288Z - agent_has_workplaces: ID lar mos keladi
+2025-03-03T10:34:13.292Z - agent_has_workplaces: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-03T10:34:13.292Z - agent_has_workplaces: Qator ID=1 - MySQL: {"id":1,"agent_id":1,"workplace_id":1,"created_at":"2022-12-16T06:00:09.000Z","updated_at":"2022-12-16T06:00:09.000Z"}
+2025-03-03T10:34:13.292Z - agent_has_workplaces: Qator ID=1 - PostgreSQL: {"agent_id":"1","created_at":"2022-12-16T01:00:09.000Z","id":"1","updated_at":"2022-12-16T01:00:09.000Z","workplace_id":"1"}
+2025-03-03T10:34:13.292Z - agent_has_workplaces: Namuna ma'lumotlari farq qiladi - Ustun 'agent_id' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:13.292Z - agent_has_workplaces: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'agent_id' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:13.293Z - agent_has_workplaces: Tekshiruv yakunlandi
+2025-03-03T10:34:14.294Z - agent_plan_has_partners: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:14.294Z - agent_plan_has_partners: Tekshiruv boshlandi
+2025-03-03T10:34:14.299Z - agent_plan_has_partners: MySQL qator soni - 43, PostgreSQL qator soni - 43
+2025-03-03T10:34:14.299Z - agent_plan_has_partners: Qator soni mos keladi
+2025-03-03T10:34:14.301Z - agent_plan_has_partners: ID lar tekshirildi - MySQL: 43, PostgreSQL: 43
+2025-03-03T10:34:14.302Z - agent_plan_has_partners: ID lar mos keladi
+2025-03-03T10:34:14.306Z - agent_plan_has_partners: Namuna qatorlari - MySQL: 43, PostgreSQL: 43
+2025-03-03T10:34:14.307Z - agent_plan_has_partners: Qator ID=1 - MySQL: {"id":1,"agent_plan_id":1,"partner_id":384,"is_done":0,"created_at":"2022-12-16T06:00:46.000Z","updated_at":"2022-12-16T06:00:46.000Z"}
+2025-03-03T10:34:14.307Z - agent_plan_has_partners: Qator ID=1 - PostgreSQL: {"agent_plan_id":"1","created_at":"2022-12-16T01:00:46.000Z","id":"1","is_done":"0","partner_id":"384","updated_at":"2022-12-16T01:00:46.000Z"}
+2025-03-03T10:34:14.307Z - agent_plan_has_partners: Namuna ma'lumotlari farq qiladi - Ustun 'agent_plan_id' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:14.307Z - agent_plan_has_partners: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'agent_plan_id' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:14.307Z - agent_plan_has_partners: Tekshiruv yakunlandi
+2025-03-03T10:34:15.308Z - agent_plan_histories: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:15.309Z - agent_plan_histories: Tekshiruv boshlandi
+2025-03-03T10:34:15.312Z - agent_plan_histories: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-03T10:34:15.312Z - agent_plan_histories: Qator soni mos keladi
+2025-03-03T10:34:15.315Z - agent_plan_histories: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-03T10:34:15.315Z - agent_plan_histories: ID lar mos keladi
+2025-03-03T10:34:15.315Z - agent_plan_histories: Namuna yo'q (jadval bo'sh)
+2025-03-03T10:34:15.315Z - agent_plan_histories: Jadval mos keladi
+2025-03-03T10:34:15.315Z - agent_plan_histories: Tekshiruv yakunlandi
+2025-03-03T10:34:16.316Z - agent_plans: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:16.316Z - agent_plans: Tekshiruv boshlandi
+2025-03-03T10:34:16.319Z - agent_plans: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-03T10:34:16.319Z - agent_plans: Qator soni mos keladi
+2025-03-03T10:34:16.320Z - agent_plans: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:34:16.320Z - agent_plans: ID lar mos keladi
+2025-03-03T10:34:16.322Z - agent_plans: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:34:16.322Z - agent_plans: Qator ID=1 - MySQL: {"id":1,"start_date":"2022-12-15T19:00:00.000Z","end_date":"2022-12-23T19:00:00.000Z","agent_id":1,"active":1,"created_at":"2022-12-16T06:00:46.000Z","updated_at":"2022-12-16T06:00:46.000Z"}
+2025-03-03T10:34:16.322Z - agent_plans: Qator ID=1 - PostgreSQL: {"active":"1","agent_id":"1","created_at":"2022-12-16T01:00:46.000Z","end_date":"Sat Dec 24 2022 00:00:00 GMT+0500 (Uzbekistan Standard Time)","id":"1","start_date":"Fri Dec 16 2022 00:00:00 GMT+0500 (Uzbekistan Standard Time)","updated_at":"2022-12-16T01:00:46.000Z"}
+2025-03-03T10:34:16.322Z - agent_plans: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:16.322Z - agent_plans: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:16.322Z - agent_plans: Tekshiruv yakunlandi
+2025-03-03T10:34:17.323Z - agents: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:17.323Z - agents: Tekshiruv boshlandi
+2025-03-03T10:34:17.327Z - agents: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-03T10:34:17.327Z - agents: Qator soni mos keladi
+2025-03-03T10:34:17.329Z - agents: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-03T10:34:17.330Z - agents: ID lar mos keladi
+2025-03-03T10:34:17.333Z - agents: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-03T10:34:17.333Z - agents: Qator ID=1 - MySQL: {"id":1,"user_id":151,"employee_id":0,"active":1,"created_at":"2022-12-16T05:39:10.000Z","updated_at":"2022-12-16T05:39:10.000Z"}
+2025-03-03T10:34:17.333Z - agents: Qator ID=1 - PostgreSQL: {"active":"1","created_at":"2022-12-16T00:39:10.000Z","employee_id":"0","id":"1","updated_at":"2022-12-16T00:39:10.000Z","user_id":"151"}
+2025-03-03T10:34:17.333Z - agents: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:17.333Z - agents: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:17.333Z - agents: Tekshiruv yakunlandi
+2025-03-03T10:34:18.334Z - apps: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:18.334Z - apps: Tekshiruv boshlandi
+2025-03-03T10:34:18.337Z - apps: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-03T10:34:18.338Z - apps: Qator soni mos keladi
+2025-03-03T10:34:18.340Z - apps: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-03T10:34:18.340Z - apps: ID lar mos keladi
+2025-03-03T10:34:18.340Z - apps: Namuna yo'q (jadval bo'sh)
+2025-03-03T10:34:18.340Z - apps: Jadval mos keladi
+2025-03-03T10:34:18.340Z - apps: Tekshiruv yakunlandi
+2025-03-03T10:34:19.342Z - banks: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:19.342Z - banks: Tekshiruv boshlandi
+2025-03-03T10:34:19.346Z - banks: MySQL qator soni - 100, PostgreSQL qator soni - 100
+2025-03-03T10:34:19.346Z - banks: Qator soni mos keladi
+2025-03-03T10:34:19.350Z - banks: ID lar tekshirildi - MySQL: 100, PostgreSQL: 100
+2025-03-03T10:34:19.350Z - banks: ID lar mos keladi
+2025-03-03T10:34:19.356Z - banks: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:34:19.356Z - banks: Qator ID=1 - MySQL: {"id":1,"title":"Алока банк","stir":"200829053","mfo":"00401","active":1,"created_at":"2022-04-19T14:28:57.000Z","updated_at":"2022-04-19T14:28:57.000Z"}
+2025-03-03T10:34:19.356Z - banks: Qator ID=1 - PostgreSQL: {"active":"1","created_at":"2022-04-19T09:28:57.000Z","id":"1","mfo":"00401","stir":"200829053","title":"Алока банк","updated_at":"2022-04-19T09:28:57.000Z"}
+2025-03-03T10:34:19.356Z - banks: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:19.356Z - banks: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:19.356Z - banks: Tekshiruv yakunlandi
+2025-03-03T10:34:20.358Z - bonus_condition_has_partners: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:20.358Z - bonus_condition_has_partners: Tekshiruv boshlandi
+2025-03-03T10:34:20.363Z - bonus_condition_has_partners: MySQL qator soni - 2514, PostgreSQL qator soni - 2514
+2025-03-03T10:34:20.363Z - bonus_condition_has_partners: Qator soni mos keladi
+2025-03-03T10:34:20.386Z - bonus_condition_has_partners: ID lar tekshirildi - MySQL: 2514, PostgreSQL: 2514
+2025-03-03T10:34:20.387Z - bonus_condition_has_partners: ID lar mos keladi
+2025-03-03T10:34:20.391Z - bonus_condition_has_partners: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:34:20.392Z - bonus_condition_has_partners: Qator ID=1 - MySQL: {"id":1,"bonus_condition_id":7,"partner_id":9,"created_at":null,"updated_at":null}
+2025-03-03T10:34:20.392Z - bonus_condition_has_partners: Qator ID=1 - PostgreSQL: {"bonus_condition_id":"7","created_at":null,"id":"1","partner_id":"9","updated_at":null}
+2025-03-03T10:34:20.392Z - bonus_condition_has_partners: Namuna ma'lumotlari farq qiladi - Ustun 'bonus_condition_id' farq qiladi: MySQL=7, PostgreSQL=7
+2025-03-03T10:34:20.392Z - bonus_condition_has_partners: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'bonus_condition_id' farq qiladi: MySQL=7, PostgreSQL=7
+2025-03-03T10:34:20.392Z - bonus_condition_has_partners: Tekshiruv yakunlandi
+2025-03-03T10:34:21.393Z - bonus_condition_has_repositories: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:21.394Z - bonus_condition_has_repositories: Tekshiruv boshlandi
+2025-03-03T10:34:21.398Z - bonus_condition_has_repositories: MySQL qator soni - 142, PostgreSQL qator soni - 142
+2025-03-03T10:34:21.398Z - bonus_condition_has_repositories: Qator soni mos keladi
+2025-03-03T10:34:21.400Z - bonus_condition_has_repositories: ID lar tekshirildi - MySQL: 142, PostgreSQL: 142
+2025-03-03T10:34:21.400Z - bonus_condition_has_repositories: ID lar mos keladi
+2025-03-03T10:34:21.403Z - bonus_condition_has_repositories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:34:21.403Z - bonus_condition_has_repositories: Qator ID=1 - MySQL: {"id":1,"repository_id":1,"bonus_condition_id":1,"created_at":null,"updated_at":null}
+2025-03-03T10:34:21.403Z - bonus_condition_has_repositories: Qator ID=1 - PostgreSQL: {"bonus_condition_id":"1","created_at":null,"id":"1","repository_id":"1","updated_at":null}
+2025-03-03T10:34:21.403Z - bonus_condition_has_repositories: Namuna ma'lumotlari farq qiladi - Ustun 'bonus_condition_id' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:21.403Z - bonus_condition_has_repositories: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'bonus_condition_id' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:21.403Z - bonus_condition_has_repositories: Tekshiruv yakunlandi
+2025-03-03T10:34:22.405Z - bonus_conditions: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:22.405Z - bonus_conditions: Tekshiruv boshlandi
+2025-03-03T10:34:22.409Z - bonus_conditions: MySQL qator soni - 46, PostgreSQL qator soni - 46
+2025-03-03T10:34:22.409Z - bonus_conditions: Qator soni mos keladi
+2025-03-03T10:34:22.411Z - bonus_conditions: ID lar tekshirildi - MySQL: 46, PostgreSQL: 46
+2025-03-03T10:34:22.411Z - bonus_conditions: ID lar mos keladi
+2025-03-03T10:34:22.417Z - bonus_conditions: Namuna qatorlari - MySQL: 46, PostgreSQL: 46
+2025-03-03T10:34:22.418Z - bonus_conditions: Qator ID=1 - MySQL: {"id":1,"title":"Обогривател пули акцияси","start_date":"2022-11-30T19:00:00.000Z","end_date":"2022-11-30T19:00:00.000Z","description":"7 доллорлик акция","type":"all","created_by":31,"updated_by":null,"active":1,"created_at":"2022-11-30T11:30:12.000Z","updated_at":"2022-11-30T11:30:12.000Z"}
+2025-03-03T10:34:22.418Z - bonus_conditions: Qator ID=1 - PostgreSQL: {"active":"1","created_at":"2022-11-30T06:30:12.000Z","created_by":"31","description":"7 доллорлик акция","end_date":"Thu Dec 01 2022 00:00:00 GMT+0500 (Uzbekistan Standard Time)","id":"1","start_date":"Thu Dec 01 2022 00:00:00 GMT+0500 (Uzbekistan Standard Time)","title":"Обогривател пули акцияси","type":"all","updated_at":"2022-11-30T06:30:12.000Z","updated_by":null}
+2025-03-03T10:34:22.418Z - bonus_conditions: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:22.418Z - bonus_conditions: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:22.418Z - bonus_conditions: Tekshiruv yakunlandi
+2025-03-03T10:34:23.419Z - bonus_products: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:23.419Z - bonus_products: Tekshiruv boshlandi
+2025-03-03T10:34:23.422Z - bonus_products: MySQL qator soni - 203, PostgreSQL qator soni - 203
+2025-03-03T10:34:23.422Z - bonus_products: Qator soni mos keladi
+2025-03-03T10:34:23.424Z - bonus_products: ID lar tekshirildi - MySQL: 203, PostgreSQL: 203
+2025-03-03T10:34:23.425Z - bonus_products: ID lar mos keladi
+2025-03-03T10:34:23.430Z - bonus_products: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:34:23.430Z - bonus_products: Qator ID=1 - MySQL: {"id":1,"product_variant_id":77237,"bonus_sub_condition_id":5,"count":1,"active":1,"created_at":"2023-05-26T12:34:41.000Z","updated_at":"2023-05-26T12:34:41.000Z"}
+2025-03-03T10:34:23.430Z - bonus_products: Qator ID=1 - PostgreSQL: {"active":"1","bonus_sub_condition_id":"5","count":1,"created_at":"2023-05-26T07:34:41.000Z","id":"1","product_variant_id":"77237","updated_at":"2023-05-26T07:34:41.000Z"}
+2025-03-03T10:34:23.430Z - bonus_products: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:23.430Z - bonus_products: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:23.430Z - bonus_products: Tekshiruv yakunlandi
+2025-03-03T10:34:24.431Z - bonus_products_has_repository_actions: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:24.431Z - bonus_products_has_repository_actions: Tekshiruv boshlandi
+2025-03-03T10:34:24.436Z - bonus_products_has_repository_actions: MySQL qator soni - 1726, PostgreSQL qator soni - 1726
+2025-03-03T10:34:24.436Z - bonus_products_has_repository_actions: Qator soni mos keladi
+2025-03-03T10:34:24.443Z - bonus_products_has_repository_actions: ID lar tekshirildi - MySQL: 1726, PostgreSQL: 1726
+2025-03-03T10:34:24.443Z - bonus_products_has_repository_actions: ID lar mos keladi
+2025-03-03T10:34:24.449Z - bonus_products_has_repository_actions: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:34:24.449Z - bonus_products_has_repository_actions: Qator ID=5 - MySQL: {"id":5,"bonus_product_id":2,"invoice_id":29643,"product_variant_id":77236,"count":1,"created_at":"2023-05-26T16:05:53.000Z","updated_at":"2023-05-26T16:05:53.000Z"}
+2025-03-03T10:34:24.450Z - bonus_products_has_repository_actions: Qator ID=5 - PostgreSQL: {"bonus_product_id":"2","count":1,"created_at":"2023-05-26T11:05:53.000Z","id":"5","invoice_id":"29643","product_variant_id":"77236","updated_at":"2023-05-26T11:05:53.000Z"}
+2025-03-03T10:34:24.450Z - bonus_products_has_repository_actions: Namuna ma'lumotlari farq qiladi - Ustun 'bonus_product_id' farq qiladi: MySQL=2, PostgreSQL=2
+2025-03-03T10:34:24.450Z - bonus_products_has_repository_actions: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'bonus_product_id' farq qiladi: MySQL=2, PostgreSQL=2
+2025-03-03T10:34:24.450Z - bonus_products_has_repository_actions: Tekshiruv yakunlandi
+2025-03-03T10:34:25.451Z - bonus_sub_conditions: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:25.451Z - bonus_sub_conditions: Tekshiruv boshlandi
+2025-03-03T10:34:25.454Z - bonus_sub_conditions: MySQL qator soni - 359, PostgreSQL qator soni - 359
+2025-03-03T10:34:25.455Z - bonus_sub_conditions: Qator soni mos keladi
+2025-03-03T10:34:25.458Z - bonus_sub_conditions: ID lar tekshirildi - MySQL: 359, PostgreSQL: 359
+2025-03-03T10:34:25.458Z - bonus_sub_conditions: ID lar mos keladi
+2025-03-03T10:34:25.464Z - bonus_sub_conditions: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:34:25.464Z - bonus_sub_conditions: Qator ID=1 - MySQL: {"id":1,"product_variant_id":420631,"bonus_condition_id":1,"max":1,"bonus_value":7,"type":"sum","repository_type":"all","active":1,"created_at":"2022-12-01T04:21:41.000Z","updated_at":"2022-12-01T04:21:41.000Z"}
+2025-03-03T10:34:25.464Z - bonus_sub_conditions: Qator ID=1 - PostgreSQL: {"active":"1","bonus_condition_id":"1","bonus_value":7,"created_at":"2022-11-30T23:21:41.000Z","id":"1","max":1,"product_variant_id":"420631","repository_type":"all","type":"sum","updated_at":"2022-11-30T23:21:41.000Z"}
+2025-03-03T10:34:25.464Z - bonus_sub_conditions: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:25.464Z - bonus_sub_conditions: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:25.464Z - bonus_sub_conditions: Tekshiruv yakunlandi
+2025-03-03T10:34:26.465Z - brands: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:26.465Z - brands: Tekshiruv boshlandi
+2025-03-03T10:34:26.469Z - brands: MySQL qator soni - 3067, PostgreSQL qator soni - 3067
+2025-03-03T10:34:26.470Z - brands: Qator soni mos keladi
+2025-03-03T10:34:26.482Z - brands: ID lar tekshirildi - MySQL: 3067, PostgreSQL: 3067
+2025-03-03T10:34:26.482Z - brands: ID lar mos keladi
+2025-03-03T10:34:26.487Z - brands: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:34:26.487Z - brands: Qator ID=1 - MySQL: {"id":1,"title":"BQ","active":1,"created_at":null,"updated_at":null,"junior_picture":null,"middle_picture":null,"senior_picture":null}
+2025-03-03T10:34:26.487Z - brands: Qator ID=1 - PostgreSQL: {"active":"1","created_at":null,"id":"1","junior_picture":null,"middle_picture":null,"senior_picture":null,"title":"BQ","updated_at":null}
+2025-03-03T10:34:26.487Z - brands: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:26.487Z - brands: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:26.487Z - brands: Tekshiruv yakunlandi
+2025-03-03T10:34:27.488Z - calculation_comments: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:27.488Z - calculation_comments: Tekshiruv boshlandi
+2025-03-03T10:34:27.492Z - calculation_comments: MySQL qator soni - 1188, PostgreSQL qator soni - 1188
+2025-03-03T10:34:27.492Z - calculation_comments: Qator soni mos keladi
+2025-03-03T10:34:27.498Z - calculation_comments: ID lar tekshirildi - MySQL: 1188, PostgreSQL: 1188
+2025-03-03T10:34:27.499Z - calculation_comments: ID lar mos keladi
+2025-03-03T10:34:27.503Z - calculation_comments: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:34:27.504Z - calculation_comments: Qator ID=1 - MySQL: {"id":1,"comment":"тугри булган","user_id":43,"calculation_history_id":1,"finally_balance":0,"currency_id":0,"date":"2022-09-28T19:00:00.000Z","status":"finished","active":1,"created_at":"2022-09-29T03:10:00.000Z","updated_at":"2022-09-29T03:10:00.000Z"}
+2025-03-03T10:34:27.504Z - calculation_comments: Qator ID=1 - PostgreSQL: {"active":"1","calculation_history_id":"1","comment":"тугри булган","created_at":"2022-09-28T22:10:00.000Z","currency_id":"0","date":"Thu Sep 29 2022 00:00:00 GMT+0500 (Uzbekistan Standard Time)","finally_balance":0,"id":"1","status":"finished","updated_at":"2022-09-28T22:10:00.000Z","user_id":"43"}
+2025-03-03T10:34:27.504Z - calculation_comments: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:27.504Z - calculation_comments: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'active' farq qiladi: MySQL=1, PostgreSQL=1
+2025-03-03T10:34:27.504Z - calculation_comments: Tekshiruv yakunlandi
+2025-03-03T10:34:28.505Z - calculation_employees: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:28.505Z - calculation_employees: Tekshiruv boshlandi
+2025-03-03T10:34:28.509Z - calculation_employees: MySQL qator soni - 5293, PostgreSQL qator soni - 5293
+2025-03-03T10:34:28.510Z - calculation_employees: Qator soni mos keladi
+2025-03-03T10:34:28.517Z - calculation_employees: ID lar tekshirildi - MySQL: 5293, PostgreSQL: 5293
+2025-03-03T10:34:28.517Z - calculation_employees: ID lar mos keladi
+2025-03-03T10:34:28.521Z - calculation_employees: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:34:28.521Z - calculation_employees: Qator ID=1 - MySQL: {"id":1,"employee_id":46,"value":-3000000,"type_id":8,"organization_id":1,"date":"2023-01-31T19:00:00.000Z","description":"аванс олди","statement_id":3294,"practice_day":"2023-02-01T19:00:00.000Z","created_at":"2023-02-01T10:23:16.000Z","updated_at":"2023-02-01T10:23:16.000Z","currency_value":11400}
+2025-03-03T10:34:28.521Z - calculation_employees: Qator ID=1 - PostgreSQL: {"created_at":"2023-02-01T05:23:16.000Z","currency_value":11400,"date":"Wed Feb 01 2023 00:00:00 GMT+0500 (Uzbekistan Standard Time)","description":"аванс олди","employee_id":46,"id":"1","organization_id":1,"practice_day":"Thu Feb 02 2023 00:00:00 GMT+0500 (Uzbekistan Standard Time)","statement_id":3294,"type_id":8,"updated_at":"2023-02-01T05:23:16.000Z","value":-3000000}
+2025-03-03T10:34:28.521Z - calculation_employees: Namuna ma'lumotlari farq qiladi - Ustun 'created_at' farq qiladi: MySQL=Wed Feb 01 2023 15:23:16 GMT+0500 (Uzbekistan Standard Time), PostgreSQL=Wed Feb 01 2023 10:23:16 GMT+0500 (Uzbekistan Standard Time)
+2025-03-03T10:34:28.522Z - calculation_employees: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'created_at' farq qiladi: MySQL=Wed Feb 01 2023 15:23:16 GMT+0500 (Uzbekistan Standard Time), PostgreSQL=Wed Feb 01 2023 10:23:16 GMT+0500 (Uzbekistan Standard Time)
+2025-03-03T10:34:28.522Z - calculation_employees: Tekshiruv yakunlandi
+2025-03-03T10:34:29.523Z - calculation_histories: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:29.523Z - calculation_histories: Tekshiruv boshlandi
+2025-03-03T10:34:29.525Z - calculation_histories: MySQL qator soni - 517, PostgreSQL qator soni - 517
+2025-03-03T10:34:29.525Z - calculation_histories: Qator soni mos keladi
+2025-03-03T10:34:29.527Z - calculation_histories: ID lar tekshirildi - MySQL: 517, PostgreSQL: 517
+2025-03-03T10:34:29.528Z - calculation_histories: ID lar mos keladi
+2025-03-03T10:34:29.532Z - calculation_histories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:34:29.532Z - calculation_histories: Qator ID=1 - MySQL: {"id":1,"partner_id":90,"user_id":43,"start_date":"2022-07-31T19:00:00.000Z","end_date":"2022-08-30T19:00:00.000Z","date":"2022-09-28T19:00:00.000Z","status":"finished","created_at":"2022-09-29T03:10:00.000Z","updated_at":"2022-09-29T03:10:00.000Z"}
+2025-03-03T10:34:29.532Z - calculation_histories: Qator ID=1 - PostgreSQL: {"created_at":"2022-09-28T22:10:00.000Z","date":"Thu Sep 29 2022 00:00:00 GMT+0500 (Uzbekistan Standard Time)","end_date":"Wed Aug 31 2022 00:00:00 GMT+0500 (Uzbekistan Standard Time)","id":"1","partner_id":"90","start_date":"Mon Aug 01 2022 00:00:00 GMT+0500 (Uzbekistan Standard Time)","status":"finished","updated_at":"2022-09-28T22:10:00.000Z","user_id":"43"}
+2025-03-03T10:34:29.532Z - calculation_histories: Namuna ma'lumotlari farq qiladi - Ustun 'created_at' farq qiladi: MySQL=Thu Sep 29 2022 08:10:00 GMT+0500 (Uzbekistan Standard Time), PostgreSQL=Thu Sep 29 2022 03:10:00 GMT+0500 (Uzbekistan Standard Time)
+2025-03-03T10:34:29.532Z - calculation_histories: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'created_at' farq qiladi: MySQL=Thu Sep 29 2022 08:10:00 GMT+0500 (Uzbekistan Standard Time), PostgreSQL=Thu Sep 29 2022 03:10:00 GMT+0500 (Uzbekistan Standard Time)
+2025-03-03T10:34:29.532Z - calculation_histories: Tekshiruv yakunlandi
+2025-03-03T10:34:30.533Z - canceled_pre_order_product_infos: Jadval tekshiruvi boshlandi
+2025-03-03T10:34:30.533Z - canceled_pre_order_product_infos: Tekshiruv boshlandi
+2025-03-03T10:34:30.537Z - canceled_pre_order_product_infos: MySQL qator soni - 1874, PostgreSQL qator soni - 1874
+2025-03-03T10:34:30.537Z - canceled_pre_order_product_infos: Qator soni mos keladi
+2025-03-03T10:34:30.545Z - canceled_pre_order_product_infos: ID lar tekshirildi - MySQL: 1874, PostgreSQL: 1874
+2025-03-03T10:34:30.546Z - canceled_pre_order_product_infos: ID lar mos keladi
+2025-03-03T10:34:30.551Z - canceled_pre_order_product_infos: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:34:30.551Z - canceled_pre_order_product_infos: Qator ID=1 - MySQL: {"id":1,"pre_order_product_id":6325,"product_variant_id":465097,"auth_id":31,"definition":"Товар келиши ноьмалум","date":"2024-10-22T05:18:18.000Z"}
+2025-03-03T10:34:30.551Z - canceled_pre_order_product_infos: Qator ID=1 - PostgreSQL: {"auth_id":"31","date":"2024-10-22T00:18:18.000Z","definition":"Товар келиши ноьмалум","id":"1","pre_order_product_id":"6325","product_variant_id":"465097"}
+2025-03-03T10:34:30.551Z - canceled_pre_order_product_infos: Namuna ma'lumotlari farq qiladi - Ustun 'auth_id' farq qiladi: MySQL=31, PostgreSQL=31
+2025-03-03T10:34:30.551Z - canceled_pre_order_product_infos: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi - Ustun 'auth_id' farq qiladi: MySQL=31, PostgreSQL=31
+2025-03-03T10:34:30.551Z - canceled_pre_order_product_infos: Tekshiruv yakunlandi
+2025-03-03T10:36:20.081Z - Umumiy tekshiruv boshlandi
+2025-03-03T10:36:20.142Z - MySQL foreign key soni: 25, PostgreSQL foreign key soni: 25
+2025-03-03T10:36:20.148Z - Jadval soni mos keladi
+2025-03-03T10:36:20.148Z - access_modifier_rules: Jadval tekshiruvi boshlandi
+2025-03-03T10:36:20.149Z - access_modifier_rules: Tekshiruv boshlandi
+2025-03-03T10:36:20.151Z - access_modifier_rules: MySQL qator soni - 595, PostgreSQL qator soni - 595
+2025-03-03T10:36:20.151Z - access_modifier_rules: Qator soni mos keladi
+2025-03-03T10:36:20.157Z - access_modifier_rules: ID lar tekshirildi - MySQL: 595, PostgreSQL: 595
+2025-03-03T10:36:20.157Z - access_modifier_rules: ID lar mos keladi
+2025-03-03T10:36:20.162Z - access_modifier_rules: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:36:20.163Z - access_modifier_rules: Qator ID=7 - MySQL: {"id":7,"access_modifier_id":1,"rule_id":13,"created_at":"2022-03-10T09:48:29.000Z","updated_at":"2022-03-10T09:48:29.000Z"}
+2025-03-03T10:36:20.163Z - access_modifier_rules: Qator ID=7 - PostgreSQL: {"access_modifier_id":"1","created_at":"2022-03-10T04:48:29.000Z","id":"7","rule_id":"13","updated_at":"2022-03-10T04:48:29.000Z"}
+2025-03-03T10:36:20.163Z - access_modifier_rules: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="Thu Mar 10 2022 14:48:29 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Thu Mar 10 2022 09:48:29 GMT+0500 (Uzbekistan Standard Time)"; Ustun 'updated_at': MySQL="Thu Mar 10 2022 14:48:29 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Thu Mar 10 2022 09:48:29 GMT+0500 (Uzbekistan Standard Time)"
+2025-03-03T10:36:20.163Z - access_modifier_rules: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="Thu Mar 10 2022 14:48:29 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Thu Mar 10 2022 09:48:29 GMT+0500 (Uzbekistan Standard Time)"; Ustun 'updated_at': MySQL="Thu Mar 10 2022 14:48:29 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Thu Mar 10 2022 09:48:29 GMT+0500 (Uzbekistan Standard Time)"
+2025-03-03T10:36:20.163Z - access_modifier_rules: Tekshiruv yakunlandi
+2025-03-03T10:36:21.165Z - access_modifiers: Jadval tekshiruvi boshlandi
+2025-03-03T10:36:21.165Z - access_modifiers: Tekshiruv boshlandi
+2025-03-03T10:36:21.168Z - access_modifiers: MySQL qator soni - 22, PostgreSQL qator soni - 22
+2025-03-03T10:36:21.168Z - access_modifiers: Qator soni mos keladi
+2025-03-03T10:36:21.173Z - access_modifiers: ID lar tekshirildi - MySQL: 22, PostgreSQL: 22
+2025-03-03T10:36:21.174Z - access_modifiers: ID lar mos keladi
+2025-03-03T10:36:21.182Z - access_modifiers: Namuna qatorlari - MySQL: 22, PostgreSQL: 22
+2025-03-03T10:36:21.183Z - access_modifiers: Qator ID=1 - MySQL: {"id":1,"title":"Омбор бошқарувчиси","active":1,"created_at":"2022-03-10T09:48:29.000Z","updated_at":"2022-03-10T09:48:29.000Z"}
+2025-03-03T10:36:21.184Z - access_modifiers: Qator ID=1 - PostgreSQL: {"active":"1","created_at":"2022-03-10T04:48:29.000Z","id":"1","title":"Омбор бошқарувчиси","updated_at":"2022-03-10T04:48:29.000Z"}
+2025-03-03T10:36:21.184Z - access_modifiers: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="Thu Mar 10 2022 14:48:29 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Thu Mar 10 2022 09:48:29 GMT+0500 (Uzbekistan Standard Time)"; Ustun 'updated_at': MySQL="Thu Mar 10 2022 14:48:29 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Thu Mar 10 2022 09:48:29 GMT+0500 (Uzbekistan Standard Time)"
+2025-03-03T10:36:21.184Z - access_modifiers: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="Thu Mar 10 2022 14:48:29 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Thu Mar 10 2022 09:48:29 GMT+0500 (Uzbekistan Standard Time)"; Ustun 'updated_at': MySQL="Thu Mar 10 2022 14:48:29 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Thu Mar 10 2022 09:48:29 GMT+0500 (Uzbekistan Standard Time)"
+2025-03-03T10:36:21.185Z - access_modifiers: Tekshiruv yakunlandi
+2025-03-03T10:36:22.186Z - account_number_costs: Jadval tekshiruvi boshlandi
+2025-03-03T10:36:22.186Z - account_number_costs: Tekshiruv boshlandi
+2025-03-03T10:36:22.190Z - account_number_costs: MySQL qator soni - 644, PostgreSQL qator soni - 644
+2025-03-03T10:36:22.190Z - account_number_costs: Qator soni mos keladi
+2025-03-03T10:36:22.199Z - account_number_costs: ID lar tekshirildi - MySQL: 644, PostgreSQL: 644
+2025-03-03T10:36:22.200Z - account_number_costs: ID lar mos keladi
+2025-03-03T10:36:22.207Z - account_number_costs: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:36:22.207Z - account_number_costs: Qator ID=1 - MySQL: {"id":1,"cost_id":7,"account_number":"16401000205099273001","created_at":"2022-04-19T15:29:55.000Z","updated_at":"2022-04-19T15:29:55.000Z"}
+2025-03-03T10:36:22.207Z - account_number_costs: Qator ID=1 - PostgreSQL: {"account_number":"16401000205099273001","cost_id":"7","created_at":"2022-04-19T10:29:55.000Z","id":"1","updated_at":"2022-04-19T10:29:55.000Z"}
+2025-03-03T10:36:22.207Z - account_number_costs: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="Tue Apr 19 2022 20:29:55 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Tue Apr 19 2022 15:29:55 GMT+0500 (Uzbekistan Standard Time)"; Ustun 'updated_at': MySQL="Tue Apr 19 2022 20:29:55 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Tue Apr 19 2022 15:29:55 GMT+0500 (Uzbekistan Standard Time)"
+2025-03-03T10:36:22.208Z - account_number_costs: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="Tue Apr 19 2022 20:29:55 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Tue Apr 19 2022 15:29:55 GMT+0500 (Uzbekistan Standard Time)"; Ustun 'updated_at': MySQL="Tue Apr 19 2022 20:29:55 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Tue Apr 19 2022 15:29:55 GMT+0500 (Uzbekistan Standard Time)"
+2025-03-03T10:36:22.208Z - account_number_costs: Tekshiruv yakunlandi
+2025-03-03T10:36:23.209Z - account_number_input_types: Jadval tekshiruvi boshlandi
+2025-03-03T10:36:23.209Z - account_number_input_types: Tekshiruv boshlandi
+2025-03-03T10:36:23.213Z - account_number_input_types: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-03T10:36:23.213Z - account_number_input_types: Qator soni mos keladi
+2025-03-03T10:36:23.215Z - account_number_input_types: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-03T10:36:23.216Z - account_number_input_types: ID lar mos keladi
+2025-03-03T10:36:23.216Z - account_number_input_types: Namuna yo'q (jadval bo'sh)
+2025-03-03T10:36:23.216Z - account_number_input_types: Jadval mos keladi
+2025-03-03T10:36:23.216Z - account_number_input_types: Tekshiruv yakunlandi
+2025-03-03T10:36:24.218Z - actions: Jadval tekshiruvi boshlandi
+2025-03-03T10:36:24.218Z - actions: Tekshiruv boshlandi
+2025-03-03T10:36:24.221Z - actions: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-03T10:36:24.221Z - actions: Qator soni mos keladi
+2025-03-03T10:36:24.223Z - actions: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:36:24.223Z - actions: ID lar mos keladi
+2025-03-03T10:36:24.227Z - actions: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:36:24.227Z - actions: Qator ID=1 - MySQL: {"id":1,"title":"add","created_at":"2021-02-05T13:45:34.000Z","updated_at":"2021-02-05T13:45:34.000Z"}
+2025-03-03T10:36:24.228Z - actions: Qator ID=1 - PostgreSQL: {"created_at":"2021-02-05T08:45:34.000Z","id":"1","title":"add","updated_at":"2021-02-05T08:45:34.000Z"}
+2025-03-03T10:36:24.228Z - actions: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="Fri Feb 05 2021 18:45:34 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Fri Feb 05 2021 13:45:34 GMT+0500 (Uzbekistan Standard Time)"; Ustun 'updated_at': MySQL="Fri Feb 05 2021 18:45:34 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Fri Feb 05 2021 13:45:34 GMT+0500 (Uzbekistan Standard Time)"
+2025-03-03T10:36:24.228Z - actions: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="Fri Feb 05 2021 18:45:34 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Fri Feb 05 2021 13:45:34 GMT+0500 (Uzbekistan Standard Time)"; Ustun 'updated_at': MySQL="Fri Feb 05 2021 18:45:34 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Fri Feb 05 2021 13:45:34 GMT+0500 (Uzbekistan Standard Time)"
+2025-03-03T10:36:24.228Z - actions: Tekshiruv yakunlandi
+2025-03-03T10:36:25.230Z - additional_functions: Jadval tekshiruvi boshlandi
+2025-03-03T10:36:25.230Z - additional_functions: Tekshiruv boshlandi
+2025-03-03T10:36:25.232Z - additional_functions: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-03T10:36:25.233Z - additional_functions: Qator soni mos keladi
+2025-03-03T10:36:25.234Z - additional_functions: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:36:25.235Z - additional_functions: ID lar mos keladi
+2025-03-03T10:36:25.238Z - additional_functions: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:36:25.238Z - additional_functions: Namuna mos keladi
+2025-03-03T10:36:25.238Z - additional_functions: Jadval mos keladi
+2025-03-03T10:36:25.238Z - additional_functions: Tekshiruv yakunlandi
+2025-03-03T10:36:26.240Z - additionals: Jadval tekshiruvi boshlandi
+2025-03-03T10:36:26.240Z - additionals: Tekshiruv boshlandi
+2025-03-03T10:36:26.243Z - additionals: MySQL qator soni - 4, PostgreSQL qator soni - 4
+2025-03-03T10:36:26.243Z - additionals: Qator soni mos keladi
+2025-03-03T10:36:26.245Z - additionals: ID lar tekshirildi - MySQL: 4, PostgreSQL: 4
+2025-03-03T10:36:26.245Z - additionals: ID lar mos keladi
+2025-03-03T10:36:26.249Z - additionals: Namuna qatorlari - MySQL: 4, PostgreSQL: 4
+2025-03-03T10:36:26.249Z - additionals: Qator ID=1 - MySQL: {"id":1,"title":"Фойда учун (пул киматида)","type":"summa","active":0,"created_at":"2021-08-15T15:05:46.000Z","updated_at":"2021-08-15T15:05:46.000Z","raise_type":1,"main_organization_id":1}
+2025-03-03T10:36:26.249Z - additionals: Qator ID=1 - PostgreSQL: {"active":"0","created_at":"2021-08-15T10:05:46.000Z","id":"1","main_organization_id":"1","raise_type":1,"title":"Фойда учун (пул киматида)","type":"summa","updated_at":"2021-08-15T10:05:46.000Z"}
+2025-03-03T10:36:26.250Z - additionals: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="Sun Aug 15 2021 20:05:46 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Sun Aug 15 2021 15:05:46 GMT+0500 (Uzbekistan Standard Time)"; Ustun 'updated_at': MySQL="Sun Aug 15 2021 20:05:46 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Sun Aug 15 2021 15:05:46 GMT+0500 (Uzbekistan Standard Time)"
+2025-03-03T10:36:26.250Z - additionals: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="Sun Aug 15 2021 20:05:46 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Sun Aug 15 2021 15:05:46 GMT+0500 (Uzbekistan Standard Time)"; Ustun 'updated_at': MySQL="Sun Aug 15 2021 20:05:46 GMT+0500 (Uzbekistan Standard Time)", PostgreSQL="Sun Aug 15 2021 15:05:46 GMT+0500 (Uzbekistan Standard Time)"
+2025-03-03T10:36:26.250Z - additionals: Tekshiruv yakunlandi
+2025-03-03T10:36:27.251Z - agent_groups: Jadval tekshiruvi boshlandi
+2025-03-03T10:36:27.252Z - agent_groups: Tekshiruv boshlandi
+2025-03-03T10:36:27.254Z - agent_groups: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-03T10:36:27.254Z - agent_groups: Qator soni mos keladi
+2025-03-03T10:36:27.256Z - agent_groups: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-03T10:36:27.256Z - agent_groups: ID lar mos keladi
+2025-03-03T10:36:27.256Z - agent_groups: Namuna yo'q (jadval bo'sh)
+2025-03-03T10:36:27.257Z - agent_groups: Jadval mos keladi
+2025-03-03T10:36:27.257Z - agent_groups: Tekshiruv yakunlandi
+2025-03-03T10:40:36.438Z - Umumiy tekshiruv boshlandi
+2025-03-03T10:40:36.500Z - MySQL foreign key soni: 25, PostgreSQL foreign key soni: 25
+2025-03-03T10:40:36.509Z - Jadval soni mos keladi
+2025-03-03T10:40:36.509Z - access_modifier_rules: Jadval tekshiruvi boshlandi
+2025-03-03T10:40:36.510Z - access_modifier_rules: Tekshiruv boshlandi
+2025-03-03T10:40:36.512Z - access_modifier_rules: MySQL qator soni - 595, PostgreSQL qator soni - 595
+2025-03-03T10:40:36.513Z - access_modifier_rules: Qator soni mos keladi
+2025-03-03T10:40:36.519Z - access_modifier_rules: ID lar tekshirildi - MySQL: 595, PostgreSQL: 595
+2025-03-03T10:40:36.519Z - access_modifier_rules: ID lar mos keladi
+2025-03-03T10:40:36.524Z - access_modifier_rules: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:40:36.525Z - access_modifier_rules: Xatolik yuz berdi: Invalid time value
+2025-03-03T10:40:36.525Z - access_modifier_rules: Jadval mos emas - Sabab: Xatolik yuz berdi: Invalid time value
+2025-03-03T10:40:36.525Z - access_modifier_rules: Tekshiruv yakunlandi
+2025-03-03T10:40:37.526Z - access_modifiers: Jadval tekshiruvi boshlandi
+2025-03-03T10:40:37.526Z - access_modifiers: Tekshiruv boshlandi
+2025-03-03T10:40:37.528Z - access_modifiers: MySQL qator soni - 22, PostgreSQL qator soni - 22
+2025-03-03T10:40:37.528Z - access_modifiers: Qator soni mos keladi
+2025-03-03T10:40:37.530Z - access_modifiers: ID lar tekshirildi - MySQL: 22, PostgreSQL: 22
+2025-03-03T10:40:37.530Z - access_modifiers: ID lar mos keladi
+2025-03-03T10:40:37.533Z - access_modifiers: Namuna qatorlari - MySQL: 22, PostgreSQL: 22
+2025-03-03T10:40:37.533Z - access_modifiers: Xatolik yuz berdi: Invalid time value
+2025-03-03T10:40:37.534Z - access_modifiers: Jadval mos emas - Sabab: Xatolik yuz berdi: Invalid time value
+2025-03-03T10:40:37.534Z - access_modifiers: Tekshiruv yakunlandi
+2025-03-03T10:40:38.534Z - account_number_costs: Jadval tekshiruvi boshlandi
+2025-03-03T10:40:38.534Z - account_number_costs: Tekshiruv boshlandi
+2025-03-03T10:40:38.539Z - account_number_costs: MySQL qator soni - 644, PostgreSQL qator soni - 644
+2025-03-03T10:40:38.539Z - account_number_costs: Qator soni mos keladi
+2025-03-03T10:40:38.550Z - account_number_costs: ID lar tekshirildi - MySQL: 644, PostgreSQL: 644
+2025-03-03T10:40:38.551Z - account_number_costs: ID lar mos keladi
+2025-03-03T10:40:38.558Z - account_number_costs: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:40:38.558Z - account_number_costs: Xatolik yuz berdi: Invalid time value
+2025-03-03T10:40:38.558Z - account_number_costs: Jadval mos emas - Sabab: Xatolik yuz berdi: Invalid time value
+2025-03-03T10:40:38.558Z - account_number_costs: Tekshiruv yakunlandi
+2025-03-03T10:40:39.560Z - account_number_input_types: Jadval tekshiruvi boshlandi
+2025-03-03T10:40:39.560Z - account_number_input_types: Tekshiruv boshlandi
+2025-03-03T10:40:39.563Z - account_number_input_types: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-03T10:40:39.563Z - account_number_input_types: Qator soni mos keladi
+2025-03-03T10:40:39.565Z - account_number_input_types: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-03T10:40:39.565Z - account_number_input_types: ID lar mos keladi
+2025-03-03T10:40:39.565Z - account_number_input_types: Namuna yo'q (jadval bo'sh)
+2025-03-03T10:40:39.565Z - account_number_input_types: Jadval mos keladi
+2025-03-03T10:40:39.565Z - account_number_input_types: Tekshiruv yakunlandi
+2025-03-03T10:40:40.567Z - actions: Jadval tekshiruvi boshlandi
+2025-03-03T10:40:40.567Z - actions: Tekshiruv boshlandi
+2025-03-03T10:40:40.570Z - actions: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-03T10:40:40.570Z - actions: Qator soni mos keladi
+2025-03-03T10:40:40.571Z - actions: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:40:40.571Z - actions: ID lar mos keladi
+2025-03-03T10:40:40.573Z - actions: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:40:40.574Z - actions: Xatolik yuz berdi: Invalid time value
+2025-03-03T10:40:40.574Z - actions: Jadval mos emas - Sabab: Xatolik yuz berdi: Invalid time value
+2025-03-03T10:40:40.574Z - actions: Tekshiruv yakunlandi
+2025-03-03T10:40:41.575Z - additional_functions: Jadval tekshiruvi boshlandi
+2025-03-03T10:40:41.575Z - additional_functions: Tekshiruv boshlandi
+2025-03-03T10:40:41.578Z - additional_functions: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-03T10:40:41.578Z - additional_functions: Qator soni mos keladi
+2025-03-03T10:40:41.580Z - additional_functions: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:40:41.580Z - additional_functions: ID lar mos keladi
+2025-03-03T10:40:41.583Z - additional_functions: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:40:41.583Z - additional_functions: Xatolik yuz berdi: Invalid time value
+2025-03-03T10:40:41.583Z - additional_functions: Jadval mos emas - Sabab: Xatolik yuz berdi: Invalid time value
+2025-03-03T10:40:41.583Z - additional_functions: Tekshiruv yakunlandi
+2025-03-03T10:40:42.584Z - additionals: Jadval tekshiruvi boshlandi
+2025-03-03T10:40:42.584Z - additionals: Tekshiruv boshlandi
+2025-03-03T10:40:42.587Z - additionals: MySQL qator soni - 4, PostgreSQL qator soni - 4
+2025-03-03T10:40:42.587Z - additionals: Qator soni mos keladi
+2025-03-03T10:40:42.588Z - additionals: ID lar tekshirildi - MySQL: 4, PostgreSQL: 4
+2025-03-03T10:40:42.588Z - additionals: ID lar mos keladi
+2025-03-03T10:40:42.591Z - additionals: Namuna qatorlari - MySQL: 4, PostgreSQL: 4
+2025-03-03T10:40:42.591Z - additionals: Xatolik yuz berdi: Invalid time value
+2025-03-03T10:40:42.591Z - additionals: Jadval mos emas - Sabab: Xatolik yuz berdi: Invalid time value
+2025-03-03T10:40:42.591Z - additionals: Tekshiruv yakunlandi
+2025-03-03T10:40:43.593Z - agent_groups: Jadval tekshiruvi boshlandi
+2025-03-03T10:40:43.593Z - agent_groups: Tekshiruv boshlandi
+2025-03-03T10:40:43.596Z - agent_groups: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-03T10:40:43.596Z - agent_groups: Qator soni mos keladi
+2025-03-03T10:40:43.598Z - agent_groups: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-03T10:40:43.599Z - agent_groups: ID lar mos keladi
+2025-03-03T10:40:43.599Z - agent_groups: Namuna yo'q (jadval bo'sh)
+2025-03-03T10:40:43.599Z - agent_groups: Jadval mos keladi
+2025-03-03T10:40:43.599Z - agent_groups: Tekshiruv yakunlandi
+2025-03-03T10:40:44.600Z - agent_has_workplaces: Jadval tekshiruvi boshlandi
+2025-03-03T10:40:44.600Z - agent_has_workplaces: Tekshiruv boshlandi
+2025-03-03T10:40:44.603Z - agent_has_workplaces: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-03T10:40:44.603Z - agent_has_workplaces: Qator soni mos keladi
+2025-03-03T10:40:44.605Z - agent_has_workplaces: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-03T10:40:44.605Z - agent_has_workplaces: ID lar mos keladi
+2025-03-03T10:40:44.608Z - agent_has_workplaces: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-03T10:40:44.608Z - agent_has_workplaces: Qator ID=1 - MySQL: {"id":1,"agent_id":1,"workplace_id":1,"created_at":"2022-12-16T06:00:09.000Z","updated_at":"2022-12-16T06:00:09.000Z"}
+2025-03-03T10:40:44.608Z - agent_has_workplaces: Qator ID=1 - PostgreSQL: {"agent_id":"1","created_at":"2022-12-16T01:00:09.000Z","id":"1","updated_at":"2022-12-16T01:00:09.000Z","workplace_id":"1"}
+2025-03-03T10:40:44.608Z - agent_has_workplaces: Namuna ma'lumotlari farq qiladi: Ustun 'agent_id': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"; Ustun 'created_at': MySQL="2022-12-16 06:00:09", PostgreSQL="2022-12-16 01:00:09"; Ustun 'id': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"; Ustun 'updated_at': MySQL="2022-12-16 06:00:09", PostgreSQL="2022-12-16 01:00:09"; Ustun 'workplace_id': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"
+2025-03-03T10:40:44.609Z - agent_has_workplaces: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi: Ustun 'agent_id': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"; Ustun 'created_at': MySQL="2022-12-16 06:00:09", PostgreSQL="2022-12-16 01:00:09"; Ustun 'id': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"; Ustun 'updated_at': MySQL="2022-12-16 06:00:09", PostgreSQL="2022-12-16 01:00:09"; Ustun 'workplace_id': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"
+2025-03-03T10:40:44.609Z - agent_has_workplaces: Tekshiruv yakunlandi
+2025-03-03T10:40:45.610Z - agent_plan_has_partners: Jadval tekshiruvi boshlandi
+2025-03-03T10:40:45.610Z - agent_plan_has_partners: Tekshiruv boshlandi
+2025-03-03T10:40:45.616Z - agent_plan_has_partners: MySQL qator soni - 43, PostgreSQL qator soni - 43
+2025-03-03T10:40:45.616Z - agent_plan_has_partners: Qator soni mos keladi
+2025-03-03T10:40:45.619Z - agent_plan_has_partners: ID lar tekshirildi - MySQL: 43, PostgreSQL: 43
+2025-03-03T10:40:45.619Z - agent_plan_has_partners: ID lar mos keladi
+2025-03-03T10:40:45.625Z - agent_plan_has_partners: Namuna qatorlari - MySQL: 43, PostgreSQL: 43
+2025-03-03T10:40:45.626Z - agent_plan_has_partners: Qator ID=1 - MySQL: {"id":1,"agent_plan_id":1,"partner_id":384,"is_done":0,"created_at":"2022-12-16T06:00:46.000Z","updated_at":"2022-12-16T06:00:46.000Z"}
+2025-03-03T10:40:45.626Z - agent_plan_has_partners: Qator ID=1 - PostgreSQL: {"agent_plan_id":"1","created_at":"2022-12-16T01:00:46.000Z","id":"1","is_done":"0","partner_id":"384","updated_at":"2022-12-16T01:00:46.000Z"}
+2025-03-03T10:40:45.626Z - agent_plan_has_partners: Namuna ma'lumotlari farq qiladi: Ustun 'agent_plan_id': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"; Ustun 'created_at': MySQL="2022-12-16 06:00:46", PostgreSQL="2022-12-16 01:00:46"; Ustun 'id': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"; Ustun 'is_done': MySQL="1970-01-01 00:00:00", PostgreSQL="1999-12-31 19:00:00"; Ustun 'partner_id': MySQL="1970-01-01 00:00:00", PostgreSQL="0383-12-31 19:22:49"; Ustun 'updated_at': MySQL="2022-12-16 06:00:46", PostgreSQL="2022-12-16 01:00:46"
+2025-03-03T10:40:45.627Z - agent_plan_has_partners: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi: Ustun 'agent_plan_id': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"; Ustun 'created_at': MySQL="2022-12-16 06:00:46", PostgreSQL="2022-12-16 01:00:46"; Ustun 'id': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"; Ustun 'is_done': MySQL="1970-01-01 00:00:00", PostgreSQL="1999-12-31 19:00:00"; Ustun 'partner_id': MySQL="1970-01-01 00:00:00", PostgreSQL="0383-12-31 19:22:49"; Ustun 'updated_at': MySQL="2022-12-16 06:00:46", PostgreSQL="2022-12-16 01:00:46"
+2025-03-03T10:40:45.627Z - agent_plan_has_partners: Tekshiruv yakunlandi
+2025-03-03T10:40:46.628Z - agent_plan_histories: Jadval tekshiruvi boshlandi
+2025-03-03T10:40:46.629Z - agent_plan_histories: Tekshiruv boshlandi
+2025-03-03T10:40:46.631Z - agent_plan_histories: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-03T10:40:46.631Z - agent_plan_histories: Qator soni mos keladi
+2025-03-03T10:40:46.634Z - agent_plan_histories: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-03T10:40:46.634Z - agent_plan_histories: ID lar mos keladi
+2025-03-03T10:40:46.634Z - agent_plan_histories: Namuna yo'q (jadval bo'sh)
+2025-03-03T10:40:46.634Z - agent_plan_histories: Jadval mos keladi
+2025-03-03T10:40:46.634Z - agent_plan_histories: Tekshiruv yakunlandi
+2025-03-03T10:43:42.346Z - Umumiy tekshiruv boshlandi
+2025-03-03T10:43:42.406Z - MySQL foreign key soni: 25, PostgreSQL foreign key soni: 25
+2025-03-03T10:43:42.413Z - Jadval soni mos keladi
+2025-03-03T10:43:42.413Z - access_modifier_rules: Jadval tekshiruvi boshlandi
+2025-03-03T10:43:42.414Z - access_modifier_rules: Tekshiruv boshlandi
+2025-03-03T10:43:42.416Z - access_modifier_rules: MySQL qator soni - 595, PostgreSQL qator soni - 595
+2025-03-03T10:43:42.416Z - access_modifier_rules: Qator soni mos keladi
+2025-03-03T10:43:42.421Z - access_modifier_rules: ID lar tekshirildi - MySQL: 595, PostgreSQL: 595
+2025-03-03T10:43:42.422Z - access_modifier_rules: ID lar mos keladi
+2025-03-03T10:43:42.426Z - access_modifier_rules: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:43:42.427Z - access_modifier_rules: Qator ID=7 - MySQL: {"id":7,"access_modifier_id":1,"rule_id":13,"created_at":"2022-03-10T09:48:29.000Z","updated_at":"2022-03-10T09:48:29.000Z"}
+2025-03-03T10:43:42.427Z - access_modifier_rules: Qator ID=7 - PostgreSQL: {"access_modifier_id":"1","created_at":"2022-03-10T04:48:29.000Z","id":"7","rule_id":"13","updated_at":"2022-03-10T04:48:29.000Z"}
+2025-03-03T10:43:42.427Z - access_modifier_rules: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="2022-03-10 09:48:29", PostgreSQL="2022-03-10 04:48:29"; Ustun 'updated_at': MySQL="2022-03-10 09:48:29", PostgreSQL="2022-03-10 04:48:29"
+2025-03-03T10:43:42.427Z - access_modifier_rules: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="2022-03-10 09:48:29", PostgreSQL="2022-03-10 04:48:29"; Ustun 'updated_at': MySQL="2022-03-10 09:48:29", PostgreSQL="2022-03-10 04:48:29"
+2025-03-03T10:43:42.428Z - access_modifier_rules: Tekshiruv yakunlandi
+2025-03-03T10:43:43.429Z - access_modifiers: Jadval tekshiruvi boshlandi
+2025-03-03T10:43:43.429Z - access_modifiers: Tekshiruv boshlandi
+2025-03-03T10:43:43.432Z - access_modifiers: MySQL qator soni - 22, PostgreSQL qator soni - 22
+2025-03-03T10:43:43.433Z - access_modifiers: Qator soni mos keladi
+2025-03-03T10:43:43.435Z - access_modifiers: ID lar tekshirildi - MySQL: 22, PostgreSQL: 22
+2025-03-03T10:43:43.435Z - access_modifiers: ID lar mos keladi
+2025-03-03T10:43:43.438Z - access_modifiers: Namuna qatorlari - MySQL: 22, PostgreSQL: 22
+2025-03-03T10:43:43.439Z - access_modifiers: Qator ID=1 - MySQL: {"id":1,"title":"Омбор бошқарувчиси","active":1,"created_at":"2022-03-10T09:48:29.000Z","updated_at":"2022-03-10T09:48:29.000Z"}
+2025-03-03T10:43:43.439Z - access_modifiers: Qator ID=1 - PostgreSQL: {"active":"1","created_at":"2022-03-10T04:48:29.000Z","id":"1","title":"Омбор бошқарувчиси","updated_at":"2022-03-10T04:48:29.000Z"}
+2025-03-03T10:43:43.439Z - access_modifiers: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="2022-03-10 09:48:29", PostgreSQL="2022-03-10 04:48:29"; Ustun 'updated_at': MySQL="2022-03-10 09:48:29", PostgreSQL="2022-03-10 04:48:29"
+2025-03-03T10:43:43.439Z - access_modifiers: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="2022-03-10 09:48:29", PostgreSQL="2022-03-10 04:48:29"; Ustun 'updated_at': MySQL="2022-03-10 09:48:29", PostgreSQL="2022-03-10 04:48:29"
+2025-03-03T10:43:43.439Z - access_modifiers: Tekshiruv yakunlandi
+2025-03-03T10:43:44.440Z - account_number_costs: Jadval tekshiruvi boshlandi
+2025-03-03T10:43:44.441Z - account_number_costs: Tekshiruv boshlandi
+2025-03-03T10:43:44.445Z - account_number_costs: MySQL qator soni - 644, PostgreSQL qator soni - 644
+2025-03-03T10:43:44.445Z - account_number_costs: Qator soni mos keladi
+2025-03-03T10:43:44.453Z - account_number_costs: ID lar tekshirildi - MySQL: 644, PostgreSQL: 644
+2025-03-03T10:43:44.453Z - account_number_costs: ID lar mos keladi
+2025-03-03T10:43:44.462Z - account_number_costs: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-03T10:43:44.463Z - account_number_costs: Qator ID=1 - MySQL: {"id":1,"cost_id":7,"account_number":"16401000205099273001","created_at":"2022-04-19T15:29:55.000Z","updated_at":"2022-04-19T15:29:55.000Z"}
+2025-03-03T10:43:44.463Z - account_number_costs: Qator ID=1 - PostgreSQL: {"account_number":"16401000205099273001","cost_id":"7","created_at":"2022-04-19T10:29:55.000Z","id":"1","updated_at":"2022-04-19T10:29:55.000Z"}
+2025-03-03T10:43:44.463Z - account_number_costs: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="2022-04-19 15:29:55", PostgreSQL="2022-04-19 10:29:55"; Ustun 'updated_at': MySQL="2022-04-19 15:29:55", PostgreSQL="2022-04-19 10:29:55"
+2025-03-03T10:43:44.464Z - account_number_costs: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="2022-04-19 15:29:55", PostgreSQL="2022-04-19 10:29:55"; Ustun 'updated_at': MySQL="2022-04-19 15:29:55", PostgreSQL="2022-04-19 10:29:55"
+2025-03-03T10:43:44.464Z - account_number_costs: Tekshiruv yakunlandi
+2025-03-03T10:43:45.465Z - account_number_input_types: Jadval tekshiruvi boshlandi
+2025-03-03T10:43:45.465Z - account_number_input_types: Tekshiruv boshlandi
+2025-03-03T10:43:45.468Z - account_number_input_types: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-03T10:43:45.468Z - account_number_input_types: Qator soni mos keladi
+2025-03-03T10:43:45.470Z - account_number_input_types: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-03T10:43:45.470Z - account_number_input_types: ID lar mos keladi
+2025-03-03T10:43:45.470Z - account_number_input_types: Namuna yo'q (jadval bo'sh)
+2025-03-03T10:43:45.470Z - account_number_input_types: Jadval mos keladi
+2025-03-03T10:43:45.471Z - account_number_input_types: Tekshiruv yakunlandi
+2025-03-03T10:43:46.472Z - actions: Jadval tekshiruvi boshlandi
+2025-03-03T10:43:46.472Z - actions: Tekshiruv boshlandi
+2025-03-03T10:43:46.476Z - actions: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-03T10:43:46.476Z - actions: Qator soni mos keladi
+2025-03-03T10:43:46.479Z - actions: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:43:46.479Z - actions: ID lar mos keladi
+2025-03-03T10:43:46.482Z - actions: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-03T10:43:46.482Z - actions: Qator ID=1 - MySQL: {"id":1,"title":"add","created_at":"2021-02-05T13:45:34.000Z","updated_at":"2021-02-05T13:45:34.000Z"}
+2025-03-03T10:43:46.483Z - actions: Qator ID=1 - PostgreSQL: {"created_at":"2021-02-05T08:45:34.000Z","id":"1","title":"add","updated_at":"2021-02-05T08:45:34.000Z"}
+2025-03-03T10:43:46.483Z - actions: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="2021-02-05 13:45:34", PostgreSQL="2021-02-05 08:45:34"; Ustun 'updated_at': MySQL="2021-02-05 13:45:34", PostgreSQL="2021-02-05 08:45:34"
+2025-03-03T10:43:46.483Z - actions: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi: Ustun 'created_at': MySQL="2021-02-05 13:45:34", PostgreSQL="2021-02-05 08:45:34"; Ustun 'updated_at': MySQL="2021-02-05 13:45:34", PostgreSQL="2021-02-05 08:45:34"
+2025-03-03T10:43:46.483Z - actions: Tekshiruv yakunlandi
+2025-03-04T05:33:23.319Z - Umumiy tekshiruv boshlandi
+2025-03-04T05:33:23.377Z - MySQL foreign key soni: 25, PostgreSQL foreign key soni: 25
+2025-03-04T05:33:23.385Z - Jadval soni mos keladi
+2025-03-04T05:33:23.386Z - access_modifier_rules: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:23.386Z - access_modifier_rules: Tekshiruv boshlandi
+2025-03-04T05:33:23.388Z - access_modifier_rules: MySQL qator soni - 595, PostgreSQL qator soni - 595
+2025-03-04T05:33:23.388Z - access_modifier_rules: Qator soni mos keladi
+2025-03-04T05:33:23.393Z - access_modifier_rules: ID lar tekshirildi - MySQL: 595, PostgreSQL: 595
+2025-03-04T05:33:23.394Z - access_modifier_rules: ID lar mos keladi
+2025-03-04T05:33:23.397Z - access_modifier_rules: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:23.398Z - access_modifier_rules: Namuna mos keladi
+2025-03-04T05:33:23.399Z - access_modifier_rules: Jadval mos keladi
+2025-03-04T05:33:23.399Z - access_modifier_rules: Tekshiruv yakunlandi
+2025-03-04T05:33:24.401Z - access_modifiers: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:24.401Z - access_modifiers: Tekshiruv boshlandi
+2025-03-04T05:33:24.404Z - access_modifiers: MySQL qator soni - 22, PostgreSQL qator soni - 22
+2025-03-04T05:33:24.405Z - access_modifiers: Qator soni mos keladi
+2025-03-04T05:33:24.408Z - access_modifiers: ID lar tekshirildi - MySQL: 22, PostgreSQL: 22
+2025-03-04T05:33:24.408Z - access_modifiers: ID lar mos keladi
+2025-03-04T05:33:24.414Z - access_modifiers: Namuna qatorlari - MySQL: 22, PostgreSQL: 22
+2025-03-04T05:33:24.415Z - access_modifiers: Namuna mos keladi
+2025-03-04T05:33:24.415Z - access_modifiers: Jadval mos keladi
+2025-03-04T05:33:24.415Z - access_modifiers: Tekshiruv yakunlandi
+2025-03-04T05:33:25.417Z - account_number_costs: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:25.418Z - account_number_costs: Tekshiruv boshlandi
+2025-03-04T05:33:25.421Z - account_number_costs: MySQL qator soni - 644, PostgreSQL qator soni - 644
+2025-03-04T05:33:25.421Z - account_number_costs: Qator soni mos keladi
+2025-03-04T05:33:25.428Z - account_number_costs: ID lar tekshirildi - MySQL: 644, PostgreSQL: 644
+2025-03-04T05:33:25.429Z - account_number_costs: ID lar mos keladi
+2025-03-04T05:33:25.434Z - account_number_costs: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:25.436Z - account_number_costs: Namuna mos keladi
+2025-03-04T05:33:25.436Z - account_number_costs: Jadval mos keladi
+2025-03-04T05:33:25.436Z - account_number_costs: Tekshiruv yakunlandi
+2025-03-04T05:33:26.438Z - account_number_input_types: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:26.438Z - account_number_input_types: Tekshiruv boshlandi
+2025-03-04T05:33:26.441Z - account_number_input_types: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:33:26.441Z - account_number_input_types: Qator soni mos keladi
+2025-03-04T05:33:26.443Z - account_number_input_types: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:33:26.443Z - account_number_input_types: ID lar mos keladi
+2025-03-04T05:33:26.443Z - account_number_input_types: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:33:26.443Z - account_number_input_types: Jadval mos keladi
+2025-03-04T05:33:26.443Z - account_number_input_types: Tekshiruv yakunlandi
+2025-03-04T05:33:27.444Z - actions: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:27.445Z - actions: Tekshiruv boshlandi
+2025-03-04T05:33:27.448Z - actions: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-04T05:33:27.448Z - actions: Qator soni mos keladi
+2025-03-04T05:33:27.450Z - actions: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:33:27.451Z - actions: ID lar mos keladi
+2025-03-04T05:33:27.454Z - actions: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:33:27.454Z - actions: Namuna mos keladi
+2025-03-04T05:33:27.454Z - actions: Jadval mos keladi
+2025-03-04T05:33:27.454Z - actions: Tekshiruv yakunlandi
+2025-03-04T05:33:28.456Z - additional_functions: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:28.456Z - additional_functions: Tekshiruv boshlandi
+2025-03-04T05:33:28.458Z - additional_functions: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-04T05:33:28.459Z - additional_functions: Qator soni mos keladi
+2025-03-04T05:33:28.461Z - additional_functions: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:33:28.461Z - additional_functions: ID lar mos keladi
+2025-03-04T05:33:28.464Z - additional_functions: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:33:28.465Z - additional_functions: Namuna mos keladi
+2025-03-04T05:33:28.465Z - additional_functions: Jadval mos keladi
+2025-03-04T05:33:28.465Z - additional_functions: Tekshiruv yakunlandi
+2025-03-04T05:33:29.466Z - additionals: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:29.466Z - additionals: Tekshiruv boshlandi
+2025-03-04T05:33:29.469Z - additionals: MySQL qator soni - 4, PostgreSQL qator soni - 4
+2025-03-04T05:33:29.470Z - additionals: Qator soni mos keladi
+2025-03-04T05:33:29.472Z - additionals: ID lar tekshirildi - MySQL: 4, PostgreSQL: 4
+2025-03-04T05:33:29.472Z - additionals: ID lar mos keladi
+2025-03-04T05:33:29.475Z - additionals: Namuna qatorlari - MySQL: 4, PostgreSQL: 4
+2025-03-04T05:33:29.475Z - additionals: Namuna mos keladi
+2025-03-04T05:33:29.476Z - additionals: Jadval mos keladi
+2025-03-04T05:33:29.476Z - additionals: Tekshiruv yakunlandi
+2025-03-04T05:33:30.476Z - agent_groups: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:30.476Z - agent_groups: Tekshiruv boshlandi
+2025-03-04T05:33:30.479Z - agent_groups: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:33:30.479Z - agent_groups: Qator soni mos keladi
+2025-03-04T05:33:30.481Z - agent_groups: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:33:30.482Z - agent_groups: ID lar mos keladi
+2025-03-04T05:33:30.482Z - agent_groups: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:33:30.482Z - agent_groups: Jadval mos keladi
+2025-03-04T05:33:30.482Z - agent_groups: Tekshiruv yakunlandi
+2025-03-04T05:33:31.482Z - agent_has_workplaces: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:31.483Z - agent_has_workplaces: Tekshiruv boshlandi
+2025-03-04T05:33:31.486Z - agent_has_workplaces: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:33:31.487Z - agent_has_workplaces: Qator soni mos keladi
+2025-03-04T05:33:31.489Z - agent_has_workplaces: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:33:31.490Z - agent_has_workplaces: ID lar mos keladi
+2025-03-04T05:33:31.492Z - agent_has_workplaces: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:33:31.492Z - agent_has_workplaces: Namuna mos keladi
+2025-03-04T05:33:31.492Z - agent_has_workplaces: Jadval mos keladi
+2025-03-04T05:33:31.492Z - agent_has_workplaces: Tekshiruv yakunlandi
+2025-03-04T05:33:32.493Z - agent_plan_has_partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:32.493Z - agent_plan_has_partners: Tekshiruv boshlandi
+2025-03-04T05:33:32.497Z - agent_plan_has_partners: MySQL qator soni - 43, PostgreSQL qator soni - 43
+2025-03-04T05:33:32.497Z - agent_plan_has_partners: Qator soni mos keladi
+2025-03-04T05:33:32.500Z - agent_plan_has_partners: ID lar tekshirildi - MySQL: 43, PostgreSQL: 43
+2025-03-04T05:33:32.500Z - agent_plan_has_partners: ID lar mos keladi
+2025-03-04T05:33:32.505Z - agent_plan_has_partners: Namuna qatorlari - MySQL: 43, PostgreSQL: 43
+2025-03-04T05:33:32.507Z - agent_plan_has_partners: Namuna mos keladi
+2025-03-04T05:33:32.507Z - agent_plan_has_partners: Jadval mos keladi
+2025-03-04T05:33:32.507Z - agent_plan_has_partners: Tekshiruv yakunlandi
+2025-03-04T05:33:33.509Z - agent_plan_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:33.509Z - agent_plan_histories: Tekshiruv boshlandi
+2025-03-04T05:33:33.511Z - agent_plan_histories: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:33:33.512Z - agent_plan_histories: Qator soni mos keladi
+2025-03-04T05:33:33.514Z - agent_plan_histories: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:33:33.514Z - agent_plan_histories: ID lar mos keladi
+2025-03-04T05:33:33.514Z - agent_plan_histories: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:33:33.514Z - agent_plan_histories: Jadval mos keladi
+2025-03-04T05:33:33.514Z - agent_plan_histories: Tekshiruv yakunlandi
+2025-03-04T05:33:34.516Z - agent_plans: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:34.516Z - agent_plans: Tekshiruv boshlandi
+2025-03-04T05:33:34.519Z - agent_plans: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-04T05:33:34.520Z - agent_plans: Qator soni mos keladi
+2025-03-04T05:33:34.522Z - agent_plans: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:33:34.522Z - agent_plans: ID lar mos keladi
+2025-03-04T05:33:34.525Z - agent_plans: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:33:34.526Z - agent_plans: Namuna mos keladi
+2025-03-04T05:33:34.526Z - agent_plans: Jadval mos keladi
+2025-03-04T05:33:34.526Z - agent_plans: Tekshiruv yakunlandi
+2025-03-04T05:33:35.528Z - agents: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:35.528Z - agents: Tekshiruv boshlandi
+2025-03-04T05:33:35.531Z - agents: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:33:35.531Z - agents: Qator soni mos keladi
+2025-03-04T05:33:35.532Z - agents: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:33:35.533Z - agents: ID lar mos keladi
+2025-03-04T05:33:35.536Z - agents: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:33:35.536Z - agents: Namuna mos keladi
+2025-03-04T05:33:35.536Z - agents: Jadval mos keladi
+2025-03-04T05:33:35.536Z - agents: Tekshiruv yakunlandi
+2025-03-04T05:33:36.538Z - apps: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:36.538Z - apps: Tekshiruv boshlandi
+2025-03-04T05:33:36.541Z - apps: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:33:36.541Z - apps: Qator soni mos keladi
+2025-03-04T05:33:36.543Z - apps: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:33:36.543Z - apps: ID lar mos keladi
+2025-03-04T05:33:36.543Z - apps: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:33:36.543Z - apps: Jadval mos keladi
+2025-03-04T05:33:36.543Z - apps: Tekshiruv yakunlandi
+2025-03-04T05:33:37.545Z - banks: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:37.546Z - banks: Tekshiruv boshlandi
+2025-03-04T05:33:37.548Z - banks: MySQL qator soni - 100, PostgreSQL qator soni - 100
+2025-03-04T05:33:37.548Z - banks: Qator soni mos keladi
+2025-03-04T05:33:37.551Z - banks: ID lar tekshirildi - MySQL: 100, PostgreSQL: 100
+2025-03-04T05:33:37.552Z - banks: ID lar mos keladi
+2025-03-04T05:33:37.559Z - banks: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:37.560Z - banks: Namuna mos keladi
+2025-03-04T05:33:37.561Z - banks: Jadval mos keladi
+2025-03-04T05:33:37.562Z - banks: Tekshiruv yakunlandi
+2025-03-04T05:33:38.564Z - bonus_condition_has_partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:38.564Z - bonus_condition_has_partners: Tekshiruv boshlandi
+2025-03-04T05:33:38.568Z - bonus_condition_has_partners: MySQL qator soni - 2514, PostgreSQL qator soni - 2514
+2025-03-04T05:33:38.568Z - bonus_condition_has_partners: Qator soni mos keladi
+2025-03-04T05:33:38.590Z - bonus_condition_has_partners: ID lar tekshirildi - MySQL: 2514, PostgreSQL: 2514
+2025-03-04T05:33:38.591Z - bonus_condition_has_partners: ID lar mos keladi
+2025-03-04T05:33:38.595Z - bonus_condition_has_partners: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:38.595Z - bonus_condition_has_partners: Namuna mos keladi
+2025-03-04T05:33:38.595Z - bonus_condition_has_partners: Jadval mos keladi
+2025-03-04T05:33:38.595Z - bonus_condition_has_partners: Tekshiruv yakunlandi
+2025-03-04T05:33:39.597Z - bonus_condition_has_repositories: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:39.597Z - bonus_condition_has_repositories: Tekshiruv boshlandi
+2025-03-04T05:33:39.600Z - bonus_condition_has_repositories: MySQL qator soni - 142, PostgreSQL qator soni - 142
+2025-03-04T05:33:39.601Z - bonus_condition_has_repositories: Qator soni mos keladi
+2025-03-04T05:33:39.603Z - bonus_condition_has_repositories: ID lar tekshirildi - MySQL: 142, PostgreSQL: 142
+2025-03-04T05:33:39.603Z - bonus_condition_has_repositories: ID lar mos keladi
+2025-03-04T05:33:39.607Z - bonus_condition_has_repositories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:39.608Z - bonus_condition_has_repositories: Namuna mos keladi
+2025-03-04T05:33:39.608Z - bonus_condition_has_repositories: Jadval mos keladi
+2025-03-04T05:33:39.608Z - bonus_condition_has_repositories: Tekshiruv yakunlandi
+2025-03-04T05:33:40.610Z - bonus_conditions: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:40.610Z - bonus_conditions: Tekshiruv boshlandi
+2025-03-04T05:33:40.613Z - bonus_conditions: MySQL qator soni - 46, PostgreSQL qator soni - 46
+2025-03-04T05:33:40.613Z - bonus_conditions: Qator soni mos keladi
+2025-03-04T05:33:40.616Z - bonus_conditions: ID lar tekshirildi - MySQL: 46, PostgreSQL: 46
+2025-03-04T05:33:40.616Z - bonus_conditions: ID lar mos keladi
+2025-03-04T05:33:40.623Z - bonus_conditions: Namuna qatorlari - MySQL: 46, PostgreSQL: 46
+2025-03-04T05:33:40.625Z - bonus_conditions: Namuna mos keladi
+2025-03-04T05:33:40.625Z - bonus_conditions: Jadval mos keladi
+2025-03-04T05:33:40.625Z - bonus_conditions: Tekshiruv yakunlandi
+2025-03-04T05:33:41.627Z - bonus_products: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:41.627Z - bonus_products: Tekshiruv boshlandi
+2025-03-04T05:33:41.630Z - bonus_products: MySQL qator soni - 203, PostgreSQL qator soni - 203
+2025-03-04T05:33:41.630Z - bonus_products: Qator soni mos keladi
+2025-03-04T05:33:41.633Z - bonus_products: ID lar tekshirildi - MySQL: 203, PostgreSQL: 203
+2025-03-04T05:33:41.633Z - bonus_products: ID lar mos keladi
+2025-03-04T05:33:41.639Z - bonus_products: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:41.640Z - bonus_products: Namuna mos keladi
+2025-03-04T05:33:41.640Z - bonus_products: Jadval mos keladi
+2025-03-04T05:33:41.640Z - bonus_products: Tekshiruv yakunlandi
+2025-03-04T05:33:42.641Z - bonus_products_has_repository_actions: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:42.642Z - bonus_products_has_repository_actions: Tekshiruv boshlandi
+2025-03-04T05:33:42.646Z - bonus_products_has_repository_actions: MySQL qator soni - 1726, PostgreSQL qator soni - 1726
+2025-03-04T05:33:42.647Z - bonus_products_has_repository_actions: Qator soni mos keladi
+2025-03-04T05:33:42.654Z - bonus_products_has_repository_actions: ID lar tekshirildi - MySQL: 1726, PostgreSQL: 1726
+2025-03-04T05:33:42.654Z - bonus_products_has_repository_actions: ID lar mos keladi
+2025-03-04T05:33:42.660Z - bonus_products_has_repository_actions: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:42.661Z - bonus_products_has_repository_actions: Namuna mos keladi
+2025-03-04T05:33:42.662Z - bonus_products_has_repository_actions: Jadval mos keladi
+2025-03-04T05:33:42.662Z - bonus_products_has_repository_actions: Tekshiruv yakunlandi
+2025-03-04T05:33:43.664Z - bonus_sub_conditions: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:43.664Z - bonus_sub_conditions: Tekshiruv boshlandi
+2025-03-04T05:33:43.669Z - bonus_sub_conditions: MySQL qator soni - 359, PostgreSQL qator soni - 359
+2025-03-04T05:33:43.669Z - bonus_sub_conditions: Qator soni mos keladi
+2025-03-04T05:33:43.672Z - bonus_sub_conditions: ID lar tekshirildi - MySQL: 359, PostgreSQL: 359
+2025-03-04T05:33:43.672Z - bonus_sub_conditions: ID lar mos keladi
+2025-03-04T05:33:43.678Z - bonus_sub_conditions: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:43.679Z - bonus_sub_conditions: Namuna mos keladi
+2025-03-04T05:33:43.680Z - bonus_sub_conditions: Jadval mos keladi
+2025-03-04T05:33:43.680Z - bonus_sub_conditions: Tekshiruv yakunlandi
+2025-03-04T05:33:44.682Z - brands: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:44.683Z - brands: Tekshiruv boshlandi
+2025-03-04T05:33:44.687Z - brands: MySQL qator soni - 3067, PostgreSQL qator soni - 3067
+2025-03-04T05:33:44.687Z - brands: Qator soni mos keladi
+2025-03-04T05:33:44.700Z - brands: ID lar tekshirildi - MySQL: 3067, PostgreSQL: 3067
+2025-03-04T05:33:44.701Z - brands: ID lar mos keladi
+2025-03-04T05:33:44.706Z - brands: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:44.707Z - brands: Namuna mos keladi
+2025-03-04T05:33:44.708Z - brands: Jadval mos keladi
+2025-03-04T05:33:44.708Z - brands: Tekshiruv yakunlandi
+2025-03-04T05:33:45.710Z - calculation_comments: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:45.710Z - calculation_comments: Tekshiruv boshlandi
+2025-03-04T05:33:45.713Z - calculation_comments: MySQL qator soni - 1188, PostgreSQL qator soni - 1188
+2025-03-04T05:33:45.714Z - calculation_comments: Qator soni mos keladi
+2025-03-04T05:33:45.717Z - calculation_comments: ID lar tekshirildi - MySQL: 1188, PostgreSQL: 1188
+2025-03-04T05:33:45.718Z - calculation_comments: ID lar mos keladi
+2025-03-04T05:33:45.724Z - calculation_comments: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:45.726Z - calculation_comments: Namuna mos keladi
+2025-03-04T05:33:45.727Z - calculation_comments: Jadval mos keladi
+2025-03-04T05:33:45.727Z - calculation_comments: Tekshiruv yakunlandi
+2025-03-04T05:33:46.728Z - calculation_employees: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:46.729Z - calculation_employees: Tekshiruv boshlandi
+2025-03-04T05:33:46.733Z - calculation_employees: MySQL qator soni - 5293, PostgreSQL qator soni - 5293
+2025-03-04T05:33:46.734Z - calculation_employees: Qator soni mos keladi
+2025-03-04T05:33:46.748Z - calculation_employees: ID lar tekshirildi - MySQL: 5293, PostgreSQL: 5293
+2025-03-04T05:33:46.749Z - calculation_employees: ID lar mos keladi
+2025-03-04T05:33:46.754Z - calculation_employees: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:46.756Z - calculation_employees: Namuna mos keladi
+2025-03-04T05:33:46.756Z - calculation_employees: Jadval mos keladi
+2025-03-04T05:33:46.756Z - calculation_employees: Tekshiruv yakunlandi
+2025-03-04T05:33:47.758Z - calculation_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:47.758Z - calculation_histories: Tekshiruv boshlandi
+2025-03-04T05:33:47.763Z - calculation_histories: MySQL qator soni - 517, PostgreSQL qator soni - 517
+2025-03-04T05:33:47.763Z - calculation_histories: Qator soni mos keladi
+2025-03-04T05:33:47.767Z - calculation_histories: ID lar tekshirildi - MySQL: 517, PostgreSQL: 517
+2025-03-04T05:33:47.767Z - calculation_histories: ID lar mos keladi
+2025-03-04T05:33:47.774Z - calculation_histories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:47.776Z - calculation_histories: Namuna mos keladi
+2025-03-04T05:33:47.776Z - calculation_histories: Jadval mos keladi
+2025-03-04T05:33:47.776Z - calculation_histories: Tekshiruv yakunlandi
+2025-03-04T05:33:48.778Z - canceled_pre_order_product_infos: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:48.779Z - canceled_pre_order_product_infos: Tekshiruv boshlandi
+2025-03-04T05:33:48.784Z - canceled_pre_order_product_infos: MySQL qator soni - 1874, PostgreSQL qator soni - 1874
+2025-03-04T05:33:48.784Z - canceled_pre_order_product_infos: Qator soni mos keladi
+2025-03-04T05:33:48.790Z - canceled_pre_order_product_infos: ID lar tekshirildi - MySQL: 1874, PostgreSQL: 1874
+2025-03-04T05:33:48.791Z - canceled_pre_order_product_infos: ID lar mos keladi
+2025-03-04T05:33:48.796Z - canceled_pre_order_product_infos: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:48.797Z - canceled_pre_order_product_infos: Namuna mos keladi
+2025-03-04T05:33:48.797Z - canceled_pre_order_product_infos: Foreign key soni farq qiladi: MySQL=3, PostgreSQL=0
+2025-03-04T05:33:48.797Z - canceled_pre_order_product_infos: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=3, PostgreSQL=0
+2025-03-04T05:33:48.797Z - canceled_pre_order_product_infos: Tekshiruv yakunlandi
+2025-03-04T05:33:49.799Z - candidate_clients: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:49.800Z - candidate_clients: Tekshiruv boshlandi
+2025-03-04T05:33:49.803Z - candidate_clients: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:33:49.803Z - candidate_clients: Qator soni mos keladi
+2025-03-04T05:33:49.805Z - candidate_clients: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:33:49.805Z - candidate_clients: ID lar mos keladi
+2025-03-04T05:33:49.805Z - candidate_clients: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:33:49.805Z - candidate_clients: Jadval mos keladi
+2025-03-04T05:33:49.805Z - candidate_clients: Tekshiruv yakunlandi
+2025-03-04T05:33:50.807Z - cars: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:50.808Z - cars: Tekshiruv boshlandi
+2025-03-04T05:33:50.812Z - cars: MySQL qator soni - 286, PostgreSQL qator soni - 286
+2025-03-04T05:33:50.812Z - cars: Qator soni mos keladi
+2025-03-04T05:33:50.815Z - cars: ID lar tekshirildi - MySQL: 286, PostgreSQL: 286
+2025-03-04T05:33:50.816Z - cars: ID lar mos keladi
+2025-03-04T05:33:50.821Z - cars: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:50.823Z - cars: Namuna mos keladi
+2025-03-04T05:33:50.823Z - cars: Jadval mos keladi
+2025-03-04T05:33:50.823Z - cars: Tekshiruv yakunlandi
+2025-03-04T05:33:51.825Z - cash_boxes: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:51.825Z - cash_boxes: Tekshiruv boshlandi
+2025-03-04T05:33:51.828Z - cash_boxes: MySQL qator soni - 36, PostgreSQL qator soni - 36
+2025-03-04T05:33:51.829Z - cash_boxes: Qator soni mos keladi
+2025-03-04T05:33:51.830Z - cash_boxes: ID lar tekshirildi - MySQL: 36, PostgreSQL: 36
+2025-03-04T05:33:51.831Z - cash_boxes: ID lar mos keladi
+2025-03-04T05:33:51.836Z - cash_boxes: Namuna qatorlari - MySQL: 36, PostgreSQL: 36
+2025-03-04T05:33:51.837Z - cash_boxes: Namuna mos keladi
+2025-03-04T05:33:51.837Z - cash_boxes: Jadval mos keladi
+2025-03-04T05:33:51.837Z - cash_boxes: Tekshiruv yakunlandi
+2025-03-04T05:33:52.839Z - cash_flow_currencies: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:52.840Z - cash_flow_currencies: Tekshiruv boshlandi
+2025-03-04T05:33:52.846Z - cash_flow_currencies: MySQL qator soni - 13977, PostgreSQL qator soni - 13977
+2025-03-04T05:33:52.847Z - cash_flow_currencies: Qator soni mos keladi
+2025-03-04T05:33:52.868Z - cash_flow_currencies: ID lar tekshirildi - MySQL: 13977, PostgreSQL: 13977
+2025-03-04T05:33:52.869Z - cash_flow_currencies: ID lar mos keladi
+2025-03-04T05:33:52.873Z - cash_flow_currencies: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:52.873Z - cash_flow_currencies: Namuna mos keladi
+2025-03-04T05:33:52.874Z - cash_flow_currencies: Jadval mos keladi
+2025-03-04T05:33:52.874Z - cash_flow_currencies: Tekshiruv yakunlandi
+2025-03-04T05:33:53.876Z - cash_flow_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:53.876Z - cash_flow_histories: Tekshiruv boshlandi
+2025-03-04T05:33:53.888Z - cash_flow_histories: MySQL qator soni - 17241, PostgreSQL qator soni - 17241
+2025-03-04T05:33:53.888Z - cash_flow_histories: Qator soni mos keladi
+2025-03-04T05:33:53.926Z - cash_flow_histories: ID lar tekshirildi - MySQL: 17241, PostgreSQL: 17241
+2025-03-04T05:33:53.929Z - cash_flow_histories: ID lar mos keladi
+2025-03-04T05:33:53.934Z - cash_flow_histories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:53.934Z - cash_flow_histories: Namuna mos keladi
+2025-03-04T05:33:53.935Z - cash_flow_histories: Jadval mos keladi
+2025-03-04T05:33:53.935Z - cash_flow_histories: Tekshiruv yakunlandi
+2025-03-04T05:33:54.936Z - cash_flows: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:54.937Z - cash_flows: Tekshiruv boshlandi
+2025-03-04T05:33:54.958Z - cash_flows: MySQL qator soni - 25110, PostgreSQL qator soni - 25110
+2025-03-04T05:33:54.958Z - cash_flows: Qator soni mos keladi
+2025-03-04T05:33:55.003Z - cash_flows: ID lar tekshirildi - MySQL: 25110, PostgreSQL: 25110
+2025-03-04T05:33:55.008Z - cash_flows: ID lar mos keladi
+2025-03-04T05:33:55.014Z - cash_flows: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:55.015Z - cash_flows: Namuna mos keladi
+2025-03-04T05:33:55.015Z - cash_flows: Jadval mos keladi
+2025-03-04T05:33:55.015Z - cash_flows: Tekshiruv yakunlandi
+2025-03-04T05:33:56.015Z - cash_operation_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:56.016Z - cash_operation_histories: Tekshiruv boshlandi
+2025-03-04T05:33:56.027Z - cash_operation_histories: MySQL qator soni - 39192, PostgreSQL qator soni - 39192
+2025-03-04T05:33:56.027Z - cash_operation_histories: Qator soni mos keladi
+2025-03-04T05:33:56.090Z - cash_operation_histories: ID lar tekshirildi - MySQL: 39192, PostgreSQL: 39192
+2025-03-04T05:33:56.093Z - cash_operation_histories: ID lar mos keladi
+2025-03-04T05:33:56.098Z - cash_operation_histories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:56.099Z - cash_operation_histories: Namuna mos keladi
+2025-03-04T05:33:56.099Z - cash_operation_histories: Jadval mos keladi
+2025-03-04T05:33:56.099Z - cash_operation_histories: Tekshiruv yakunlandi
+2025-03-04T05:33:57.101Z - cash_operations: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:57.101Z - cash_operations: Tekshiruv boshlandi
+2025-03-04T05:33:57.129Z - cash_operations: MySQL qator soni - 49257, PostgreSQL qator soni - 49257
+2025-03-04T05:33:57.130Z - cash_operations: Qator soni mos keladi
+2025-03-04T05:33:57.183Z - cash_operations: ID lar tekshirildi - MySQL: 49257, PostgreSQL: 49257
+2025-03-04T05:33:57.187Z - cash_operations: ID lar mos keladi
+2025-03-04T05:33:57.195Z - cash_operations: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:57.196Z - cash_operations: Namuna mos keladi
+2025-03-04T05:33:57.196Z - cash_operations: Jadval mos keladi
+2025-03-04T05:33:57.196Z - cash_operations: Tekshiruv yakunlandi
+2025-03-04T05:33:58.198Z - cashbox_exchange_operations: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:58.199Z - cashbox_exchange_operations: Tekshiruv boshlandi
+2025-03-04T05:33:58.204Z - cashbox_exchange_operations: MySQL qator soni - 6312, PostgreSQL qator soni - 6312
+2025-03-04T05:33:58.204Z - cashbox_exchange_operations: Qator soni mos keladi
+2025-03-04T05:33:58.218Z - cashbox_exchange_operations: ID lar tekshirildi - MySQL: 6312, PostgreSQL: 6312
+2025-03-04T05:33:58.219Z - cashbox_exchange_operations: ID lar mos keladi
+2025-03-04T05:33:58.223Z - cashbox_exchange_operations: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:33:58.223Z - cashbox_exchange_operations: Namuna mos keladi
+2025-03-04T05:33:58.223Z - cashbox_exchange_operations: Jadval mos keladi
+2025-03-04T05:33:58.223Z - cashbox_exchange_operations: Tekshiruv yakunlandi
+2025-03-04T05:33:59.224Z - cells: Jadval tekshiruvi boshlandi
+2025-03-04T05:33:59.224Z - cells: Tekshiruv boshlandi
+2025-03-04T05:33:59.227Z - cells: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:33:59.227Z - cells: Qator soni mos keladi
+2025-03-04T05:33:59.229Z - cells: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:33:59.229Z - cells: ID lar mos keladi
+2025-03-04T05:33:59.229Z - cells: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:33:59.230Z - cells: Jadval mos keladi
+2025-03-04T05:33:59.230Z - cells: Tekshiruv yakunlandi
+2025-03-04T05:34:00.230Z - change_factures: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:00.230Z - change_factures: Tekshiruv boshlandi
+2025-03-04T05:34:00.234Z - change_factures: MySQL qator soni - 88, PostgreSQL qator soni - 88
+2025-03-04T05:34:00.234Z - change_factures: Qator soni mos keladi
+2025-03-04T05:34:00.236Z - change_factures: ID lar tekshirildi - MySQL: 88, PostgreSQL: 88
+2025-03-04T05:34:00.237Z - change_factures: ID lar mos keladi
+2025-03-04T05:34:00.241Z - change_factures: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:00.242Z - change_factures: Namuna mos keladi
+2025-03-04T05:34:00.243Z - change_factures: Jadval mos keladi
+2025-03-04T05:34:00.243Z - change_factures: Tekshiruv yakunlandi
+2025-03-04T05:34:01.244Z - classifiers: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:01.245Z - classifiers: Tekshiruv boshlandi
+2025-03-04T05:34:01.248Z - classifiers: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:34:01.248Z - classifiers: Qator soni mos keladi
+2025-03-04T05:34:01.249Z - classifiers: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:34:01.250Z - classifiers: ID lar mos keladi
+2025-03-04T05:34:01.253Z - classifiers: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:34:01.253Z - classifiers: Namuna mos keladi
+2025-03-04T05:34:01.253Z - classifiers: Jadval mos keladi
+2025-03-04T05:34:01.253Z - classifiers: Tekshiruv yakunlandi
+2025-03-04T05:34:02.255Z - client_categories: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:02.256Z - client_categories: Tekshiruv boshlandi
+2025-03-04T05:34:02.258Z - client_categories: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:02.258Z - client_categories: Qator soni mos keladi
+2025-03-04T05:34:02.260Z - client_categories: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:02.260Z - client_categories: ID lar mos keladi
+2025-03-04T05:34:02.261Z - client_categories: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:02.261Z - client_categories: Jadval mos keladi
+2025-03-04T05:34:02.261Z - client_categories: Tekshiruv yakunlandi
+2025-03-04T05:34:03.262Z - client_pictures: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:03.263Z - client_pictures: Tekshiruv boshlandi
+2025-03-04T05:34:03.266Z - client_pictures: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:03.266Z - client_pictures: Qator soni mos keladi
+2025-03-04T05:34:03.269Z - client_pictures: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:03.269Z - client_pictures: ID lar mos keladi
+2025-03-04T05:34:03.269Z - client_pictures: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:03.269Z - client_pictures: Jadval mos keladi
+2025-03-04T05:34:03.269Z - client_pictures: Tekshiruv yakunlandi
+2025-03-04T05:34:04.270Z - costs: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:04.270Z - costs: Tekshiruv boshlandi
+2025-03-04T05:34:04.273Z - costs: MySQL qator soni - 160, PostgreSQL qator soni - 160
+2025-03-04T05:34:04.274Z - costs: Qator soni mos keladi
+2025-03-04T05:34:04.277Z - costs: ID lar tekshirildi - MySQL: 160, PostgreSQL: 160
+2025-03-04T05:34:04.277Z - costs: ID lar mos keladi
+2025-03-04T05:34:04.283Z - costs: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:04.284Z - costs: Namuna mos keladi
+2025-03-04T05:34:04.284Z - costs: Jadval mos keladi
+2025-03-04T05:34:04.285Z - costs: Tekshiruv yakunlandi
+2025-03-04T05:34:05.286Z - currencies: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:05.287Z - currencies: Tekshiruv boshlandi
+2025-03-04T05:34:05.290Z - currencies: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:34:05.291Z - currencies: Qator soni mos keladi
+2025-03-04T05:34:05.294Z - currencies: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:34:05.294Z - currencies: ID lar mos keladi
+2025-03-04T05:34:05.297Z - currencies: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:34:05.298Z - currencies: Namuna mos keladi
+2025-03-04T05:34:05.298Z - currencies: Jadval mos keladi
+2025-03-04T05:34:05.298Z - currencies: Tekshiruv yakunlandi
+2025-03-04T05:34:06.300Z - currency_changes: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:06.300Z - currency_changes: Tekshiruv boshlandi
+2025-03-04T05:34:06.303Z - currency_changes: MySQL qator soni - 850, PostgreSQL qator soni - 850
+2025-03-04T05:34:06.303Z - currency_changes: Qator soni mos keladi
+2025-03-04T05:34:06.308Z - currency_changes: ID lar tekshirildi - MySQL: 850, PostgreSQL: 850
+2025-03-04T05:34:06.310Z - currency_changes: ID lar mos keladi
+2025-03-04T05:34:06.316Z - currency_changes: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:06.318Z - currency_changes: Namuna mos keladi
+2025-03-04T05:34:06.318Z - currency_changes: Jadval mos keladi
+2025-03-04T05:34:06.318Z - currency_changes: Tekshiruv yakunlandi
+2025-03-04T05:34:07.320Z - defective_products_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:07.320Z - defective_products_histories: Tekshiruv boshlandi
+2025-03-04T05:34:07.325Z - defective_products_histories: MySQL qator soni - 4691, PostgreSQL qator soni - 4691
+2025-03-04T05:34:07.325Z - defective_products_histories: Qator soni mos keladi
+2025-03-04T05:34:07.344Z - defective_products_histories: ID lar tekshirildi - MySQL: 4691, PostgreSQL: 4691
+2025-03-04T05:34:07.345Z - defective_products_histories: ID lar mos keladi
+2025-03-04T05:34:07.352Z - defective_products_histories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:07.353Z - defective_products_histories: Namuna mos keladi
+2025-03-04T05:34:07.353Z - defective_products_histories: Jadval mos keladi
+2025-03-04T05:34:07.353Z - defective_products_histories: Tekshiruv yakunlandi
+2025-03-04T05:34:08.355Z - drivers: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:08.355Z - drivers: Tekshiruv boshlandi
+2025-03-04T05:34:08.359Z - drivers: MySQL qator soni - 285, PostgreSQL qator soni - 285
+2025-03-04T05:34:08.359Z - drivers: Qator soni mos keladi
+2025-03-04T05:34:08.362Z - drivers: ID lar tekshirildi - MySQL: 285, PostgreSQL: 285
+2025-03-04T05:34:08.362Z - drivers: ID lar mos keladi
+2025-03-04T05:34:08.367Z - drivers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:08.368Z - drivers: Namuna mos keladi
+2025-03-04T05:34:08.368Z - drivers: Jadval mos keladi
+2025-03-04T05:34:08.368Z - drivers: Tekshiruv yakunlandi
+2025-03-04T05:34:09.370Z - employee_calculations: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:09.371Z - employee_calculations: Tekshiruv boshlandi
+2025-03-04T05:34:09.373Z - employee_calculations: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:09.373Z - employee_calculations: Qator soni mos keladi
+2025-03-04T05:34:09.375Z - employee_calculations: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:09.375Z - employee_calculations: ID lar mos keladi
+2025-03-04T05:34:09.376Z - employee_calculations: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:09.376Z - employee_calculations: Jadval mos keladi
+2025-03-04T05:34:09.376Z - employee_calculations: Tekshiruv yakunlandi
+2025-03-04T05:34:10.378Z - employee_passports: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:10.378Z - employee_passports: Tekshiruv boshlandi
+2025-03-04T05:34:10.382Z - employee_passports: MySQL qator soni - 52, PostgreSQL qator soni - 52
+2025-03-04T05:34:10.382Z - employee_passports: Qator soni mos keladi
+2025-03-04T05:34:10.384Z - employee_passports: ID lar tekshirildi - MySQL: 52, PostgreSQL: 52
+2025-03-04T05:34:10.384Z - employee_passports: ID lar mos keladi
+2025-03-04T05:34:10.389Z - employee_passports: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:10.392Z - employee_passports: Namuna mos keladi
+2025-03-04T05:34:10.392Z - employee_passports: Jadval mos keladi
+2025-03-04T05:34:10.392Z - employee_passports: Tekshiruv yakunlandi
+2025-03-04T05:34:11.394Z - employee_payments: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:11.394Z - employee_payments: Tekshiruv boshlandi
+2025-03-04T05:34:11.399Z - employee_payments: MySQL qator soni - 3942, PostgreSQL qator soni - 3942
+2025-03-04T05:34:11.399Z - employee_payments: Qator soni mos keladi
+2025-03-04T05:34:11.411Z - employee_payments: ID lar tekshirildi - MySQL: 3942, PostgreSQL: 3942
+2025-03-04T05:34:11.411Z - employee_payments: ID lar mos keladi
+2025-03-04T05:34:11.418Z - employee_payments: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:11.420Z - employee_payments: Namuna mos keladi
+2025-03-04T05:34:11.420Z - employee_payments: Jadval mos keladi
+2025-03-04T05:34:11.420Z - employee_payments: Tekshiruv yakunlandi
+2025-03-04T05:34:12.422Z - employee_tables: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:12.422Z - employee_tables: Tekshiruv boshlandi
+2025-03-04T05:34:12.426Z - employee_tables: MySQL qator soni - 2613, PostgreSQL qator soni - 2613
+2025-03-04T05:34:12.427Z - employee_tables: Qator soni mos keladi
+2025-03-04T05:34:12.435Z - employee_tables: ID lar tekshirildi - MySQL: 2613, PostgreSQL: 2613
+2025-03-04T05:34:12.435Z - employee_tables: ID lar mos keladi
+2025-03-04T05:34:12.443Z - employee_tables: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:12.445Z - employee_tables: Namuna mos keladi
+2025-03-04T05:34:12.445Z - employee_tables: Foreign key soni farq qiladi: MySQL=1, PostgreSQL=0
+2025-03-04T05:34:12.445Z - employee_tables: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=1, PostgreSQL=0
+2025-03-04T05:34:12.445Z - employee_tables: Tekshiruv yakunlandi
+2025-03-04T05:34:13.447Z - employees: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:13.448Z - employees: Tekshiruv boshlandi
+2025-03-04T05:34:13.451Z - employees: MySQL qator soni - 125, PostgreSQL qator soni - 125
+2025-03-04T05:34:13.451Z - employees: Qator soni mos keladi
+2025-03-04T05:34:13.453Z - employees: ID lar tekshirildi - MySQL: 125, PostgreSQL: 125
+2025-03-04T05:34:13.453Z - employees: ID lar mos keladi
+2025-03-04T05:34:13.460Z - employees: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:13.461Z - employees: Namuna mos keladi
+2025-03-04T05:34:13.462Z - employees: Jadval mos keladi
+2025-03-04T05:34:13.462Z - employees: Tekshiruv yakunlandi
+2025-03-04T05:34:14.463Z - events: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:14.464Z - events: Tekshiruv boshlandi
+2025-03-04T05:34:14.467Z - events: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:14.467Z - events: Qator soni mos keladi
+2025-03-04T05:34:14.469Z - events: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:14.469Z - events: ID lar mos keladi
+2025-03-04T05:34:14.469Z - events: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:14.469Z - events: Jadval mos keladi
+2025-03-04T05:34:14.469Z - events: Tekshiruv yakunlandi
+2025-03-04T05:34:15.471Z - excel_order_job_statuses: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:15.471Z - excel_order_job_statuses: Tekshiruv boshlandi
+2025-03-04T05:34:15.474Z - excel_order_job_statuses: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:15.474Z - excel_order_job_statuses: Qator soni mos keladi
+2025-03-04T05:34:15.476Z - excel_order_job_statuses: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:15.477Z - excel_order_job_statuses: ID lar mos keladi
+2025-03-04T05:34:15.477Z - excel_order_job_statuses: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:15.477Z - excel_order_job_statuses: Foreign key soni farq qiladi: MySQL=2, PostgreSQL=0
+2025-03-04T05:34:15.477Z - excel_order_job_statuses: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=2, PostgreSQL=0
+2025-03-04T05:34:15.477Z - excel_order_job_statuses: Tekshiruv yakunlandi
+2025-03-04T05:34:16.479Z - expense_with_employees: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:16.479Z - expense_with_employees: Tekshiruv boshlandi
+2025-03-04T05:34:16.483Z - expense_with_employees: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:16.483Z - expense_with_employees: Qator soni mos keladi
+2025-03-04T05:34:16.485Z - expense_with_employees: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:16.485Z - expense_with_employees: ID lar mos keladi
+2025-03-04T05:34:16.485Z - expense_with_employees: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:16.485Z - expense_with_employees: Jadval mos keladi
+2025-03-04T05:34:16.485Z - expense_with_employees: Tekshiruv yakunlandi
+2025-03-04T05:34:17.487Z - expense_with_partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:17.487Z - expense_with_partners: Tekshiruv boshlandi
+2025-03-04T05:34:17.515Z - expense_with_partners: MySQL qator soni - 74709, PostgreSQL qator soni - 74709
+2025-03-04T05:34:17.515Z - expense_with_partners: Qator soni mos keladi
+2025-03-04T05:34:17.585Z - expense_with_partners: ID lar tekshirildi - MySQL: 74709, PostgreSQL: 74709
+2025-03-04T05:34:17.591Z - expense_with_partners: ID lar mos keladi
+2025-03-04T05:34:17.598Z - expense_with_partners: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:17.598Z - expense_with_partners: Namuna mos keladi
+2025-03-04T05:34:17.598Z - expense_with_partners: Jadval mos keladi
+2025-03-04T05:34:17.598Z - expense_with_partners: Tekshiruv yakunlandi
+2025-03-04T05:34:18.601Z - expenses: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:18.601Z - expenses: Tekshiruv boshlandi
+2025-03-04T05:34:18.657Z - expenses: MySQL qator soni - 103880, PostgreSQL qator soni - 103880
+2025-03-04T05:34:18.658Z - expenses: Qator soni mos keladi
+2025-03-04T05:34:18.785Z - expenses: ID lar tekshirildi - MySQL: 103880, PostgreSQL: 103880
+2025-03-04T05:34:18.792Z - expenses: ID lar mos keladi
+2025-03-04T05:34:18.796Z - expenses: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:18.797Z - expenses: Namuna mos keladi
+2025-03-04T05:34:18.797Z - expenses: Jadval mos keladi
+2025-03-04T05:34:18.797Z - expenses: Tekshiruv yakunlandi
+2025-03-04T05:34:19.799Z - face_manager_organizations: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:19.800Z - face_manager_organizations: Tekshiruv boshlandi
+2025-03-04T05:34:19.804Z - face_manager_organizations: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-04T05:34:19.804Z - face_manager_organizations: Qator soni mos keladi
+2025-03-04T05:34:19.805Z - face_manager_organizations: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:34:19.805Z - face_manager_organizations: ID lar mos keladi
+2025-03-04T05:34:19.809Z - face_manager_organizations: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:34:19.809Z - face_manager_organizations: Namuna mos keladi
+2025-03-04T05:34:19.809Z - face_manager_organizations: Jadval mos keladi
+2025-03-04T05:34:19.809Z - face_manager_organizations: Tekshiruv yakunlandi
+2025-03-04T05:34:20.811Z - face_manager_tokens: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:20.812Z - face_manager_tokens: Tekshiruv boshlandi
+2025-03-04T05:34:20.815Z - face_manager_tokens: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:34:20.815Z - face_manager_tokens: Qator soni mos keladi
+2025-03-04T05:34:20.817Z - face_manager_tokens: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:34:20.818Z - face_manager_tokens: ID lar mos keladi
+2025-03-04T05:34:20.821Z - face_manager_tokens: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:34:20.821Z - face_manager_tokens: Namuna mos keladi
+2025-03-04T05:34:20.821Z - face_manager_tokens: Jadval mos keladi
+2025-03-04T05:34:20.822Z - face_manager_tokens: Tekshiruv yakunlandi
+2025-03-04T05:34:21.823Z - failed_jobs: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:21.824Z - failed_jobs: Tekshiruv boshlandi
+2025-03-04T05:34:21.826Z - failed_jobs: MySQL qator soni - 30, PostgreSQL qator soni - 30
+2025-03-04T05:34:21.826Z - failed_jobs: Qator soni mos keladi
+2025-03-04T05:34:21.829Z - failed_jobs: ID lar tekshirildi - MySQL: 30, PostgreSQL: 30
+2025-03-04T05:34:21.829Z - failed_jobs: ID lar mos keladi
+2025-03-04T05:34:21.854Z - failed_jobs: Namuna qatorlari - MySQL: 30, PostgreSQL: 30
+2025-03-04T05:34:21.855Z - failed_jobs: Namuna mos keladi
+2025-03-04T05:34:21.856Z - failed_jobs: Jadval mos keladi
+2025-03-04T05:34:21.856Z - failed_jobs: Tekshiruv yakunlandi
+2025-03-04T05:34:22.858Z - firm_account_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:22.858Z - firm_account_numbers: Tekshiruv boshlandi
+2025-03-04T05:34:22.862Z - firm_account_numbers: MySQL qator soni - 82, PostgreSQL qator soni - 82
+2025-03-04T05:34:22.862Z - firm_account_numbers: Qator soni mos keladi
+2025-03-04T05:34:22.865Z - firm_account_numbers: ID lar tekshirildi - MySQL: 82, PostgreSQL: 82
+2025-03-04T05:34:22.865Z - firm_account_numbers: ID lar mos keladi
+2025-03-04T05:34:22.870Z - firm_account_numbers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:22.871Z - firm_account_numbers: Namuna mos keladi
+2025-03-04T05:34:22.871Z - firm_account_numbers: Jadval mos keladi
+2025-03-04T05:34:22.871Z - firm_account_numbers: Tekshiruv yakunlandi
+2025-03-04T05:34:23.872Z - firms: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:23.872Z - firms: Tekshiruv boshlandi
+2025-03-04T05:34:23.875Z - firms: MySQL qator soni - 12, PostgreSQL qator soni - 12
+2025-03-04T05:34:23.875Z - firms: Qator soni mos keladi
+2025-03-04T05:34:23.878Z - firms: ID lar tekshirildi - MySQL: 12, PostgreSQL: 12
+2025-03-04T05:34:23.878Z - firms: ID lar mos keladi
+2025-03-04T05:34:23.882Z - firms: Namuna qatorlari - MySQL: 12, PostgreSQL: 12
+2025-03-04T05:34:23.883Z - firms: Namuna mos keladi
+2025-03-04T05:34:23.883Z - firms: Jadval mos keladi
+2025-03-04T05:34:23.883Z - firms: Tekshiruv yakunlandi
+2025-03-04T05:34:24.884Z - freeze_values: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:24.884Z - freeze_values: Tekshiruv boshlandi
+2025-03-04T05:34:24.887Z - freeze_values: MySQL qator soni - 2208, PostgreSQL qator soni - 2208
+2025-03-04T05:34:24.888Z - freeze_values: Qator soni mos keladi
+2025-03-04T05:34:24.892Z - freeze_values: ID lar tekshirildi - MySQL: 2208, PostgreSQL: 2208
+2025-03-04T05:34:24.892Z - freeze_values: ID lar mos keladi
+2025-03-04T05:34:24.896Z - freeze_values: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:24.897Z - freeze_values: Namuna mos keladi
+2025-03-04T05:34:24.897Z - freeze_values: Jadval mos keladi
+2025-03-04T05:34:24.897Z - freeze_values: Tekshiruv yakunlandi
+2025-03-04T05:34:25.898Z - groups: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:25.898Z - groups: Tekshiruv boshlandi
+2025-03-04T05:34:25.900Z - groups: Xatolik yuz berdi: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'groups' at line 1
+2025-03-04T05:34:25.900Z - groups: Jadval mos emas - Sabab: Xatolik yuz berdi: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'groups' at line 1
+2025-03-04T05:34:25.900Z - groups: Tekshiruv yakunlandi
+2025-03-04T05:34:26.902Z - history_to_invalid_products: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:26.902Z - history_to_invalid_products: Tekshiruv boshlandi
+2025-03-04T05:34:26.905Z - history_to_invalid_products: MySQL qator soni - 27, PostgreSQL qator soni - 27
+2025-03-04T05:34:26.906Z - history_to_invalid_products: Qator soni mos keladi
+2025-03-04T05:34:26.908Z - history_to_invalid_products: ID lar tekshirildi - MySQL: 27, PostgreSQL: 27
+2025-03-04T05:34:26.909Z - history_to_invalid_products: ID lar mos keladi
+2025-03-04T05:34:26.915Z - history_to_invalid_products: Namuna qatorlari - MySQL: 27, PostgreSQL: 27
+2025-03-04T05:34:26.916Z - history_to_invalid_products: Namuna mos keladi
+2025-03-04T05:34:26.916Z - history_to_invalid_products: Jadval mos keladi
+2025-03-04T05:34:26.916Z - history_to_invalid_products: Tekshiruv yakunlandi
+2025-03-04T05:34:27.918Z - income_expense_records: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:27.918Z - income_expense_records: Tekshiruv boshlandi
+2025-03-04T05:34:27.997Z - income_expense_records: MySQL qator soni - 861805, PostgreSQL qator soni - 861805
+2025-03-04T05:34:27.998Z - income_expense_records: Qator soni mos keladi
+2025-03-04T05:34:28.802Z - income_expense_records: ID lar tekshirildi - MySQL: 861805, PostgreSQL: 861805
+2025-03-04T05:34:28.906Z - income_expense_records: ID lar mos keladi
+2025-03-04T05:34:28.911Z - income_expense_records: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:28.911Z - income_expense_records: Namuna mos keladi
+2025-03-04T05:34:28.912Z - income_expense_records: Jadval mos keladi
+2025-03-04T05:34:28.912Z - income_expense_records: Tekshiruv yakunlandi
+2025-03-04T05:34:29.912Z - income_supplier_details: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:29.912Z - income_supplier_details: Tekshiruv boshlandi
+2025-03-04T05:34:29.914Z - income_supplier_details: MySQL qator soni - 6, PostgreSQL qator soni - 6
+2025-03-04T05:34:29.914Z - income_supplier_details: Qator soni mos keladi
+2025-03-04T05:34:29.916Z - income_supplier_details: ID lar tekshirildi - MySQL: 6, PostgreSQL: 6
+2025-03-04T05:34:29.916Z - income_supplier_details: ID lar mos keladi
+2025-03-04T05:34:29.919Z - income_supplier_details: Namuna qatorlari - MySQL: 6, PostgreSQL: 6
+2025-03-04T05:34:29.920Z - income_supplier_details: Namuna mos keladi
+2025-03-04T05:34:29.920Z - income_supplier_details: Foreign key soni farq qiladi: MySQL=2, PostgreSQL=0
+2025-03-04T05:34:29.920Z - income_supplier_details: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=2, PostgreSQL=0
+2025-03-04T05:34:29.920Z - income_supplier_details: Tekshiruv yakunlandi
+2025-03-04T05:34:30.921Z - indicators: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:30.922Z - indicators: Tekshiruv boshlandi
+2025-03-04T05:34:30.924Z - indicators: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:30.924Z - indicators: Qator soni mos keladi
+2025-03-04T05:34:30.925Z - indicators: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:30.925Z - indicators: ID lar mos keladi
+2025-03-04T05:34:30.925Z - indicators: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:30.926Z - indicators: Jadval mos keladi
+2025-03-04T05:34:30.926Z - indicators: Tekshiruv yakunlandi
+2025-03-04T05:34:31.927Z - input_type_records: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:31.928Z - input_type_records: Tekshiruv boshlandi
+2025-03-04T05:34:31.931Z - input_type_records: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:31.931Z - input_type_records: Qator soni mos keladi
+2025-03-04T05:34:31.933Z - input_type_records: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:31.933Z - input_type_records: ID lar mos keladi
+2025-03-04T05:34:31.933Z - input_type_records: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:31.933Z - input_type_records: Jadval mos keladi
+2025-03-04T05:34:31.933Z - input_type_records: Tekshiruv yakunlandi
+2025-03-04T05:34:32.935Z - input_types: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:32.935Z - input_types: Tekshiruv boshlandi
+2025-03-04T05:34:32.938Z - input_types: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:32.938Z - input_types: Qator soni mos keladi
+2025-03-04T05:34:32.940Z - input_types: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:32.940Z - input_types: ID lar mos keladi
+2025-03-04T05:34:32.941Z - input_types: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:32.941Z - input_types: Jadval mos keladi
+2025-03-04T05:34:32.941Z - input_types: Tekshiruv yakunlandi
+2025-03-04T05:34:33.942Z - inventory_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:33.943Z - inventory_numbers: Tekshiruv boshlandi
+2025-03-04T05:34:33.946Z - inventory_numbers: MySQL qator soni - 10, PostgreSQL qator soni - 10
+2025-03-04T05:34:33.947Z - inventory_numbers: Qator soni mos keladi
+2025-03-04T05:34:33.948Z - inventory_numbers: ID lar tekshirildi - MySQL: 10, PostgreSQL: 10
+2025-03-04T05:34:33.949Z - inventory_numbers: ID lar mos keladi
+2025-03-04T05:34:33.952Z - inventory_numbers: Namuna qatorlari - MySQL: 10, PostgreSQL: 10
+2025-03-04T05:34:33.952Z - inventory_numbers: Namuna mos keladi
+2025-03-04T05:34:33.952Z - inventory_numbers: Jadval mos keladi
+2025-03-04T05:34:33.952Z - inventory_numbers: Tekshiruv yakunlandi
+2025-03-04T05:34:34.954Z - invoices: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:34.954Z - invoices: Tekshiruv boshlandi
+2025-03-04T05:34:35.012Z - invoices: MySQL qator soni - 127740, PostgreSQL qator soni - 127740
+2025-03-04T05:34:35.013Z - invoices: Qator soni mos keladi
+2025-03-04T05:34:35.144Z - invoices: ID lar tekshirildi - MySQL: 127740, PostgreSQL: 127740
+2025-03-04T05:34:35.152Z - invoices: ID lar mos keladi
+2025-03-04T05:34:35.156Z - invoices: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:35.156Z - invoices: Qator ID=5 - MySQL: {"id":5,"date":"2021-08-14T19:00:00.000Z","title":"Invoice-2","barcode":"Pro10000001","type":"input","source":"partner","source_id":4,"status_id":10,"repository_id":1,"active":1,"created_at":"2021-08-15T14:50:13.000Z","updated_at":"2021-08-15T15:32:01.000Z","is_attach_prices":1,"is_done":0,"currency_value":null,"residue_value":0,"returned":0}
+2025-03-04T05:34:35.156Z - invoices: Qator ID=5 - PostgreSQL: {"id":"5","date":"Sun Aug 15 2021 00:00:00 GMT+0500 (Uzbekistan Standard Time)","title":"Invoice-2","barcode":"Pro10000001","type":"input","source":"partner","source_id":4,"status_id":10,"repository_id":1,"active":"1","created_at":"2021-08-15T14:50:13.000Z","updated_at":"2021-08-15T15:32:01.000Z","is_attach_prices":"1","is_done":"0","currency_value":null,"residue_value":0,"returned":"0"}
+2025-03-04T05:34:35.156Z - invoices: Namuna ma'lumotlari farq qiladi: Ustun 'is_attach_prices': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"
+2025-03-04T05:34:35.156Z - invoices: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi: Ustun 'is_attach_prices': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"
+2025-03-04T05:34:35.157Z - invoices: Tekshiruv yakunlandi
+2025-03-04T05:34:36.158Z - ishonch_invoice_logs: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:36.158Z - ishonch_invoice_logs: Tekshiruv boshlandi
+2025-03-04T05:34:36.160Z - ishonch_invoice_logs: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:36.161Z - ishonch_invoice_logs: Qator soni mos keladi
+2025-03-04T05:34:36.162Z - ishonch_invoice_logs: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:36.162Z - ishonch_invoice_logs: ID lar mos keladi
+2025-03-04T05:34:36.163Z - ishonch_invoice_logs: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:36.163Z - ishonch_invoice_logs: Jadval mos keladi
+2025-03-04T05:34:36.163Z - ishonch_invoice_logs: Tekshiruv yakunlandi
+2025-03-04T05:34:37.164Z - jobs: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:37.165Z - jobs: Tekshiruv boshlandi
+2025-03-04T05:34:37.167Z - jobs: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:37.167Z - jobs: Qator soni mos keladi
+2025-03-04T05:34:37.169Z - jobs: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:37.169Z - jobs: ID lar mos keladi
+2025-03-04T05:34:37.169Z - jobs: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:37.169Z - jobs: Jadval mos keladi
+2025-03-04T05:34:37.169Z - jobs: Tekshiruv yakunlandi
+2025-03-04T05:34:38.171Z - main_backend_integrations: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:38.172Z - main_backend_integrations: Tekshiruv boshlandi
+2025-03-04T05:34:38.175Z - main_backend_integrations: MySQL qator soni - 5, PostgreSQL qator soni - 5
+2025-03-04T05:34:38.175Z - main_backend_integrations: Qator soni mos keladi
+2025-03-04T05:34:38.177Z - main_backend_integrations: ID lar tekshirildi - MySQL: 5, PostgreSQL: 5
+2025-03-04T05:34:38.177Z - main_backend_integrations: ID lar mos keladi
+2025-03-04T05:34:38.180Z - main_backend_integrations: Namuna qatorlari - MySQL: 5, PostgreSQL: 5
+2025-03-04T05:34:38.180Z - main_backend_integrations: Namuna mos keladi
+2025-03-04T05:34:38.180Z - main_backend_integrations: Jadval mos keladi
+2025-03-04T05:34:38.180Z - main_backend_integrations: Tekshiruv yakunlandi
+2025-03-04T05:34:39.182Z - main_element_to_employees: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:39.183Z - main_element_to_employees: Tekshiruv boshlandi
+2025-03-04T05:34:39.186Z - main_element_to_employees: MySQL qator soni - 831, PostgreSQL qator soni - 831
+2025-03-04T05:34:39.186Z - main_element_to_employees: Qator soni mos keladi
+2025-03-04T05:34:39.188Z - main_element_to_employees: ID lar tekshirildi - MySQL: 831, PostgreSQL: 831
+2025-03-04T05:34:39.188Z - main_element_to_employees: ID lar mos keladi
+2025-03-04T05:34:39.192Z - main_element_to_employees: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:39.193Z - main_element_to_employees: Namuna mos keladi
+2025-03-04T05:34:39.193Z - main_element_to_employees: Jadval mos keladi
+2025-03-04T05:34:39.193Z - main_element_to_employees: Tekshiruv yakunlandi
+2025-03-04T05:34:40.195Z - main_elements: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:40.195Z - main_elements: Tekshiruv boshlandi
+2025-03-04T05:34:40.199Z - main_elements: MySQL qator soni - 553, PostgreSQL qator soni - 553
+2025-03-04T05:34:40.200Z - main_elements: Qator soni mos keladi
+2025-03-04T05:34:40.203Z - main_elements: ID lar tekshirildi - MySQL: 553, PostgreSQL: 553
+2025-03-04T05:34:40.203Z - main_elements: ID lar mos keladi
+2025-03-04T05:34:40.209Z - main_elements: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:40.211Z - main_elements: Namuna mos keladi
+2025-03-04T05:34:40.211Z - main_elements: Jadval mos keladi
+2025-03-04T05:34:40.211Z - main_elements: Tekshiruv yakunlandi
+2025-03-04T05:34:41.213Z - main_resources: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:41.213Z - main_resources: Tekshiruv boshlandi
+2025-03-04T05:34:41.216Z - main_resources: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:41.216Z - main_resources: Qator soni mos keladi
+2025-03-04T05:34:41.218Z - main_resources: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:41.219Z - main_resources: ID lar mos keladi
+2025-03-04T05:34:41.219Z - main_resources: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:41.219Z - main_resources: Jadval mos keladi
+2025-03-04T05:34:41.219Z - main_resources: Tekshiruv yakunlandi
+2025-03-04T05:34:42.220Z - marge_group_partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:42.220Z - marge_group_partners: Tekshiruv boshlandi
+2025-03-04T05:34:42.225Z - marge_group_partners: MySQL qator soni - 697, PostgreSQL qator soni - 697
+2025-03-04T05:34:42.225Z - marge_group_partners: Qator soni mos keladi
+2025-03-04T05:34:42.231Z - marge_group_partners: ID lar tekshirildi - MySQL: 697, PostgreSQL: 697
+2025-03-04T05:34:42.232Z - marge_group_partners: ID lar mos keladi
+2025-03-04T05:34:42.238Z - marge_group_partners: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:42.240Z - marge_group_partners: Namuna mos keladi
+2025-03-04T05:34:42.240Z - marge_group_partners: Jadval mos keladi
+2025-03-04T05:34:42.240Z - marge_group_partners: Tekshiruv yakunlandi
+2025-03-04T05:34:43.242Z - marge_groups: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:43.243Z - marge_groups: Tekshiruv boshlandi
+2025-03-04T05:34:43.246Z - marge_groups: MySQL qator soni - 33, PostgreSQL qator soni - 33
+2025-03-04T05:34:43.246Z - marge_groups: Qator soni mos keladi
+2025-03-04T05:34:43.248Z - marge_groups: ID lar tekshirildi - MySQL: 33, PostgreSQL: 33
+2025-03-04T05:34:43.249Z - marge_groups: ID lar mos keladi
+2025-03-04T05:34:43.253Z - marge_groups: Namuna qatorlari - MySQL: 33, PostgreSQL: 33
+2025-03-04T05:34:43.254Z - marge_groups: Namuna mos keladi
+2025-03-04T05:34:43.254Z - marge_groups: Jadval mos keladi
+2025-03-04T05:34:43.254Z - marge_groups: Tekshiruv yakunlandi
+2025-03-04T05:34:44.256Z - marges: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:44.256Z - marges: Tekshiruv boshlandi
+2025-03-04T05:34:44.259Z - marges: MySQL qator soni - 38, PostgreSQL qator soni - 38
+2025-03-04T05:34:44.260Z - marges: Qator soni mos keladi
+2025-03-04T05:34:44.262Z - marges: ID lar tekshirildi - MySQL: 38, PostgreSQL: 38
+2025-03-04T05:34:44.262Z - marges: ID lar mos keladi
+2025-03-04T05:34:44.267Z - marges: Namuna qatorlari - MySQL: 38, PostgreSQL: 38
+2025-03-04T05:34:44.268Z - marges: Namuna mos keladi
+2025-03-04T05:34:44.268Z - marges: Jadval mos keladi
+2025-03-04T05:34:44.268Z - marges: Tekshiruv yakunlandi
+2025-03-04T05:34:45.270Z - migrations: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:45.270Z - migrations: Tekshiruv boshlandi
+2025-03-04T05:34:45.274Z - migrations: MySQL qator soni - 664, PostgreSQL qator soni - 664
+2025-03-04T05:34:45.274Z - migrations: Qator soni mos keladi
+2025-03-04T05:34:45.281Z - migrations: ID lar tekshirildi - MySQL: 664, PostgreSQL: 664
+2025-03-04T05:34:45.282Z - migrations: ID lar mos keladi
+2025-03-04T05:34:45.286Z - migrations: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:45.287Z - migrations: Namuna mos keladi
+2025-03-04T05:34:45.287Z - migrations: Jadval mos keladi
+2025-03-04T05:34:45.287Z - migrations: Tekshiruv yakunlandi
+2025-03-04T05:34:46.289Z - move_product_to_other_repositories: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:46.289Z - move_product_to_other_repositories: Tekshiruv boshlandi
+2025-03-04T05:34:46.293Z - move_product_to_other_repositories: MySQL qator soni - 1547, PostgreSQL qator soni - 1547
+2025-03-04T05:34:46.293Z - move_product_to_other_repositories: Qator soni mos keladi
+2025-03-04T05:34:46.299Z - move_product_to_other_repositories: ID lar tekshirildi - MySQL: 1547, PostgreSQL: 1547
+2025-03-04T05:34:46.300Z - move_product_to_other_repositories: ID lar mos keladi
+2025-03-04T05:34:46.307Z - move_product_to_other_repositories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:46.308Z - move_product_to_other_repositories: Namuna mos keladi
+2025-03-04T05:34:46.308Z - move_product_to_other_repositories: Jadval mos keladi
+2025-03-04T05:34:46.308Z - move_product_to_other_repositories: Tekshiruv yakunlandi
+2025-03-04T05:34:47.309Z - numerations: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:47.309Z - numerations: Tekshiruv boshlandi
+2025-03-04T05:34:47.312Z - numerations: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:34:47.312Z - numerations: Qator soni mos keladi
+2025-03-04T05:34:47.314Z - numerations: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:34:47.314Z - numerations: ID lar mos keladi
+2025-03-04T05:34:47.317Z - numerations: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:34:47.318Z - numerations: Namuna mos keladi
+2025-03-04T05:34:47.318Z - numerations: Jadval mos keladi
+2025-03-04T05:34:47.318Z - numerations: Tekshiruv yakunlandi
+2025-03-04T05:34:48.319Z - oauth_access_tokens: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:48.319Z - oauth_access_tokens: Tekshiruv boshlandi
+2025-03-04T05:34:48.362Z - oauth_access_tokens: MySQL qator soni - 58049, PostgreSQL qator soni - 58049
+2025-03-04T05:34:48.363Z - oauth_access_tokens: Qator soni mos keladi
+2025-03-04T05:34:48.451Z - oauth_access_tokens: ID lar tekshirildi - MySQL: 58049, PostgreSQL: 58049
+2025-03-04T05:34:48.460Z - oauth_access_tokens: ID lar mos keladi
+2025-03-04T05:34:48.461Z - oauth_access_tokens: Xatolik yuz berdi: Illegal double '000437628711e2838' value found during parsing
+2025-03-04T05:34:48.461Z - oauth_access_tokens: Jadval mos emas - Sabab: Xatolik yuz berdi: Illegal double '000437628711e2838' value found during parsing
+2025-03-04T05:34:48.461Z - oauth_access_tokens: Tekshiruv yakunlandi
+2025-03-04T05:34:49.463Z - oauth_auth_codes: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:49.463Z - oauth_auth_codes: Tekshiruv boshlandi
+2025-03-04T05:34:49.465Z - oauth_auth_codes: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:49.465Z - oauth_auth_codes: Qator soni mos keladi
+2025-03-04T05:34:49.467Z - oauth_auth_codes: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:49.467Z - oauth_auth_codes: ID lar mos keladi
+2025-03-04T05:34:49.467Z - oauth_auth_codes: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:49.468Z - oauth_auth_codes: Jadval mos keladi
+2025-03-04T05:34:49.468Z - oauth_auth_codes: Tekshiruv yakunlandi
+2025-03-04T05:34:50.469Z - oauth_clients: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:50.470Z - oauth_clients: Tekshiruv boshlandi
+2025-03-04T05:34:50.472Z - oauth_clients: MySQL qator soni - 4, PostgreSQL qator soni - 4
+2025-03-04T05:34:50.472Z - oauth_clients: Qator soni mos keladi
+2025-03-04T05:34:50.474Z - oauth_clients: ID lar tekshirildi - MySQL: 4, PostgreSQL: 4
+2025-03-04T05:34:50.474Z - oauth_clients: ID lar mos keladi
+2025-03-04T05:34:50.477Z - oauth_clients: Namuna qatorlari - MySQL: 4, PostgreSQL: 4
+2025-03-04T05:34:50.477Z - oauth_clients: Namuna mos keladi
+2025-03-04T05:34:50.478Z - oauth_clients: Jadval mos keladi
+2025-03-04T05:34:50.478Z - oauth_clients: Tekshiruv yakunlandi
+2025-03-04T05:34:51.479Z - oauth_personal_access_clients: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:51.480Z - oauth_personal_access_clients: Tekshiruv boshlandi
+2025-03-04T05:34:51.483Z - oauth_personal_access_clients: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:34:51.483Z - oauth_personal_access_clients: Qator soni mos keladi
+2025-03-04T05:34:51.485Z - oauth_personal_access_clients: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:34:51.485Z - oauth_personal_access_clients: ID lar mos keladi
+2025-03-04T05:34:51.487Z - oauth_personal_access_clients: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:34:51.487Z - oauth_personal_access_clients: Namuna mos keladi
+2025-03-04T05:34:51.487Z - oauth_personal_access_clients: Jadval mos keladi
+2025-03-04T05:34:51.487Z - oauth_personal_access_clients: Tekshiruv yakunlandi
+2025-03-04T05:34:52.489Z - oauth_refresh_tokens: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:52.490Z - oauth_refresh_tokens: Tekshiruv boshlandi
+2025-03-04T05:34:52.554Z - oauth_refresh_tokens: MySQL qator soni - 80371, PostgreSQL qator soni - 80371
+2025-03-04T05:34:52.554Z - oauth_refresh_tokens: Qator soni mos keladi
+2025-03-04T05:34:52.668Z - oauth_refresh_tokens: ID lar tekshirildi - MySQL: 80371, PostgreSQL: 80371
+2025-03-04T05:34:52.686Z - oauth_refresh_tokens: ID lar mos keladi
+2025-03-04T05:34:52.687Z - oauth_refresh_tokens: Xatolik yuz berdi: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'e1101e94481d7b69d958076b54964f6b354053ae7293d0e7310efbc23d511610afbc94932,0005f7' at line 1
+2025-03-04T05:34:52.687Z - oauth_refresh_tokens: Jadval mos emas - Sabab: Xatolik yuz berdi: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'e1101e94481d7b69d958076b54964f6b354053ae7293d0e7310efbc23d511610afbc94932,0005f7' at line 1
+2025-03-04T05:34:52.687Z - oauth_refresh_tokens: Tekshiruv yakunlandi
+2025-03-04T05:34:53.689Z - one_time_calculations: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:53.689Z - one_time_calculations: Tekshiruv boshlandi
+2025-03-04T05:34:53.691Z - one_time_calculations: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:34:53.692Z - one_time_calculations: Qator soni mos keladi
+2025-03-04T05:34:53.694Z - one_time_calculations: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:34:53.694Z - one_time_calculations: ID lar mos keladi
+2025-03-04T05:34:53.694Z - one_time_calculations: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:34:53.694Z - one_time_calculations: Jadval mos keladi
+2025-03-04T05:34:53.694Z - one_time_calculations: Tekshiruv yakunlandi
+2025-03-04T05:34:54.696Z - order_status_logs: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:54.696Z - order_status_logs: Tekshiruv boshlandi
+2025-03-04T05:34:54.742Z - order_status_logs: MySQL qator soni - 97209, PostgreSQL qator soni - 97209
+2025-03-04T05:34:54.743Z - order_status_logs: Qator soni mos keladi
+2025-03-04T05:34:54.833Z - order_status_logs: ID lar tekshirildi - MySQL: 97209, PostgreSQL: 97209
+2025-03-04T05:34:54.841Z - order_status_logs: ID lar mos keladi
+2025-03-04T05:34:54.844Z - order_status_logs: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:54.845Z - order_status_logs: Namuna mos keladi
+2025-03-04T05:34:54.845Z - order_status_logs: Foreign key soni farq qiladi: MySQL=4, PostgreSQL=0
+2025-03-04T05:34:54.845Z - order_status_logs: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=4, PostgreSQL=0
+2025-03-04T05:34:54.845Z - order_status_logs: Tekshiruv yakunlandi
+2025-03-04T05:34:55.847Z - orders: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:55.847Z - orders: Tekshiruv boshlandi
+2025-03-04T05:34:55.877Z - orders: MySQL qator soni - 110082, PostgreSQL qator soni - 110082
+2025-03-04T05:34:55.877Z - orders: Qator soni mos keladi
+2025-03-04T05:34:55.967Z - orders: ID lar tekshirildi - MySQL: 110082, PostgreSQL: 110082
+2025-03-04T05:34:55.974Z - orders: ID lar mos keladi
+2025-03-04T05:34:55.977Z - orders: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:55.978Z - orders: Namuna mos keladi
+2025-03-04T05:34:55.978Z - orders: Jadval mos keladi
+2025-03-04T05:34:55.978Z - orders: Tekshiruv yakunlandi
+2025-03-04T05:34:56.980Z - organization_types: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:56.980Z - organization_types: Tekshiruv boshlandi
+2025-03-04T05:34:56.983Z - organization_types: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:34:56.983Z - organization_types: Qator soni mos keladi
+2025-03-04T05:34:56.985Z - organization_types: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:34:56.985Z - organization_types: ID lar mos keladi
+2025-03-04T05:34:56.987Z - organization_types: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:34:56.988Z - organization_types: Namuna mos keladi
+2025-03-04T05:34:56.988Z - organization_types: Jadval mos keladi
+2025-03-04T05:34:56.988Z - organization_types: Tekshiruv yakunlandi
+2025-03-04T05:34:57.990Z - organizations: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:57.990Z - organizations: Tekshiruv boshlandi
+2025-03-04T05:34:57.993Z - organizations: MySQL qator soni - 6, PostgreSQL qator soni - 6
+2025-03-04T05:34:57.993Z - organizations: Qator soni mos keladi
+2025-03-04T05:34:57.994Z - organizations: ID lar tekshirildi - MySQL: 6, PostgreSQL: 6
+2025-03-04T05:34:57.995Z - organizations: ID lar mos keladi
+2025-03-04T05:34:57.997Z - organizations: Namuna qatorlari - MySQL: 6, PostgreSQL: 6
+2025-03-04T05:34:57.998Z - organizations: Namuna mos keladi
+2025-03-04T05:34:57.998Z - organizations: Jadval mos keladi
+2025-03-04T05:34:57.998Z - organizations: Tekshiruv yakunlandi
+2025-03-04T05:34:59.000Z - partner_account_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:34:59.000Z - partner_account_numbers: Tekshiruv boshlandi
+2025-03-04T05:34:59.004Z - partner_account_numbers: MySQL qator soni - 639, PostgreSQL qator soni - 639
+2025-03-04T05:34:59.004Z - partner_account_numbers: Qator soni mos keladi
+2025-03-04T05:34:59.008Z - partner_account_numbers: ID lar tekshirildi - MySQL: 639, PostgreSQL: 639
+2025-03-04T05:34:59.008Z - partner_account_numbers: ID lar mos keladi
+2025-03-04T05:34:59.013Z - partner_account_numbers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:34:59.014Z - partner_account_numbers: Namuna mos keladi
+2025-03-04T05:34:59.014Z - partner_account_numbers: Jadval mos keladi
+2025-03-04T05:34:59.014Z - partner_account_numbers: Tekshiruv yakunlandi
+2025-03-04T05:35:00.016Z - partner_accounts: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:00.016Z - partner_accounts: Tekshiruv boshlandi
+2025-03-04T05:35:00.020Z - partner_accounts: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:35:00.020Z - partner_accounts: Qator soni mos keladi
+2025-03-04T05:35:00.023Z - partner_accounts: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:35:00.024Z - partner_accounts: ID lar mos keladi
+2025-03-04T05:35:00.024Z - partner_accounts: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:35:00.024Z - partner_accounts: Jadval mos keladi
+2025-03-04T05:35:00.024Z - partner_accounts: Tekshiruv yakunlandi
+2025-03-04T05:35:01.025Z - partner_action_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:01.026Z - partner_action_histories: Tekshiruv boshlandi
+2025-03-04T05:35:01.028Z - partner_action_histories: MySQL qator soni - 31, PostgreSQL qator soni - 31
+2025-03-04T05:35:01.028Z - partner_action_histories: Qator soni mos keladi
+2025-03-04T05:35:01.030Z - partner_action_histories: ID lar tekshirildi - MySQL: 31, PostgreSQL: 31
+2025-03-04T05:35:01.030Z - partner_action_histories: ID lar mos keladi
+2025-03-04T05:35:01.033Z - partner_action_histories: Namuna qatorlari - MySQL: 31, PostgreSQL: 31
+2025-03-04T05:35:01.034Z - partner_action_histories: Namuna mos keladi
+2025-03-04T05:35:01.034Z - partner_action_histories: Foreign key soni farq qiladi: MySQL=2, PostgreSQL=0
+2025-03-04T05:35:01.034Z - partner_action_histories: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=2, PostgreSQL=0
+2025-03-04T05:35:01.034Z - partner_action_histories: Tekshiruv yakunlandi
+2025-03-04T05:35:02.036Z - partner_agent_groups: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:02.036Z - partner_agent_groups: Tekshiruv boshlandi
+2025-03-04T05:35:02.039Z - partner_agent_groups: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:35:02.040Z - partner_agent_groups: Qator soni mos keladi
+2025-03-04T05:35:02.042Z - partner_agent_groups: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:35:02.042Z - partner_agent_groups: ID lar mos keladi
+2025-03-04T05:35:02.042Z - partner_agent_groups: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:35:02.042Z - partner_agent_groups: Jadval mos keladi
+2025-03-04T05:35:02.042Z - partner_agent_groups: Tekshiruv yakunlandi
+2025-03-04T05:35:03.043Z - partner_credit_limits: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:03.044Z - partner_credit_limits: Tekshiruv boshlandi
+2025-03-04T05:35:03.047Z - partner_credit_limits: MySQL qator soni - 1330, PostgreSQL qator soni - 1330
+2025-03-04T05:35:03.047Z - partner_credit_limits: Qator soni mos keladi
+2025-03-04T05:35:03.053Z - partner_credit_limits: ID lar tekshirildi - MySQL: 1330, PostgreSQL: 1330
+2025-03-04T05:35:03.053Z - partner_credit_limits: ID lar mos keladi
+2025-03-04T05:35:03.059Z - partner_credit_limits: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:03.060Z - partner_credit_limits: Namuna mos keladi
+2025-03-04T05:35:03.060Z - partner_credit_limits: Jadval mos keladi
+2025-03-04T05:35:03.060Z - partner_credit_limits: Tekshiruv yakunlandi
+2025-03-04T05:35:04.062Z - partner_debt_operations: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:04.062Z - partner_debt_operations: Tekshiruv boshlandi
+2025-03-04T05:35:04.067Z - partner_debt_operations: MySQL qator soni - 4568, PostgreSQL qator soni - 4568
+2025-03-04T05:35:04.067Z - partner_debt_operations: Qator soni mos keladi
+2025-03-04T05:35:04.083Z - partner_debt_operations: ID lar tekshirildi - MySQL: 4568, PostgreSQL: 4568
+2025-03-04T05:35:04.085Z - partner_debt_operations: ID lar mos keladi
+2025-03-04T05:35:04.088Z - partner_debt_operations: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:04.088Z - partner_debt_operations: Namuna mos keladi
+2025-03-04T05:35:04.088Z - partner_debt_operations: Jadval mos keladi
+2025-03-04T05:35:04.088Z - partner_debt_operations: Tekshiruv yakunlandi
+2025-03-04T05:35:05.088Z - partner_debts: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:05.089Z - partner_debts: Tekshiruv boshlandi
+2025-03-04T05:35:05.163Z - partner_debts: MySQL qator soni - 216306, PostgreSQL qator soni - 216306
+2025-03-04T05:35:05.163Z - partner_debts: Qator soni mos keladi
+2025-03-04T05:35:05.366Z - partner_debts: ID lar tekshirildi - MySQL: 216306, PostgreSQL: 216306
+2025-03-04T05:35:05.399Z - partner_debts: ID lar mos keladi
+2025-03-04T05:35:05.403Z - partner_debts: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:05.404Z - partner_debts: Namuna mos keladi
+2025-03-04T05:35:05.405Z - partner_debts: Jadval mos keladi
+2025-03-04T05:35:05.405Z - partner_debts: Tekshiruv yakunlandi
+2025-03-04T05:35:06.405Z - partner_money: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:06.406Z - partner_money: Tekshiruv boshlandi
+2025-03-04T05:35:06.409Z - partner_money: MySQL qator soni - 1023, PostgreSQL qator soni - 1023
+2025-03-04T05:35:06.409Z - partner_money: Qator soni mos keladi
+2025-03-04T05:35:06.414Z - partner_money: ID lar tekshirildi - MySQL: 1023, PostgreSQL: 1023
+2025-03-04T05:35:06.414Z - partner_money: ID lar mos keladi
+2025-03-04T05:35:06.419Z - partner_money: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:06.420Z - partner_money: Namuna mos keladi
+2025-03-04T05:35:06.420Z - partner_money: Jadval mos keladi
+2025-03-04T05:35:06.420Z - partner_money: Tekshiruv yakunlandi
+2025-03-04T05:35:07.422Z - partner_of_ishonch_ids: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:07.423Z - partner_of_ishonch_ids: Tekshiruv boshlandi
+2025-03-04T05:35:07.426Z - partner_of_ishonch_ids: MySQL qator soni - 127, PostgreSQL qator soni - 127
+2025-03-04T05:35:07.426Z - partner_of_ishonch_ids: Qator soni mos keladi
+2025-03-04T05:35:07.429Z - partner_of_ishonch_ids: ID lar tekshirildi - MySQL: 127, PostgreSQL: 127
+2025-03-04T05:35:07.429Z - partner_of_ishonch_ids: ID lar mos keladi
+2025-03-04T05:35:07.433Z - partner_of_ishonch_ids: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:07.434Z - partner_of_ishonch_ids: Namuna mos keladi
+2025-03-04T05:35:07.434Z - partner_of_ishonch_ids: Foreign key soni farq qiladi: MySQL=1, PostgreSQL=0
+2025-03-04T05:35:07.435Z - partner_of_ishonch_ids: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=1, PostgreSQL=0
+2025-03-04T05:35:07.435Z - partner_of_ishonch_ids: Tekshiruv yakunlandi
+2025-03-04T05:35:08.435Z - partner_pas: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:08.436Z - partner_pas: Tekshiruv boshlandi
+2025-03-04T05:35:08.439Z - partner_pas: MySQL qator soni - 555, PostgreSQL qator soni - 555
+2025-03-04T05:35:08.439Z - partner_pas: Qator soni mos keladi
+2025-03-04T05:35:08.442Z - partner_pas: ID lar tekshirildi - MySQL: 555, PostgreSQL: 555
+2025-03-04T05:35:08.442Z - partner_pas: ID lar mos keladi
+2025-03-04T05:35:08.445Z - partner_pas: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:08.446Z - partner_pas: Namuna mos keladi
+2025-03-04T05:35:08.446Z - partner_pas: Jadval mos keladi
+2025-03-04T05:35:08.446Z - partner_pas: Tekshiruv yakunlandi
+2025-03-04T05:35:09.448Z - partner_protocol_files: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:09.449Z - partner_protocol_files: Tekshiruv boshlandi
+2025-03-04T05:35:09.451Z - partner_protocol_files: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:35:09.452Z - partner_protocol_files: Qator soni mos keladi
+2025-03-04T05:35:09.453Z - partner_protocol_files: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:35:09.454Z - partner_protocol_files: ID lar mos keladi
+2025-03-04T05:35:09.454Z - partner_protocol_files: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:35:09.454Z - partner_protocol_files: Foreign key soni farq qiladi: MySQL=2, PostgreSQL=0
+2025-03-04T05:35:09.454Z - partner_protocol_files: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=2, PostgreSQL=0
+2025-03-04T05:35:09.454Z - partner_protocol_files: Tekshiruv yakunlandi
+2025-03-04T05:35:10.456Z - partner_protocols: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:10.456Z - partner_protocols: Tekshiruv boshlandi
+2025-03-04T05:35:10.459Z - partner_protocols: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:35:10.459Z - partner_protocols: Qator soni mos keladi
+2025-03-04T05:35:10.461Z - partner_protocols: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:35:10.461Z - partner_protocols: ID lar mos keladi
+2025-03-04T05:35:10.461Z - partner_protocols: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:35:10.461Z - partner_protocols: Foreign key soni farq qiladi: MySQL=3, PostgreSQL=0
+2025-03-04T05:35:10.461Z - partner_protocols: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=3, PostgreSQL=0
+2025-03-04T05:35:10.462Z - partner_protocols: Tekshiruv yakunlandi
+2025-03-04T05:35:11.463Z - partner_types: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:11.464Z - partner_types: Tekshiruv boshlandi
+2025-03-04T05:35:11.467Z - partner_types: MySQL qator soni - 1126, PostgreSQL qator soni - 1126
+2025-03-04T05:35:11.468Z - partner_types: Qator soni mos keladi
+2025-03-04T05:35:11.472Z - partner_types: ID lar tekshirildi - MySQL: 1126, PostgreSQL: 1126
+2025-03-04T05:35:11.473Z - partner_types: ID lar mos keladi
+2025-03-04T05:35:11.477Z - partner_types: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:11.478Z - partner_types: Namuna mos keladi
+2025-03-04T05:35:11.478Z - partner_types: Jadval mos keladi
+2025-03-04T05:35:11.478Z - partner_types: Tekshiruv yakunlandi
+2025-03-04T05:35:12.480Z - partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:12.480Z - partners: Tekshiruv boshlandi
+2025-03-04T05:35:12.483Z - partners: MySQL qator soni - 1126, PostgreSQL qator soni - 1126
+2025-03-04T05:35:12.483Z - partners: Qator soni mos keladi
+2025-03-04T05:35:12.488Z - partners: ID lar tekshirildi - MySQL: 1126, PostgreSQL: 1126
+2025-03-04T05:35:12.488Z - partners: ID lar mos keladi
+2025-03-04T05:35:12.492Z - partners: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:12.493Z - partners: Namuna mos keladi
+2025-03-04T05:35:12.493Z - partners: Foreign key soni farq qiladi: MySQL=1, PostgreSQL=0
+2025-03-04T05:35:12.493Z - partners: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=1, PostgreSQL=0
+2025-03-04T05:35:12.494Z - partners: Tekshiruv yakunlandi
+2025-03-04T05:35:13.494Z - password_resets: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:13.495Z - password_resets: Tekshiruv boshlandi
+2025-03-04T05:35:13.497Z - password_resets: MySQL qator soni - 1, PostgreSQL qator soni - 1
+2025-03-04T05:35:13.497Z - password_resets: Qator soni mos keladi
+2025-03-04T05:35:13.498Z - password_resets: Xatolik yuz berdi: Unknown column 'id' in 'field list'
+2025-03-04T05:35:13.498Z - password_resets: Jadval mos emas - Sabab: Xatolik yuz berdi: Unknown column 'id' in 'field list'
+2025-03-04T05:35:13.498Z - password_resets: Tekshiruv yakunlandi
+2025-03-04T05:35:14.500Z - pay_for_invoices: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:14.501Z - pay_for_invoices: Tekshiruv boshlandi
+2025-03-04T05:35:14.504Z - pay_for_invoices: MySQL qator soni - 673, PostgreSQL qator soni - 673
+2025-03-04T05:35:14.505Z - pay_for_invoices: Qator soni mos keladi
+2025-03-04T05:35:14.508Z - pay_for_invoices: ID lar tekshirildi - MySQL: 673, PostgreSQL: 673
+2025-03-04T05:35:14.509Z - pay_for_invoices: ID lar mos keladi
+2025-03-04T05:35:14.513Z - pay_for_invoices: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:14.514Z - pay_for_invoices: Namuna mos keladi
+2025-03-04T05:35:14.514Z - pay_for_invoices: Jadval mos keladi
+2025-03-04T05:35:14.514Z - pay_for_invoices: Tekshiruv yakunlandi
+2025-03-04T05:35:15.516Z - personal_account_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:15.516Z - personal_account_numbers: Tekshiruv boshlandi
+2025-03-04T05:35:15.519Z - personal_account_numbers: MySQL qator soni - 17, PostgreSQL qator soni - 17
+2025-03-04T05:35:15.519Z - personal_account_numbers: Qator soni mos keladi
+2025-03-04T05:35:15.521Z - personal_account_numbers: ID lar tekshirildi - MySQL: 17, PostgreSQL: 17
+2025-03-04T05:35:15.522Z - personal_account_numbers: ID lar mos keladi
+2025-03-04T05:35:15.524Z - personal_account_numbers: Namuna qatorlari - MySQL: 17, PostgreSQL: 17
+2025-03-04T05:35:15.524Z - personal_account_numbers: Namuna mos keladi
+2025-03-04T05:35:15.524Z - personal_account_numbers: Jadval mos keladi
+2025-03-04T05:35:15.524Z - personal_account_numbers: Tekshiruv yakunlandi
+2025-03-04T05:35:16.526Z - photo_reports: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:16.526Z - photo_reports: Tekshiruv boshlandi
+2025-03-04T05:35:16.530Z - photo_reports: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:35:16.530Z - photo_reports: Qator soni mos keladi
+2025-03-04T05:35:16.531Z - photo_reports: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:35:16.532Z - photo_reports: ID lar mos keladi
+2025-03-04T05:35:16.532Z - photo_reports: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:35:16.532Z - photo_reports: Jadval mos keladi
+2025-03-04T05:35:16.532Z - photo_reports: Tekshiruv yakunlandi
+2025-03-04T05:35:17.534Z - positions: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:17.534Z - positions: Tekshiruv boshlandi
+2025-03-04T05:35:17.538Z - positions: MySQL qator soni - 24, PostgreSQL qator soni - 24
+2025-03-04T05:35:17.538Z - positions: Qator soni mos keladi
+2025-03-04T05:35:17.540Z - positions: ID lar tekshirildi - MySQL: 24, PostgreSQL: 24
+2025-03-04T05:35:17.540Z - positions: ID lar mos keladi
+2025-03-04T05:35:17.543Z - positions: Namuna qatorlari - MySQL: 24, PostgreSQL: 24
+2025-03-04T05:35:17.544Z - positions: Namuna mos keladi
+2025-03-04T05:35:17.544Z - positions: Jadval mos keladi
+2025-03-04T05:35:17.544Z - positions: Tekshiruv yakunlandi
+2025-03-04T05:35:18.545Z - practice_days: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:18.545Z - practice_days: Tekshiruv boshlandi
+2025-03-04T05:35:18.548Z - practice_days: MySQL qator soni - 3663, PostgreSQL qator soni - 3663
+2025-03-04T05:35:18.549Z - practice_days: Qator soni mos keladi
+2025-03-04T05:35:18.556Z - practice_days: ID lar tekshirildi - MySQL: 3663, PostgreSQL: 3663
+2025-03-04T05:35:18.556Z - practice_days: ID lar mos keladi
+2025-03-04T05:35:18.561Z - practice_days: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:18.562Z - practice_days: Namuna mos keladi
+2025-03-04T05:35:18.562Z - practice_days: Jadval mos keladi
+2025-03-04T05:35:18.562Z - practice_days: Tekshiruv yakunlandi
+2025-03-04T05:35:19.564Z - practice_months: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:19.564Z - practice_months: Tekshiruv boshlandi
+2025-03-04T05:35:19.567Z - practice_months: MySQL qator soni - 166, PostgreSQL qator soni - 166
+2025-03-04T05:35:19.567Z - practice_months: Qator soni mos keladi
+2025-03-04T05:35:19.569Z - practice_months: ID lar tekshirildi - MySQL: 166, PostgreSQL: 166
+2025-03-04T05:35:19.569Z - practice_months: ID lar mos keladi
+2025-03-04T05:35:19.573Z - practice_months: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:19.574Z - practice_months: Namuna mos keladi
+2025-03-04T05:35:19.574Z - practice_months: Jadval mos keladi
+2025-03-04T05:35:19.574Z - practice_months: Tekshiruv yakunlandi
+2025-03-04T05:35:20.576Z - pre_order_invoices: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:20.576Z - pre_order_invoices: Tekshiruv boshlandi
+2025-03-04T05:35:20.580Z - pre_order_invoices: MySQL qator soni - 3994, PostgreSQL qator soni - 3994
+2025-03-04T05:35:20.581Z - pre_order_invoices: Qator soni mos keladi
+2025-03-04T05:35:20.589Z - pre_order_invoices: ID lar tekshirildi - MySQL: 3994, PostgreSQL: 3994
+2025-03-04T05:35:20.590Z - pre_order_invoices: ID lar mos keladi
+2025-03-04T05:35:20.597Z - pre_order_invoices: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:20.598Z - pre_order_invoices: Namuna mos keladi
+2025-03-04T05:35:20.598Z - pre_order_invoices: Foreign key soni farq qiladi: MySQL=1, PostgreSQL=0
+2025-03-04T05:35:20.598Z - pre_order_invoices: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=1, PostgreSQL=0
+2025-03-04T05:35:20.598Z - pre_order_invoices: Tekshiruv yakunlandi
+2025-03-04T05:35:21.599Z - pre_order_products: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:21.599Z - pre_order_products: Tekshiruv boshlandi
+2025-03-04T05:35:21.608Z - pre_order_products: MySQL qator soni - 19659, PostgreSQL qator soni - 19659
+2025-03-04T05:35:21.608Z - pre_order_products: Qator soni mos keladi
+2025-03-04T05:35:21.655Z - pre_order_products: ID lar tekshirildi - MySQL: 19659, PostgreSQL: 19659
+2025-03-04T05:35:21.657Z - pre_order_products: ID lar mos keladi
+2025-03-04T05:35:21.660Z - pre_order_products: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:21.660Z - pre_order_products: Namuna mos keladi
+2025-03-04T05:35:21.660Z - pre_order_products: Jadval mos keladi
+2025-03-04T05:35:21.660Z - pre_order_products: Tekshiruv yakunlandi
+2025-03-04T05:35:22.661Z - pre_orders: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:22.661Z - pre_orders: Tekshiruv boshlandi
+2025-03-04T05:35:22.666Z - pre_orders: MySQL qator soni - 3286, PostgreSQL qator soni - 3286
+2025-03-04T05:35:22.667Z - pre_orders: Qator soni mos keladi
+2025-03-04T05:35:22.676Z - pre_orders: ID lar tekshirildi - MySQL: 3286, PostgreSQL: 3286
+2025-03-04T05:35:22.677Z - pre_orders: ID lar mos keladi
+2025-03-04T05:35:22.685Z - pre_orders: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:22.686Z - pre_orders: Namuna mos keladi
+2025-03-04T05:35:22.686Z - pre_orders: Jadval mos keladi
+2025-03-04T05:35:22.686Z - pre_orders: Tekshiruv yakunlandi
+2025-03-04T05:35:23.688Z - prepaid_expenses: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:23.688Z - prepaid_expenses: Tekshiruv boshlandi
+2025-03-04T05:35:23.692Z - prepaid_expenses: MySQL qator soni - 1245, PostgreSQL qator soni - 1245
+2025-03-04T05:35:23.693Z - prepaid_expenses: Qator soni mos keladi
+2025-03-04T05:35:23.697Z - prepaid_expenses: ID lar tekshirildi - MySQL: 1245, PostgreSQL: 1245
+2025-03-04T05:35:23.697Z - prepaid_expenses: ID lar mos keladi
+2025-03-04T05:35:23.702Z - prepaid_expenses: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:23.704Z - prepaid_expenses: Namuna mos keladi
+2025-03-04T05:35:23.704Z - prepaid_expenses: Jadval mos keladi
+2025-03-04T05:35:23.704Z - prepaid_expenses: Tekshiruv yakunlandi
+2025-03-04T05:35:24.705Z - product_bonuses: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:24.706Z - product_bonuses: Tekshiruv boshlandi
+2025-03-04T05:35:24.709Z - product_bonuses: MySQL qator soni - 2686, PostgreSQL qator soni - 2686
+2025-03-04T05:35:24.710Z - product_bonuses: Qator soni mos keladi
+2025-03-04T05:35:24.715Z - product_bonuses: ID lar tekshirildi - MySQL: 2686, PostgreSQL: 2686
+2025-03-04T05:35:24.715Z - product_bonuses: ID lar mos keladi
+2025-03-04T05:35:24.718Z - product_bonuses: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:24.719Z - product_bonuses: Namuna mos keladi
+2025-03-04T05:35:24.719Z - product_bonuses: Jadval mos keladi
+2025-03-04T05:35:24.719Z - product_bonuses: Tekshiruv yakunlandi
+2025-03-04T05:35:25.721Z - product_categories: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:25.721Z - product_categories: Tekshiruv boshlandi
+2025-03-04T05:35:25.724Z - product_categories: MySQL qator soni - 754, PostgreSQL qator soni - 754
+2025-03-04T05:35:25.725Z - product_categories: Qator soni mos keladi
+2025-03-04T05:35:25.728Z - product_categories: ID lar tekshirildi - MySQL: 754, PostgreSQL: 754
+2025-03-04T05:35:25.728Z - product_categories: ID lar mos keladi
+2025-03-04T05:35:25.735Z - product_categories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:25.737Z - product_categories: Namuna mos keladi
+2025-03-04T05:35:25.737Z - product_categories: Jadval mos keladi
+2025-03-04T05:35:25.737Z - product_categories: Tekshiruv yakunlandi
+2025-03-04T05:35:26.739Z - product_category_brands: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:26.739Z - product_category_brands: Tekshiruv boshlandi
+2025-03-04T05:35:26.743Z - product_category_brands: MySQL qator soni - 2646, PostgreSQL qator soni - 2646
+2025-03-04T05:35:26.743Z - product_category_brands: Qator soni mos keladi
+2025-03-04T05:35:26.755Z - product_category_brands: ID lar tekshirildi - MySQL: 2646, PostgreSQL: 2646
+2025-03-04T05:35:26.755Z - product_category_brands: ID lar mos keladi
+2025-03-04T05:35:26.763Z - product_category_brands: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:26.764Z - product_category_brands: Namuna mos keladi
+2025-03-04T05:35:26.764Z - product_category_brands: Jadval mos keladi
+2025-03-04T05:35:26.764Z - product_category_brands: Tekshiruv yakunlandi
+2025-03-04T05:35:27.765Z - product_category_properties: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:27.765Z - product_category_properties: Tekshiruv boshlandi
+2025-03-04T05:35:27.768Z - product_category_properties: MySQL qator soni - 926, PostgreSQL qator soni - 926
+2025-03-04T05:35:27.768Z - product_category_properties: Qator soni mos keladi
+2025-03-04T05:35:27.772Z - product_category_properties: ID lar tekshirildi - MySQL: 926, PostgreSQL: 926
+2025-03-04T05:35:27.773Z - product_category_properties: ID lar mos keladi
+2025-03-04T05:35:27.776Z - product_category_properties: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:27.776Z - product_category_properties: Namuna mos keladi
+2025-03-04T05:35:27.776Z - product_category_properties: Jadval mos keladi
+2025-03-04T05:35:27.776Z - product_category_properties: Tekshiruv yakunlandi
+2025-03-04T05:35:28.777Z - product_images: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:28.777Z - product_images: Tekshiruv boshlandi
+2025-03-04T05:35:28.781Z - product_images: MySQL qator soni - 9, PostgreSQL qator soni - 9
+2025-03-04T05:35:28.782Z - product_images: Qator soni mos keladi
+2025-03-04T05:35:28.786Z - product_images: ID lar tekshirildi - MySQL: 9, PostgreSQL: 9
+2025-03-04T05:35:28.787Z - product_images: ID lar mos keladi
+2025-03-04T05:35:28.792Z - product_images: Namuna qatorlari - MySQL: 9, PostgreSQL: 9
+2025-03-04T05:35:28.793Z - product_images: Namuna mos keladi
+2025-03-04T05:35:28.793Z - product_images: Jadval mos keladi
+2025-03-04T05:35:28.793Z - product_images: Tekshiruv yakunlandi
+2025-03-04T05:35:29.794Z - product_info_on_dates: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:29.794Z - product_info_on_dates: Tekshiruv boshlandi
+2025-03-04T05:35:29.796Z - product_info_on_dates: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:35:29.796Z - product_info_on_dates: Qator soni mos keladi
+2025-03-04T05:35:29.798Z - product_info_on_dates: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:35:29.799Z - product_info_on_dates: ID lar mos keladi
+2025-03-04T05:35:29.799Z - product_info_on_dates: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:35:29.799Z - product_info_on_dates: Jadval mos keladi
+2025-03-04T05:35:29.799Z - product_info_on_dates: Tekshiruv yakunlandi
+2025-03-04T05:35:30.800Z - product_live_cycle_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:30.800Z - product_live_cycle_histories: Tekshiruv boshlandi
+2025-03-04T05:35:30.802Z - product_live_cycle_histories: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:35:30.803Z - product_live_cycle_histories: Qator soni mos keladi
+2025-03-04T05:35:30.804Z - product_live_cycle_histories: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:35:30.805Z - product_live_cycle_histories: ID lar mos keladi
+2025-03-04T05:35:30.805Z - product_live_cycle_histories: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:35:30.805Z - product_live_cycle_histories: Jadval mos keladi
+2025-03-04T05:35:30.805Z - product_live_cycle_histories: Tekshiruv yakunlandi
+2025-03-04T05:35:31.806Z - product_numerations: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:31.806Z - product_numerations: Tekshiruv boshlandi
+2025-03-04T05:35:31.809Z - product_numerations: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:35:31.809Z - product_numerations: Qator soni mos keladi
+2025-03-04T05:35:31.811Z - product_numerations: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:35:31.812Z - product_numerations: ID lar mos keladi
+2025-03-04T05:35:31.812Z - product_numerations: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:35:31.812Z - product_numerations: Jadval mos keladi
+2025-03-04T05:35:31.812Z - product_numerations: Tekshiruv yakunlandi
+2025-03-04T05:35:32.814Z - product_other_categories: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:32.814Z - product_other_categories: Tekshiruv boshlandi
+2025-03-04T05:35:32.816Z - product_other_categories: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:35:32.817Z - product_other_categories: Qator soni mos keladi
+2025-03-04T05:35:32.820Z - product_other_categories: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:35:32.820Z - product_other_categories: ID lar mos keladi
+2025-03-04T05:35:32.820Z - product_other_categories: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:35:32.820Z - product_other_categories: Jadval mos keladi
+2025-03-04T05:35:32.821Z - product_other_categories: Tekshiruv yakunlandi
+2025-03-04T05:35:33.822Z - product_property_data: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:33.823Z - product_property_data: Tekshiruv boshlandi
+2025-03-04T05:35:33.844Z - product_property_data: MySQL qator soni - 57894, PostgreSQL qator soni - 57894
+2025-03-04T05:35:33.844Z - product_property_data: Qator soni mos keladi
+2025-03-04T05:35:33.903Z - product_property_data: ID lar tekshirildi - MySQL: 57894, PostgreSQL: 57894
+2025-03-04T05:35:33.908Z - product_property_data: ID lar mos keladi
+2025-03-04T05:35:33.911Z - product_property_data: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:33.912Z - product_property_data: Namuna mos keladi
+2025-03-04T05:35:33.912Z - product_property_data: Jadval mos keladi
+2025-03-04T05:35:33.912Z - product_property_data: Tekshiruv yakunlandi
+2025-03-04T05:35:34.913Z - product_service_list_items: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:34.913Z - product_service_list_items: Tekshiruv boshlandi
+2025-03-04T05:35:34.915Z - product_service_list_items: MySQL qator soni - 49, PostgreSQL qator soni - 49
+2025-03-04T05:35:34.915Z - product_service_list_items: Qator soni mos keladi
+2025-03-04T05:35:34.917Z - product_service_list_items: ID lar tekshirildi - MySQL: 49, PostgreSQL: 49
+2025-03-04T05:35:34.917Z - product_service_list_items: ID lar mos keladi
+2025-03-04T05:35:34.919Z - product_service_list_items: Namuna qatorlari - MySQL: 49, PostgreSQL: 49
+2025-03-04T05:35:34.921Z - product_service_list_items: Namuna mos keladi
+2025-03-04T05:35:34.921Z - product_service_list_items: Jadval mos keladi
+2025-03-04T05:35:34.921Z - product_service_list_items: Tekshiruv yakunlandi
+2025-03-04T05:35:35.922Z - product_service_lists: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:35.922Z - product_service_lists: Tekshiruv boshlandi
+2025-03-04T05:35:35.925Z - product_service_lists: MySQL qator soni - 23, PostgreSQL qator soni - 23
+2025-03-04T05:35:35.925Z - product_service_lists: Qator soni mos keladi
+2025-03-04T05:35:35.927Z - product_service_lists: ID lar tekshirildi - MySQL: 23, PostgreSQL: 23
+2025-03-04T05:35:35.927Z - product_service_lists: ID lar mos keladi
+2025-03-04T05:35:35.930Z - product_service_lists: Namuna qatorlari - MySQL: 23, PostgreSQL: 23
+2025-03-04T05:35:35.930Z - product_service_lists: Namuna mos keladi
+2025-03-04T05:35:35.930Z - product_service_lists: Jadval mos keladi
+2025-03-04T05:35:35.930Z - product_service_lists: Tekshiruv yakunlandi
+2025-03-04T05:35:36.932Z - product_sizes: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:36.933Z - product_sizes: Tekshiruv boshlandi
+2025-03-04T05:35:36.935Z - product_sizes: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:35:36.935Z - product_sizes: Qator soni mos keladi
+2025-03-04T05:35:36.937Z - product_sizes: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:35:36.937Z - product_sizes: ID lar mos keladi
+2025-03-04T05:35:36.938Z - product_sizes: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:35:36.938Z - product_sizes: Foreign key soni farq qiladi: MySQL=1, PostgreSQL=0
+2025-03-04T05:35:36.938Z - product_sizes: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=1, PostgreSQL=0
+2025-03-04T05:35:36.938Z - product_sizes: Tekshiruv yakunlandi
+2025-03-04T05:35:37.939Z - product_variant_additionals: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:37.939Z - product_variant_additionals: Tekshiruv boshlandi
+2025-03-04T05:35:37.963Z - product_variant_additionals: MySQL qator soni - 113182, PostgreSQL qator soni - 113182
+2025-03-04T05:35:37.963Z - product_variant_additionals: Qator soni mos keladi
+2025-03-04T05:35:38.084Z - product_variant_additionals: ID lar tekshirildi - MySQL: 113182, PostgreSQL: 113182
+2025-03-04T05:35:38.091Z - product_variant_additionals: ID lar mos keladi
+2025-03-04T05:35:38.094Z - product_variant_additionals: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:38.095Z - product_variant_additionals: Namuna mos keladi
+2025-03-04T05:35:38.095Z - product_variant_additionals: Jadval mos keladi
+2025-03-04T05:35:38.095Z - product_variant_additionals: Tekshiruv yakunlandi
+2025-03-04T05:35:39.096Z - product_variant_codes: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:39.096Z - product_variant_codes: Tekshiruv boshlandi
+2025-03-04T05:35:39.098Z - product_variant_codes: MySQL qator soni - 511, PostgreSQL qator soni - 511
+2025-03-04T05:35:39.099Z - product_variant_codes: Qator soni mos keladi
+2025-03-04T05:35:39.102Z - product_variant_codes: ID lar tekshirildi - MySQL: 511, PostgreSQL: 511
+2025-03-04T05:35:39.102Z - product_variant_codes: ID lar mos keladi
+2025-03-04T05:35:39.107Z - product_variant_codes: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:39.108Z - product_variant_codes: Namuna mos keladi
+2025-03-04T05:35:39.108Z - product_variant_codes: Jadval mos keladi
+2025-03-04T05:35:39.108Z - product_variant_codes: Tekshiruv yakunlandi
+2025-03-04T05:35:40.109Z - product_variant_images: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:40.109Z - product_variant_images: Tekshiruv boshlandi
+2025-03-04T05:35:40.113Z - product_variant_images: MySQL qator soni - 2309, PostgreSQL qator soni - 2309
+2025-03-04T05:35:40.113Z - product_variant_images: Qator soni mos keladi
+2025-03-04T05:35:40.119Z - product_variant_images: ID lar tekshirildi - MySQL: 2309, PostgreSQL: 2309
+2025-03-04T05:35:40.120Z - product_variant_images: ID lar mos keladi
+2025-03-04T05:35:40.125Z - product_variant_images: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:40.126Z - product_variant_images: Namuna mos keladi
+2025-03-04T05:35:40.126Z - product_variant_images: Jadval mos keladi
+2025-03-04T05:35:40.126Z - product_variant_images: Tekshiruv yakunlandi
+2025-03-04T05:35:41.127Z - product_variant_property_data: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:41.127Z - product_variant_property_data: Tekshiruv boshlandi
+2025-03-04T05:35:41.131Z - product_variant_property_data: MySQL qator soni - 4751, PostgreSQL qator soni - 4751
+2025-03-04T05:35:41.132Z - product_variant_property_data: Qator soni mos keladi
+2025-03-04T05:35:41.144Z - product_variant_property_data: ID lar tekshirildi - MySQL: 4751, PostgreSQL: 4751
+2025-03-04T05:35:41.144Z - product_variant_property_data: ID lar mos keladi
+2025-03-04T05:35:41.149Z - product_variant_property_data: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:41.150Z - product_variant_property_data: Namuna mos keladi
+2025-03-04T05:35:41.150Z - product_variant_property_data: Jadval mos keladi
+2025-03-04T05:35:41.150Z - product_variant_property_data: Tekshiruv yakunlandi
+2025-03-04T05:35:42.152Z - product_variant_serial_markers: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:42.152Z - product_variant_serial_markers: Tekshiruv boshlandi
+2025-03-04T05:35:42.213Z - product_variant_serial_markers: MySQL qator soni - 121868, PostgreSQL qator soni - 121868
+2025-03-04T05:35:42.213Z - product_variant_serial_markers: Qator soni mos keladi
+2025-03-04T05:35:42.329Z - product_variant_serial_markers: ID lar tekshirildi - MySQL: 121868, PostgreSQL: 121868
+2025-03-04T05:35:42.337Z - product_variant_serial_markers: ID lar mos keladi
+2025-03-04T05:35:42.340Z - product_variant_serial_markers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:42.340Z - product_variant_serial_markers: Namuna mos keladi
+2025-03-04T05:35:42.340Z - product_variant_serial_markers: Jadval mos keladi
+2025-03-04T05:35:42.340Z - product_variant_serial_markers: Tekshiruv yakunlandi
+2025-03-04T05:35:43.342Z - product_variant_serial_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:43.342Z - product_variant_serial_numbers: Tekshiruv boshlandi
+2025-03-04T05:35:43.738Z - product_variant_serial_numbers: MySQL qator soni - 2272861, PostgreSQL qator soni - 2272861
+2025-03-04T05:35:43.738Z - product_variant_serial_numbers: Qator soni mos keladi
+2025-03-04T05:35:45.858Z - product_variant_serial_numbers: ID lar tekshirildi - MySQL: 2272861, PostgreSQL: 2272861
+2025-03-04T05:35:46.051Z - product_variant_serial_numbers: ID lar mos keladi
+2025-03-04T05:35:46.056Z - product_variant_serial_numbers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:46.056Z - product_variant_serial_numbers: Namuna mos keladi
+2025-03-04T05:35:46.056Z - product_variant_serial_numbers: Jadval mos keladi
+2025-03-04T05:35:46.056Z - product_variant_serial_numbers: Tekshiruv yakunlandi
+2025-03-04T05:35:47.057Z - product_variants: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:47.057Z - product_variants: Tekshiruv boshlandi
+2025-03-04T05:35:47.124Z - product_variants: MySQL qator soni - 573669, PostgreSQL qator soni - 573669
+2025-03-04T05:35:47.125Z - product_variants: Qator soni mos keladi
+2025-03-04T05:35:47.659Z - product_variants: ID lar tekshirildi - MySQL: 573669, PostgreSQL: 573669
+2025-03-04T05:35:47.724Z - product_variants: ID lar mos keladi
+2025-03-04T05:35:47.728Z - product_variants: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:47.729Z - product_variants: Namuna mos keladi
+2025-03-04T05:35:47.729Z - product_variants: Jadval mos keladi
+2025-03-04T05:35:47.729Z - product_variants: Tekshiruv yakunlandi
+2025-03-04T05:35:48.730Z - products: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:48.730Z - products: Tekshiruv boshlandi
+2025-03-04T05:35:48.764Z - products: MySQL qator soni - 94258, PostgreSQL qator soni - 94258
+2025-03-04T05:35:48.765Z - products: Qator soni mos keladi
+2025-03-04T05:35:48.878Z - products: ID lar tekshirildi - MySQL: 94258, PostgreSQL: 94258
+2025-03-04T05:35:48.884Z - products: ID lar mos keladi
+2025-03-04T05:35:48.888Z - products: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:48.888Z - products: Namuna mos keladi
+2025-03-04T05:35:48.888Z - products: Jadval mos keladi
+2025-03-04T05:35:48.888Z - products: Tekshiruv yakunlandi
+2025-03-04T05:35:49.889Z - properties: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:49.889Z - properties: Tekshiruv boshlandi
+2025-03-04T05:35:49.891Z - properties: MySQL qator soni - 945, PostgreSQL qator soni - 945
+2025-03-04T05:35:49.891Z - properties: Qator soni mos keladi
+2025-03-04T05:35:49.893Z - properties: ID lar tekshirildi - MySQL: 945, PostgreSQL: 945
+2025-03-04T05:35:49.893Z - properties: ID lar mos keladi
+2025-03-04T05:35:49.895Z - properties: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:49.896Z - properties: Namuna mos keladi
+2025-03-04T05:35:49.896Z - properties: Jadval mos keladi
+2025-03-04T05:35:49.896Z - properties: Tekshiruv yakunlandi
+2025-03-04T05:35:50.897Z - property_data: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:50.897Z - property_data: Tekshiruv boshlandi
+2025-03-04T05:35:50.902Z - property_data: MySQL qator soni - 3477, PostgreSQL qator soni - 3477
+2025-03-04T05:35:50.902Z - property_data: Qator soni mos keladi
+2025-03-04T05:35:50.905Z - property_data: ID lar tekshirildi - MySQL: 3477, PostgreSQL: 3477
+2025-03-04T05:35:50.906Z - property_data: ID lar mos keladi
+2025-03-04T05:35:50.908Z - property_data: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:50.909Z - property_data: Namuna mos keladi
+2025-03-04T05:35:50.909Z - property_data: Jadval mos keladi
+2025-03-04T05:35:50.909Z - property_data: Tekshiruv yakunlandi
+2025-03-04T05:35:51.910Z - property_groups: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:51.910Z - property_groups: Tekshiruv boshlandi
+2025-03-04T05:35:51.912Z - property_groups: MySQL qator soni - 43, PostgreSQL qator soni - 43
+2025-03-04T05:35:51.912Z - property_groups: Qator soni mos keladi
+2025-03-04T05:35:51.914Z - property_groups: ID lar tekshirildi - MySQL: 43, PostgreSQL: 43
+2025-03-04T05:35:51.914Z - property_groups: ID lar mos keladi
+2025-03-04T05:35:51.917Z - property_groups: Namuna qatorlari - MySQL: 43, PostgreSQL: 43
+2025-03-04T05:35:51.918Z - property_groups: Namuna mos keladi
+2025-03-04T05:35:51.918Z - property_groups: Jadval mos keladi
+2025-03-04T05:35:51.918Z - property_groups: Tekshiruv yakunlandi
+2025-03-04T05:35:52.920Z - raise_categories: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:52.920Z - raise_categories: Tekshiruv boshlandi
+2025-03-04T05:35:52.923Z - raise_categories: MySQL qator soni - 27, PostgreSQL qator soni - 27
+2025-03-04T05:35:52.923Z - raise_categories: Qator soni mos keladi
+2025-03-04T05:35:52.925Z - raise_categories: ID lar tekshirildi - MySQL: 27, PostgreSQL: 27
+2025-03-04T05:35:52.926Z - raise_categories: ID lar mos keladi
+2025-03-04T05:35:52.931Z - raise_categories: Namuna qatorlari - MySQL: 27, PostgreSQL: 27
+2025-03-04T05:35:52.933Z - raise_categories: Namuna mos keladi
+2025-03-04T05:35:52.933Z - raise_categories: Jadval mos keladi
+2025-03-04T05:35:52.933Z - raise_categories: Tekshiruv yakunlandi
+2025-03-04T05:35:53.935Z - repo_to_repos: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:53.935Z - repo_to_repos: Tekshiruv boshlandi
+2025-03-04T05:35:53.939Z - repo_to_repos: MySQL qator soni - 1385, PostgreSQL qator soni - 1385
+2025-03-04T05:35:53.939Z - repo_to_repos: Qator soni mos keladi
+2025-03-04T05:35:53.944Z - repo_to_repos: ID lar tekshirildi - MySQL: 1385, PostgreSQL: 1385
+2025-03-04T05:35:53.944Z - repo_to_repos: ID lar mos keladi
+2025-03-04T05:35:53.957Z - repo_to_repos: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:53.957Z - repo_to_repos: Namuna mos keladi
+2025-03-04T05:35:53.958Z - repo_to_repos: Jadval mos keladi
+2025-03-04T05:35:53.958Z - repo_to_repos: Tekshiruv yakunlandi
+2025-03-04T05:35:54.959Z - report_to_users: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:54.959Z - report_to_users: Tekshiruv boshlandi
+2025-03-04T05:35:54.961Z - report_to_users: MySQL qator soni - 324, PostgreSQL qator soni - 324
+2025-03-04T05:35:54.961Z - report_to_users: Qator soni mos keladi
+2025-03-04T05:35:54.964Z - report_to_users: ID lar tekshirildi - MySQL: 324, PostgreSQL: 324
+2025-03-04T05:35:54.964Z - report_to_users: ID lar mos keladi
+2025-03-04T05:35:54.968Z - report_to_users: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:35:54.969Z - report_to_users: Namuna mos keladi
+2025-03-04T05:35:54.969Z - report_to_users: Jadval mos keladi
+2025-03-04T05:35:54.969Z - report_to_users: Tekshiruv yakunlandi
+2025-03-04T05:35:55.971Z - reports: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:55.971Z - reports: Tekshiruv boshlandi
+2025-03-04T05:35:55.975Z - reports: MySQL qator soni - 21, PostgreSQL qator soni - 21
+2025-03-04T05:35:55.975Z - reports: Qator soni mos keladi
+2025-03-04T05:35:55.976Z - reports: ID lar tekshirildi - MySQL: 21, PostgreSQL: 21
+2025-03-04T05:35:55.976Z - reports: ID lar mos keladi
+2025-03-04T05:35:55.980Z - reports: Namuna qatorlari - MySQL: 21, PostgreSQL: 21
+2025-03-04T05:35:55.980Z - reports: Namuna mos keladi
+2025-03-04T05:35:55.980Z - reports: Jadval mos keladi
+2025-03-04T05:35:55.980Z - reports: Tekshiruv yakunlandi
+2025-03-04T05:35:56.981Z - repositories: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:56.981Z - repositories: Tekshiruv boshlandi
+2025-03-04T05:35:56.984Z - repositories: MySQL qator soni - 10, PostgreSQL qator soni - 10
+2025-03-04T05:35:56.984Z - repositories: Qator soni mos keladi
+2025-03-04T05:35:56.986Z - repositories: ID lar tekshirildi - MySQL: 10, PostgreSQL: 10
+2025-03-04T05:35:56.986Z - repositories: ID lar mos keladi
+2025-03-04T05:35:56.990Z - repositories: Namuna qatorlari - MySQL: 10, PostgreSQL: 10
+2025-03-04T05:35:56.990Z - repositories: Namuna mos keladi
+2025-03-04T05:35:56.990Z - repositories: Jadval mos keladi
+2025-03-04T05:35:56.990Z - repositories: Tekshiruv yakunlandi
+2025-03-04T05:35:57.991Z - repository_actions: Jadval tekshiruvi boshlandi
+2025-03-04T05:35:57.991Z - repository_actions: Tekshiruv boshlandi
+2025-03-04T05:35:58.681Z - repository_actions: MySQL qator soni - 4447675, PostgreSQL qator soni - 4447675
+2025-03-04T05:35:58.681Z - repository_actions: Qator soni mos keladi
+2025-03-04T05:36:03.045Z - repository_actions: ID lar tekshirildi - MySQL: 4447675, PostgreSQL: 4447675
+2025-03-04T05:36:03.361Z - repository_actions: ID lar mos keladi
+2025-03-04T05:36:03.366Z - repository_actions: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:03.366Z - repository_actions: Namuna mos keladi
+2025-03-04T05:36:03.366Z - repository_actions: Jadval mos keladi
+2025-03-04T05:36:03.366Z - repository_actions: Tekshiruv yakunlandi
+2025-03-04T05:36:04.368Z - repository_partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:04.368Z - repository_partners: Tekshiruv boshlandi
+2025-03-04T05:36:04.371Z - repository_partners: MySQL qator soni - 1346, PostgreSQL qator soni - 1346
+2025-03-04T05:36:04.371Z - repository_partners: Qator soni mos keladi
+2025-03-04T05:36:04.376Z - repository_partners: ID lar tekshirildi - MySQL: 1346, PostgreSQL: 1346
+2025-03-04T05:36:04.376Z - repository_partners: ID lar mos keladi
+2025-03-04T05:36:04.379Z - repository_partners: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:04.379Z - repository_partners: Namuna mos keladi
+2025-03-04T05:36:04.380Z - repository_partners: Jadval mos keladi
+2025-03-04T05:36:04.380Z - repository_partners: Tekshiruv yakunlandi
+2025-03-04T05:36:05.380Z - repository_users: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:05.380Z - repository_users: Tekshiruv boshlandi
+2025-03-04T05:36:05.383Z - repository_users: MySQL qator soni - 27, PostgreSQL qator soni - 27
+2025-03-04T05:36:05.383Z - repository_users: Qator soni mos keladi
+2025-03-04T05:36:05.384Z - repository_users: ID lar tekshirildi - MySQL: 27, PostgreSQL: 27
+2025-03-04T05:36:05.384Z - repository_users: ID lar mos keladi
+2025-03-04T05:36:05.387Z - repository_users: Namuna qatorlari - MySQL: 27, PostgreSQL: 27
+2025-03-04T05:36:05.388Z - repository_users: Namuna mos keladi
+2025-03-04T05:36:05.388Z - repository_users: Jadval mos keladi
+2025-03-04T05:36:05.388Z - repository_users: Tekshiruv yakunlandi
+2025-03-04T05:36:06.389Z - response_driver_sold_main_elements: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:06.389Z - response_driver_sold_main_elements: Tekshiruv boshlandi
+2025-03-04T05:36:06.392Z - response_driver_sold_main_elements: MySQL qator soni - 14, PostgreSQL qator soni - 14
+2025-03-04T05:36:06.393Z - response_driver_sold_main_elements: Qator soni mos keladi
+2025-03-04T05:36:06.394Z - response_driver_sold_main_elements: ID lar tekshirildi - MySQL: 14, PostgreSQL: 14
+2025-03-04T05:36:06.395Z - response_driver_sold_main_elements: ID lar mos keladi
+2025-03-04T05:36:06.397Z - response_driver_sold_main_elements: Namuna qatorlari - MySQL: 14, PostgreSQL: 14
+2025-03-04T05:36:06.397Z - response_driver_sold_main_elements: Namuna mos keladi
+2025-03-04T05:36:06.397Z - response_driver_sold_main_elements: Jadval mos keladi
+2025-03-04T05:36:06.397Z - response_driver_sold_main_elements: Tekshiruv yakunlandi
+2025-03-04T05:36:07.398Z - rules: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:07.399Z - rules: Tekshiruv boshlandi
+2025-03-04T05:36:07.401Z - rules: MySQL qator soni - 266, PostgreSQL qator soni - 266
+2025-03-04T05:36:07.402Z - rules: Qator soni mos keladi
+2025-03-04T05:36:07.403Z - rules: ID lar tekshirildi - MySQL: 266, PostgreSQL: 266
+2025-03-04T05:36:07.404Z - rules: ID lar mos keladi
+2025-03-04T05:36:07.406Z - rules: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:07.407Z - rules: Namuna mos keladi
+2025-03-04T05:36:07.407Z - rules: Jadval mos keladi
+2025-03-04T05:36:07.407Z - rules: Tekshiruv yakunlandi
+2025-03-04T05:36:08.409Z - salary_employees: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:08.409Z - salary_employees: Tekshiruv boshlandi
+2025-03-04T05:36:08.412Z - salary_employees: MySQL qator soni - 129, PostgreSQL qator soni - 129
+2025-03-04T05:36:08.413Z - salary_employees: Qator soni mos keladi
+2025-03-04T05:36:08.415Z - salary_employees: ID lar tekshirildi - MySQL: 129, PostgreSQL: 129
+2025-03-04T05:36:08.415Z - salary_employees: ID lar mos keladi
+2025-03-04T05:36:08.419Z - salary_employees: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:08.420Z - salary_employees: Namuna mos keladi
+2025-03-04T05:36:08.420Z - salary_employees: Jadval mos keladi
+2025-03-04T05:36:08.420Z - salary_employees: Tekshiruv yakunlandi
+2025-03-04T05:36:09.422Z - sectors: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:09.422Z - sectors: Tekshiruv boshlandi
+2025-03-04T05:36:09.425Z - sectors: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-04T05:36:09.425Z - sectors: Qator soni mos keladi
+2025-03-04T05:36:09.427Z - sectors: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:36:09.427Z - sectors: ID lar mos keladi
+2025-03-04T05:36:09.430Z - sectors: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:36:09.431Z - sectors: Namuna mos keladi
+2025-03-04T05:36:09.431Z - sectors: Jadval mos keladi
+2025-03-04T05:36:09.431Z - sectors: Tekshiruv yakunlandi
+2025-03-04T05:36:10.432Z - selling_price_options: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:10.432Z - selling_price_options: Tekshiruv boshlandi
+2025-03-04T05:36:10.466Z - selling_price_options: MySQL qator soni - 337473, PostgreSQL qator soni - 337473
+2025-03-04T05:36:10.467Z - selling_price_options: Qator soni mos keladi
+2025-03-04T05:36:10.792Z - selling_price_options: ID lar tekshirildi - MySQL: 337473, PostgreSQL: 337473
+2025-03-04T05:36:10.814Z - selling_price_options: ID lar mos keladi
+2025-03-04T05:36:10.817Z - selling_price_options: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:10.817Z - selling_price_options: Namuna mos keladi
+2025-03-04T05:36:10.817Z - selling_price_options: Jadval mos keladi
+2025-03-04T05:36:10.817Z - selling_price_options: Tekshiruv yakunlandi
+2025-03-04T05:36:11.818Z - selling_prices: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:11.818Z - selling_prices: Tekshiruv boshlandi
+2025-03-04T05:36:11.856Z - selling_prices: MySQL qator soni - 112491, PostgreSQL qator soni - 112491
+2025-03-04T05:36:11.857Z - selling_prices: Qator soni mos keladi
+2025-03-04T05:36:11.975Z - selling_prices: ID lar tekshirildi - MySQL: 112491, PostgreSQL: 112491
+2025-03-04T05:36:11.983Z - selling_prices: ID lar mos keladi
+2025-03-04T05:36:11.993Z - selling_prices: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:11.993Z - selling_prices: Namuna mos keladi
+2025-03-04T05:36:11.994Z - selling_prices: Jadval mos keladi
+2025-03-04T05:36:11.994Z - selling_prices: Tekshiruv yakunlandi
+2025-03-04T05:36:12.995Z - serial_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:12.995Z - serial_numbers: Tekshiruv boshlandi
+2025-03-04T05:36:12.998Z - serial_numbers: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:36:12.998Z - serial_numbers: Qator soni mos keladi
+2025-03-04T05:36:13.000Z - serial_numbers: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:36:13.000Z - serial_numbers: ID lar mos keladi
+2025-03-04T05:36:13.000Z - serial_numbers: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:36:13.000Z - serial_numbers: Jadval mos keladi
+2025-03-04T05:36:13.000Z - serial_numbers: Tekshiruv yakunlandi
+2025-03-04T05:36:14.002Z - services: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:14.002Z - services: Tekshiruv boshlandi
+2025-03-04T05:36:14.005Z - services: MySQL qator soni - 47, PostgreSQL qator soni - 47
+2025-03-04T05:36:14.006Z - services: Qator soni mos keladi
+2025-03-04T05:36:14.007Z - services: ID lar tekshirildi - MySQL: 47, PostgreSQL: 47
+2025-03-04T05:36:14.007Z - services: ID lar mos keladi
+2025-03-04T05:36:14.010Z - services: Namuna qatorlari - MySQL: 47, PostgreSQL: 47
+2025-03-04T05:36:14.011Z - services: Namuna mos keladi
+2025-03-04T05:36:14.011Z - services: Jadval mos keladi
+2025-03-04T05:36:14.011Z - services: Tekshiruv yakunlandi
+2025-03-04T05:36:15.013Z - sold_main_elements: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:15.013Z - sold_main_elements: Tekshiruv boshlandi
+2025-03-04T05:36:15.016Z - sold_main_elements: MySQL qator soni - 16, PostgreSQL qator soni - 16
+2025-03-04T05:36:15.016Z - sold_main_elements: Qator soni mos keladi
+2025-03-04T05:36:15.018Z - sold_main_elements: ID lar tekshirildi - MySQL: 16, PostgreSQL: 16
+2025-03-04T05:36:15.018Z - sold_main_elements: ID lar mos keladi
+2025-03-04T05:36:15.021Z - sold_main_elements: Namuna qatorlari - MySQL: 16, PostgreSQL: 16
+2025-03-04T05:36:15.022Z - sold_main_elements: Namuna mos keladi
+2025-03-04T05:36:15.022Z - sold_main_elements: Jadval mos keladi
+2025-03-04T05:36:15.023Z - sold_main_elements: Tekshiruv yakunlandi
+2025-03-04T05:36:16.024Z - special_categories: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:16.025Z - special_categories: Tekshiruv boshlandi
+2025-03-04T05:36:16.029Z - special_categories: MySQL qator soni - 4, PostgreSQL qator soni - 4
+2025-03-04T05:36:16.029Z - special_categories: Qator soni mos keladi
+2025-03-04T05:36:16.031Z - special_categories: ID lar tekshirildi - MySQL: 4, PostgreSQL: 4
+2025-03-04T05:36:16.032Z - special_categories: ID lar mos keladi
+2025-03-04T05:36:16.034Z - special_categories: Namuna qatorlari - MySQL: 4, PostgreSQL: 4
+2025-03-04T05:36:16.035Z - special_categories: Namuna mos keladi
+2025-03-04T05:36:16.035Z - special_categories: Jadval mos keladi
+2025-03-04T05:36:16.035Z - special_categories: Tekshiruv yakunlandi
+2025-03-04T05:36:17.036Z - special_category_products: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:17.036Z - special_category_products: Tekshiruv boshlandi
+2025-03-04T05:36:17.046Z - special_category_products: MySQL qator soni - 15013, PostgreSQL qator soni - 15013
+2025-03-04T05:36:17.047Z - special_category_products: Qator soni mos keladi
+2025-03-04T05:36:17.072Z - special_category_products: ID lar tekshirildi - MySQL: 15013, PostgreSQL: 15013
+2025-03-04T05:36:17.074Z - special_category_products: ID lar mos keladi
+2025-03-04T05:36:17.086Z - special_category_products: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:17.086Z - special_category_products: Namuna mos keladi
+2025-03-04T05:36:17.087Z - special_category_products: Foreign key soni farq qiladi: MySQL=2, PostgreSQL=0
+2025-03-04T05:36:17.087Z - special_category_products: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=2, PostgreSQL=0
+2025-03-04T05:36:17.087Z - special_category_products: Tekshiruv yakunlandi
+2025-03-04T05:36:18.088Z - statement_has_cash_operations: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:18.089Z - statement_has_cash_operations: Tekshiruv boshlandi
+2025-03-04T05:36:18.094Z - statement_has_cash_operations: MySQL qator soni - 12822, PostgreSQL qator soni - 12822
+2025-03-04T05:36:18.094Z - statement_has_cash_operations: Qator soni mos keladi
+2025-03-04T05:36:18.118Z - statement_has_cash_operations: ID lar tekshirildi - MySQL: 12822, PostgreSQL: 12822
+2025-03-04T05:36:18.120Z - statement_has_cash_operations: ID lar mos keladi
+2025-03-04T05:36:18.123Z - statement_has_cash_operations: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:18.124Z - statement_has_cash_operations: Namuna mos keladi
+2025-03-04T05:36:18.124Z - statement_has_cash_operations: Jadval mos keladi
+2025-03-04T05:36:18.124Z - statement_has_cash_operations: Tekshiruv yakunlandi
+2025-03-04T05:36:19.125Z - statement_list_items: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:19.125Z - statement_list_items: Tekshiruv boshlandi
+2025-03-04T05:36:19.129Z - statement_list_items: MySQL qator soni - 5200, PostgreSQL qator soni - 5200
+2025-03-04T05:36:19.129Z - statement_list_items: Qator soni mos keladi
+2025-03-04T05:36:19.137Z - statement_list_items: ID lar tekshirildi - MySQL: 5200, PostgreSQL: 5200
+2025-03-04T05:36:19.138Z - statement_list_items: ID lar mos keladi
+2025-03-04T05:36:19.150Z - statement_list_items: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:19.151Z - statement_list_items: Namuna mos keladi
+2025-03-04T05:36:19.151Z - statement_list_items: Jadval mos keladi
+2025-03-04T05:36:19.151Z - statement_list_items: Tekshiruv yakunlandi
+2025-03-04T05:36:20.151Z - statement_lists: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:20.152Z - statement_lists: Tekshiruv boshlandi
+2025-03-04T05:36:20.154Z - statement_lists: MySQL qator soni - 1300, PostgreSQL qator soni - 1300
+2025-03-04T05:36:20.155Z - statement_lists: Qator soni mos keladi
+2025-03-04T05:36:20.158Z - statement_lists: ID lar tekshirildi - MySQL: 1300, PostgreSQL: 1300
+2025-03-04T05:36:20.158Z - statement_lists: ID lar mos keladi
+2025-03-04T05:36:20.163Z - statement_lists: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:20.164Z - statement_lists: Namuna mos keladi
+2025-03-04T05:36:20.164Z - statement_lists: Jadval mos keladi
+2025-03-04T05:36:20.164Z - statement_lists: Tekshiruv yakunlandi
+2025-03-04T05:36:21.165Z - statements: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:21.165Z - statements: Tekshiruv boshlandi
+2025-03-04T05:36:21.177Z - statements: MySQL qator soni - 19799, PostgreSQL qator soni - 19799
+2025-03-04T05:36:21.177Z - statements: Qator soni mos keladi
+2025-03-04T05:36:21.212Z - statements: ID lar tekshirildi - MySQL: 19799, PostgreSQL: 19799
+2025-03-04T05:36:21.214Z - statements: ID lar mos keladi
+2025-03-04T05:36:21.230Z - statements: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:21.231Z - statements: Namuna mos keladi
+2025-03-04T05:36:21.231Z - statements: Jadval mos keladi
+2025-03-04T05:36:21.231Z - statements: Tekshiruv yakunlandi
+2025-03-04T05:36:22.232Z - statuses: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:22.232Z - statuses: Tekshiruv boshlandi
+2025-03-04T05:36:22.234Z - statuses: MySQL qator soni - 54, PostgreSQL qator soni - 54
+2025-03-04T05:36:22.235Z - statuses: Qator soni mos keladi
+2025-03-04T05:36:22.236Z - statuses: ID lar tekshirildi - MySQL: 54, PostgreSQL: 54
+2025-03-04T05:36:22.236Z - statuses: ID lar mos keladi
+2025-03-04T05:36:22.239Z - statuses: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:22.239Z - statuses: Namuna mos keladi
+2025-03-04T05:36:22.239Z - statuses: Jadval mos keladi
+2025-03-04T05:36:22.239Z - statuses: Tekshiruv yakunlandi
+2025-03-04T05:36:23.241Z - temp_daily_remains: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:23.242Z - temp_daily_remains: Tekshiruv boshlandi
+2025-03-04T05:36:23.277Z - temp_daily_remains: MySQL qator soni - 253143, PostgreSQL qator soni - 253143
+2025-03-04T05:36:23.278Z - temp_daily_remains: Qator soni mos keladi
+2025-03-04T05:36:23.279Z - temp_daily_remains: Xatolik yuz berdi: Unknown column 'id' in 'field list'
+2025-03-04T05:36:23.279Z - temp_daily_remains: Jadval mos emas - Sabab: Xatolik yuz berdi: Unknown column 'id' in 'field list'
+2025-03-04T05:36:23.279Z - temp_daily_remains: Tekshiruv yakunlandi
+2025-03-04T05:36:24.280Z - types: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:24.280Z - types: Tekshiruv boshlandi
+2025-03-04T05:36:24.282Z - types: MySQL qator soni - 9, PostgreSQL qator soni - 9
+2025-03-04T05:36:24.283Z - types: Qator soni mos keladi
+2025-03-04T05:36:24.284Z - types: ID lar tekshirildi - MySQL: 9, PostgreSQL: 9
+2025-03-04T05:36:24.284Z - types: ID lar mos keladi
+2025-03-04T05:36:24.286Z - types: Namuna qatorlari - MySQL: 9, PostgreSQL: 9
+2025-03-04T05:36:24.286Z - types: Namuna mos keladi
+2025-03-04T05:36:24.286Z - types: Jadval mos keladi
+2025-03-04T05:36:24.286Z - types: Tekshiruv yakunlandi
+2025-03-04T05:36:25.288Z - units: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:25.289Z - units: Tekshiruv boshlandi
+2025-03-04T05:36:25.293Z - units: MySQL qator soni - 31, PostgreSQL qator soni - 31
+2025-03-04T05:36:25.293Z - units: Qator soni mos keladi
+2025-03-04T05:36:25.296Z - units: ID lar tekshirildi - MySQL: 31, PostgreSQL: 31
+2025-03-04T05:36:25.296Z - units: ID lar mos keladi
+2025-03-04T05:36:25.300Z - units: Namuna qatorlari - MySQL: 31, PostgreSQL: 31
+2025-03-04T05:36:25.300Z - units: Namuna mos keladi
+2025-03-04T05:36:25.300Z - units: Jadval mos keladi
+2025-03-04T05:36:25.301Z - units: Tekshiruv yakunlandi
+2025-03-04T05:36:26.302Z - unknown_serial_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:26.302Z - unknown_serial_numbers: Tekshiruv boshlandi
+2025-03-04T05:36:26.305Z - unknown_serial_numbers: MySQL qator soni - 400, PostgreSQL qator soni - 400
+2025-03-04T05:36:26.305Z - unknown_serial_numbers: Qator soni mos keladi
+2025-03-04T05:36:26.309Z - unknown_serial_numbers: ID lar tekshirildi - MySQL: 400, PostgreSQL: 400
+2025-03-04T05:36:26.309Z - unknown_serial_numbers: ID lar mos keladi
+2025-03-04T05:36:26.314Z - unknown_serial_numbers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:26.315Z - unknown_serial_numbers: Namuna mos keladi
+2025-03-04T05:36:26.315Z - unknown_serial_numbers: Jadval mos keladi
+2025-03-04T05:36:26.315Z - unknown_serial_numbers: Tekshiruv yakunlandi
+2025-03-04T05:36:27.317Z - user_access_modifiers: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:27.317Z - user_access_modifiers: Tekshiruv boshlandi
+2025-03-04T05:36:27.320Z - user_access_modifiers: MySQL qator soni - 190, PostgreSQL qator soni - 190
+2025-03-04T05:36:27.320Z - user_access_modifiers: Qator soni mos keladi
+2025-03-04T05:36:27.322Z - user_access_modifiers: ID lar tekshirildi - MySQL: 190, PostgreSQL: 190
+2025-03-04T05:36:27.322Z - user_access_modifiers: ID lar mos keladi
+2025-03-04T05:36:27.327Z - user_access_modifiers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:27.328Z - user_access_modifiers: Namuna mos keladi
+2025-03-04T05:36:27.328Z - user_access_modifiers: Jadval mos keladi
+2025-03-04T05:36:27.328Z - user_access_modifiers: Tekshiruv yakunlandi
+2025-03-04T05:36:28.330Z - user_apps: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:28.331Z - user_apps: Tekshiruv boshlandi
+2025-03-04T05:36:28.334Z - user_apps: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:36:28.334Z - user_apps: Qator soni mos keladi
+2025-03-04T05:36:28.337Z - user_apps: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:36:28.338Z - user_apps: ID lar mos keladi
+2025-03-04T05:36:28.339Z - user_apps: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:36:28.340Z - user_apps: Jadval mos keladi
+2025-03-04T05:36:28.340Z - user_apps: Tekshiruv yakunlandi
+2025-03-04T05:36:29.341Z - user_rules: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:29.342Z - user_rules: Tekshiruv boshlandi
+2025-03-04T05:36:29.346Z - user_rules: MySQL qator soni - 5427, PostgreSQL qator soni - 5427
+2025-03-04T05:36:29.346Z - user_rules: Qator soni mos keladi
+2025-03-04T05:36:29.359Z - user_rules: ID lar tekshirildi - MySQL: 5427, PostgreSQL: 5427
+2025-03-04T05:36:29.359Z - user_rules: ID lar mos keladi
+2025-03-04T05:36:29.364Z - user_rules: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:29.365Z - user_rules: Namuna mos keladi
+2025-03-04T05:36:29.365Z - user_rules: Jadval mos keladi
+2025-03-04T05:36:29.365Z - user_rules: Tekshiruv yakunlandi
+2025-03-04T05:36:30.366Z - users: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:30.367Z - users: Tekshiruv boshlandi
+2025-03-04T05:36:30.369Z - users: MySQL qator soni - 315, PostgreSQL qator soni - 315
+2025-03-04T05:36:30.369Z - users: Qator soni mos keladi
+2025-03-04T05:36:30.372Z - users: ID lar tekshirildi - MySQL: 315, PostgreSQL: 315
+2025-03-04T05:36:30.372Z - users: ID lar mos keladi
+2025-03-04T05:36:30.378Z - users: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:30.379Z - users: Namuna mos keladi
+2025-03-04T05:36:30.379Z - users: Jadval mos keladi
+2025-03-04T05:36:30.379Z - users: Tekshiruv yakunlandi
+2025-03-04T05:36:31.381Z - users_has_partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:31.381Z - users_has_partners: Tekshiruv boshlandi
+2025-03-04T05:36:31.383Z - users_has_partners: MySQL qator soni - 89, PostgreSQL qator soni - 89
+2025-03-04T05:36:31.384Z - users_has_partners: Qator soni mos keladi
+2025-03-04T05:36:31.386Z - users_has_partners: ID lar tekshirildi - MySQL: 89, PostgreSQL: 89
+2025-03-04T05:36:31.386Z - users_has_partners: ID lar mos keladi
+2025-03-04T05:36:31.389Z - users_has_partners: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:31.390Z - users_has_partners: Namuna mos keladi
+2025-03-04T05:36:31.390Z - users_has_partners: Jadval mos keladi
+2025-03-04T05:36:31.390Z - users_has_partners: Tekshiruv yakunlandi
+2025-03-04T05:36:32.392Z - versions: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:32.392Z - versions: Tekshiruv boshlandi
+2025-03-04T05:36:32.396Z - versions: MySQL qator soni - 22, PostgreSQL qator soni - 22
+2025-03-04T05:36:32.396Z - versions: Qator soni mos keladi
+2025-03-04T05:36:32.397Z - versions: ID lar tekshirildi - MySQL: 22, PostgreSQL: 22
+2025-03-04T05:36:32.398Z - versions: ID lar mos keladi
+2025-03-04T05:36:32.402Z - versions: Namuna qatorlari - MySQL: 22, PostgreSQL: 22
+2025-03-04T05:36:32.402Z - versions: Namuna mos keladi
+2025-03-04T05:36:32.403Z - versions: Jadval mos keladi
+2025-03-04T05:36:32.403Z - versions: Tekshiruv yakunlandi
+2025-03-04T05:36:33.404Z - workplace_has_clients: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:33.404Z - workplace_has_clients: Tekshiruv boshlandi
+2025-03-04T05:36:33.407Z - workplace_has_clients: MySQL qator soni - 97, PostgreSQL qator soni - 97
+2025-03-04T05:36:33.407Z - workplace_has_clients: Qator soni mos keladi
+2025-03-04T05:36:33.409Z - workplace_has_clients: ID lar tekshirildi - MySQL: 97, PostgreSQL: 97
+2025-03-04T05:36:33.409Z - workplace_has_clients: ID lar mos keladi
+2025-03-04T05:36:33.413Z - workplace_has_clients: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:36:33.414Z - workplace_has_clients: Namuna mos keladi
+2025-03-04T05:36:33.414Z - workplace_has_clients: Jadval mos keladi
+2025-03-04T05:36:33.414Z - workplace_has_clients: Tekshiruv yakunlandi
+2025-03-04T05:36:34.416Z - workplaces: Jadval tekshiruvi boshlandi
+2025-03-04T05:36:34.417Z - workplaces: Tekshiruv boshlandi
+2025-03-04T05:36:34.419Z - workplaces: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:36:34.419Z - workplaces: Qator soni mos keladi
+2025-03-04T05:36:34.420Z - workplaces: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:36:34.420Z - workplaces: ID lar mos keladi
+2025-03-04T05:36:34.422Z - workplaces: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:36:34.422Z - workplaces: Namuna mos keladi
+2025-03-04T05:36:34.422Z - workplaces: Jadval mos keladi
+2025-03-04T05:36:34.422Z - workplaces: Tekshiruv yakunlandi
+2025-03-04T05:36:35.424Z - Barcha tekshiruvlar yakunlandi
