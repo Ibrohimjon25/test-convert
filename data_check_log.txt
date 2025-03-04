@@ -2310,3 +2310,2090 @@
 2025-03-04T05:36:34.422Z - workplaces: Jadval mos keladi
 2025-03-04T05:36:34.422Z - workplaces: Tekshiruv yakunlandi
 2025-03-04T05:36:35.424Z - Barcha tekshiruvlar yakunlandi
+2025-03-04T05:54:00.084Z - Umumiy tekshiruv boshlandi
+2025-03-04T05:54:00.139Z - PostgreSQL schema: public, foreign keys found: 25
+2025-03-04T05:54:00.139Z - MySQL foreign key soni: 25, PostgreSQL foreign key soni: 25
+2025-03-04T05:54:00.147Z - Jadval soni mos keladi
+2025-03-04T05:54:00.147Z - access_modifier_rules: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:00.148Z - access_modifier_rules: Tekshiruv boshlandi
+2025-03-04T05:54:00.151Z - access_modifier_rules: MySQL qator soni - 595, PostgreSQL qator soni - 595
+2025-03-04T05:54:00.152Z - access_modifier_rules: Qator soni mos keladi
+2025-03-04T05:54:00.159Z - access_modifier_rules: ID lar tekshirildi - MySQL: 595, PostgreSQL: 595
+2025-03-04T05:54:00.159Z - access_modifier_rules: ID lar mos keladi
+2025-03-04T05:54:00.166Z - access_modifier_rules: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:00.167Z - access_modifier_rules: Namuna mos keladi
+2025-03-04T05:54:00.167Z - access_modifier_rules - MySQL foreign keys: []
+2025-03-04T05:54:00.167Z - access_modifier_rules - PostgreSQL foreign keys: []
+2025-03-04T05:54:00.167Z - access_modifier_rules: Jadval mos keladi
+2025-03-04T05:54:00.167Z - access_modifier_rules: Tekshiruv yakunlandi
+2025-03-04T05:54:01.168Z - access_modifiers: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:01.169Z - access_modifiers: Tekshiruv boshlandi
+2025-03-04T05:54:01.172Z - access_modifiers: MySQL qator soni - 22, PostgreSQL qator soni - 22
+2025-03-04T05:54:01.172Z - access_modifiers: Qator soni mos keladi
+2025-03-04T05:54:01.175Z - access_modifiers: ID lar tekshirildi - MySQL: 22, PostgreSQL: 22
+2025-03-04T05:54:01.175Z - access_modifiers: ID lar mos keladi
+2025-03-04T05:54:01.181Z - access_modifiers: Namuna qatorlari - MySQL: 22, PostgreSQL: 22
+2025-03-04T05:54:01.182Z - access_modifiers: Namuna mos keladi
+2025-03-04T05:54:01.182Z - access_modifiers - MySQL foreign keys: []
+2025-03-04T05:54:01.182Z - access_modifiers - PostgreSQL foreign keys: []
+2025-03-04T05:54:01.182Z - access_modifiers: Jadval mos keladi
+2025-03-04T05:54:01.182Z - access_modifiers: Tekshiruv yakunlandi
+2025-03-04T05:54:02.184Z - account_number_costs: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:02.184Z - account_number_costs: Tekshiruv boshlandi
+2025-03-04T05:54:02.189Z - account_number_costs: MySQL qator soni - 644, PostgreSQL qator soni - 644
+2025-03-04T05:54:02.190Z - account_number_costs: Qator soni mos keladi
+2025-03-04T05:54:02.201Z - account_number_costs: ID lar tekshirildi - MySQL: 644, PostgreSQL: 644
+2025-03-04T05:54:02.201Z - account_number_costs: ID lar mos keladi
+2025-03-04T05:54:02.210Z - account_number_costs: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:02.211Z - account_number_costs: Namuna mos keladi
+2025-03-04T05:54:02.211Z - account_number_costs - MySQL foreign keys: []
+2025-03-04T05:54:02.212Z - account_number_costs - PostgreSQL foreign keys: []
+2025-03-04T05:54:02.212Z - account_number_costs: Jadval mos keladi
+2025-03-04T05:54:02.212Z - account_number_costs: Tekshiruv yakunlandi
+2025-03-04T05:54:03.213Z - account_number_input_types: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:03.214Z - account_number_input_types: Tekshiruv boshlandi
+2025-03-04T05:54:03.217Z - account_number_input_types: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:54:03.218Z - account_number_input_types: Qator soni mos keladi
+2025-03-04T05:54:03.221Z - account_number_input_types: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:54:03.221Z - account_number_input_types: ID lar mos keladi
+2025-03-04T05:54:03.221Z - account_number_input_types: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:54:03.221Z - account_number_input_types - MySQL foreign keys: []
+2025-03-04T05:54:03.221Z - account_number_input_types - PostgreSQL foreign keys: []
+2025-03-04T05:54:03.222Z - account_number_input_types: Jadval mos keladi
+2025-03-04T05:54:03.222Z - account_number_input_types: Tekshiruv yakunlandi
+2025-03-04T05:54:04.224Z - actions: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:04.224Z - actions: Tekshiruv boshlandi
+2025-03-04T05:54:04.227Z - actions: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-04T05:54:04.227Z - actions: Qator soni mos keladi
+2025-03-04T05:54:04.228Z - actions: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:54:04.229Z - actions: ID lar mos keladi
+2025-03-04T05:54:04.232Z - actions: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:54:04.232Z - actions: Namuna mos keladi
+2025-03-04T05:54:04.232Z - actions - MySQL foreign keys: []
+2025-03-04T05:54:04.232Z - actions - PostgreSQL foreign keys: []
+2025-03-04T05:54:04.232Z - actions: Jadval mos keladi
+2025-03-04T05:54:04.232Z - actions: Tekshiruv yakunlandi
+2025-03-04T05:54:05.234Z - additional_functions: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:05.235Z - additional_functions: Tekshiruv boshlandi
+2025-03-04T05:54:05.237Z - additional_functions: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-04T05:54:05.237Z - additional_functions: Qator soni mos keladi
+2025-03-04T05:54:05.239Z - additional_functions: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:54:05.239Z - additional_functions: ID lar mos keladi
+2025-03-04T05:54:05.243Z - additional_functions: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:54:05.243Z - additional_functions: Namuna mos keladi
+2025-03-04T05:54:05.243Z - additional_functions - MySQL foreign keys: []
+2025-03-04T05:54:05.243Z - additional_functions - PostgreSQL foreign keys: []
+2025-03-04T05:54:05.244Z - additional_functions: Jadval mos keladi
+2025-03-04T05:54:05.244Z - additional_functions: Tekshiruv yakunlandi
+2025-03-04T05:54:06.244Z - additionals: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:06.245Z - additionals: Tekshiruv boshlandi
+2025-03-04T05:54:06.248Z - additionals: MySQL qator soni - 4, PostgreSQL qator soni - 4
+2025-03-04T05:54:06.248Z - additionals: Qator soni mos keladi
+2025-03-04T05:54:06.250Z - additionals: ID lar tekshirildi - MySQL: 4, PostgreSQL: 4
+2025-03-04T05:54:06.250Z - additionals: ID lar mos keladi
+2025-03-04T05:54:06.252Z - additionals: Namuna qatorlari - MySQL: 4, PostgreSQL: 4
+2025-03-04T05:54:06.252Z - additionals: Namuna mos keladi
+2025-03-04T05:54:06.252Z - additionals - MySQL foreign keys: []
+2025-03-04T05:54:06.252Z - additionals - PostgreSQL foreign keys: []
+2025-03-04T05:54:06.253Z - additionals: Jadval mos keladi
+2025-03-04T05:54:06.253Z - additionals: Tekshiruv yakunlandi
+2025-03-04T05:54:07.254Z - agent_groups: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:07.255Z - agent_groups: Tekshiruv boshlandi
+2025-03-04T05:54:07.258Z - agent_groups: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:54:07.258Z - agent_groups: Qator soni mos keladi
+2025-03-04T05:54:07.260Z - agent_groups: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:54:07.260Z - agent_groups: ID lar mos keladi
+2025-03-04T05:54:07.260Z - agent_groups: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:54:07.260Z - agent_groups - MySQL foreign keys: []
+2025-03-04T05:54:07.260Z - agent_groups - PostgreSQL foreign keys: []
+2025-03-04T05:54:07.261Z - agent_groups: Jadval mos keladi
+2025-03-04T05:54:07.261Z - agent_groups: Tekshiruv yakunlandi
+2025-03-04T05:54:08.261Z - agent_has_workplaces: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:08.261Z - agent_has_workplaces: Tekshiruv boshlandi
+2025-03-04T05:54:08.267Z - agent_has_workplaces: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:54:08.267Z - agent_has_workplaces: Qator soni mos keladi
+2025-03-04T05:54:08.269Z - agent_has_workplaces: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:54:08.270Z - agent_has_workplaces: ID lar mos keladi
+2025-03-04T05:54:08.273Z - agent_has_workplaces: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:54:08.273Z - agent_has_workplaces: Namuna mos keladi
+2025-03-04T05:54:08.273Z - agent_has_workplaces - MySQL foreign keys: []
+2025-03-04T05:54:08.273Z - agent_has_workplaces - PostgreSQL foreign keys: []
+2025-03-04T05:54:08.273Z - agent_has_workplaces: Jadval mos keladi
+2025-03-04T05:54:08.273Z - agent_has_workplaces: Tekshiruv yakunlandi
+2025-03-04T05:54:09.275Z - agent_plan_has_partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:09.275Z - agent_plan_has_partners: Tekshiruv boshlandi
+2025-03-04T05:54:09.281Z - agent_plan_has_partners: MySQL qator soni - 43, PostgreSQL qator soni - 43
+2025-03-04T05:54:09.281Z - agent_plan_has_partners: Qator soni mos keladi
+2025-03-04T05:54:09.283Z - agent_plan_has_partners: ID lar tekshirildi - MySQL: 43, PostgreSQL: 43
+2025-03-04T05:54:09.283Z - agent_plan_has_partners: ID lar mos keladi
+2025-03-04T05:54:09.286Z - agent_plan_has_partners: Namuna qatorlari - MySQL: 43, PostgreSQL: 43
+2025-03-04T05:54:09.286Z - agent_plan_has_partners: Namuna mos keladi
+2025-03-04T05:54:09.286Z - agent_plan_has_partners - MySQL foreign keys: []
+2025-03-04T05:54:09.286Z - agent_plan_has_partners - PostgreSQL foreign keys: []
+2025-03-04T05:54:09.286Z - agent_plan_has_partners: Jadval mos keladi
+2025-03-04T05:54:09.287Z - agent_plan_has_partners: Tekshiruv yakunlandi
+2025-03-04T05:54:10.288Z - agent_plan_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:10.288Z - agent_plan_histories: Tekshiruv boshlandi
+2025-03-04T05:54:10.292Z - agent_plan_histories: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:54:10.292Z - agent_plan_histories: Qator soni mos keladi
+2025-03-04T05:54:10.294Z - agent_plan_histories: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:54:10.294Z - agent_plan_histories: ID lar mos keladi
+2025-03-04T05:54:10.294Z - agent_plan_histories: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:54:10.294Z - agent_plan_histories - MySQL foreign keys: []
+2025-03-04T05:54:10.294Z - agent_plan_histories - PostgreSQL foreign keys: []
+2025-03-04T05:54:10.294Z - agent_plan_histories: Jadval mos keladi
+2025-03-04T05:54:10.294Z - agent_plan_histories: Tekshiruv yakunlandi
+2025-03-04T05:54:11.296Z - agent_plans: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:11.297Z - agent_plans: Tekshiruv boshlandi
+2025-03-04T05:54:11.300Z - agent_plans: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-04T05:54:11.300Z - agent_plans: Qator soni mos keladi
+2025-03-04T05:54:11.302Z - agent_plans: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:54:11.303Z - agent_plans: ID lar mos keladi
+2025-03-04T05:54:11.304Z - agent_plans: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:54:11.305Z - agent_plans: Namuna mos keladi
+2025-03-04T05:54:11.305Z - agent_plans - MySQL foreign keys: []
+2025-03-04T05:54:11.305Z - agent_plans - PostgreSQL foreign keys: []
+2025-03-04T05:54:11.305Z - agent_plans: Jadval mos keladi
+2025-03-04T05:54:11.305Z - agent_plans: Tekshiruv yakunlandi
+2025-03-04T05:54:12.307Z - agents: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:12.307Z - agents: Tekshiruv boshlandi
+2025-03-04T05:54:12.310Z - agents: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:54:12.310Z - agents: Qator soni mos keladi
+2025-03-04T05:54:12.312Z - agents: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:54:12.313Z - agents: ID lar mos keladi
+2025-03-04T05:54:12.316Z - agents: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:54:12.316Z - agents: Namuna mos keladi
+2025-03-04T05:54:12.316Z - agents - MySQL foreign keys: []
+2025-03-04T05:54:12.316Z - agents - PostgreSQL foreign keys: []
+2025-03-04T05:54:12.316Z - agents: Jadval mos keladi
+2025-03-04T05:54:12.316Z - agents: Tekshiruv yakunlandi
+2025-03-04T05:54:13.318Z - apps: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:13.318Z - apps: Tekshiruv boshlandi
+2025-03-04T05:54:13.321Z - apps: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:54:13.321Z - apps: Qator soni mos keladi
+2025-03-04T05:54:13.324Z - apps: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:54:13.324Z - apps: ID lar mos keladi
+2025-03-04T05:54:13.324Z - apps: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:54:13.324Z - apps - MySQL foreign keys: []
+2025-03-04T05:54:13.324Z - apps - PostgreSQL foreign keys: []
+2025-03-04T05:54:13.324Z - apps: Jadval mos keladi
+2025-03-04T05:54:13.324Z - apps: Tekshiruv yakunlandi
+2025-03-04T05:54:14.326Z - banks: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:14.326Z - banks: Tekshiruv boshlandi
+2025-03-04T05:54:14.329Z - banks: MySQL qator soni - 100, PostgreSQL qator soni - 100
+2025-03-04T05:54:14.329Z - banks: Qator soni mos keladi
+2025-03-04T05:54:14.332Z - banks: ID lar tekshirildi - MySQL: 100, PostgreSQL: 100
+2025-03-04T05:54:14.333Z - banks: ID lar mos keladi
+2025-03-04T05:54:14.339Z - banks: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:14.341Z - banks: Namuna mos keladi
+2025-03-04T05:54:14.341Z - banks - MySQL foreign keys: []
+2025-03-04T05:54:14.341Z - banks - PostgreSQL foreign keys: []
+2025-03-04T05:54:14.341Z - banks: Jadval mos keladi
+2025-03-04T05:54:14.341Z - banks: Tekshiruv yakunlandi
+2025-03-04T05:54:15.343Z - bonus_condition_has_partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:15.343Z - bonus_condition_has_partners: Tekshiruv boshlandi
+2025-03-04T05:54:15.347Z - bonus_condition_has_partners: MySQL qator soni - 2514, PostgreSQL qator soni - 2514
+2025-03-04T05:54:15.347Z - bonus_condition_has_partners: Qator soni mos keladi
+2025-03-04T05:54:15.369Z - bonus_condition_has_partners: ID lar tekshirildi - MySQL: 2514, PostgreSQL: 2514
+2025-03-04T05:54:15.370Z - bonus_condition_has_partners: ID lar mos keladi
+2025-03-04T05:54:15.374Z - bonus_condition_has_partners: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:15.374Z - bonus_condition_has_partners: Namuna mos keladi
+2025-03-04T05:54:15.374Z - bonus_condition_has_partners - MySQL foreign keys: []
+2025-03-04T05:54:15.374Z - bonus_condition_has_partners - PostgreSQL foreign keys: []
+2025-03-04T05:54:15.374Z - bonus_condition_has_partners: Jadval mos keladi
+2025-03-04T05:54:15.374Z - bonus_condition_has_partners: Tekshiruv yakunlandi
+2025-03-04T05:54:16.376Z - bonus_condition_has_repositories: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:16.376Z - bonus_condition_has_repositories: Tekshiruv boshlandi
+2025-03-04T05:54:16.379Z - bonus_condition_has_repositories: MySQL qator soni - 142, PostgreSQL qator soni - 142
+2025-03-04T05:54:16.380Z - bonus_condition_has_repositories: Qator soni mos keladi
+2025-03-04T05:54:16.381Z - bonus_condition_has_repositories: ID lar tekshirildi - MySQL: 142, PostgreSQL: 142
+2025-03-04T05:54:16.382Z - bonus_condition_has_repositories: ID lar mos keladi
+2025-03-04T05:54:16.385Z - bonus_condition_has_repositories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:16.385Z - bonus_condition_has_repositories: Namuna mos keladi
+2025-03-04T05:54:16.386Z - bonus_condition_has_repositories - MySQL foreign keys: []
+2025-03-04T05:54:16.386Z - bonus_condition_has_repositories - PostgreSQL foreign keys: []
+2025-03-04T05:54:16.386Z - bonus_condition_has_repositories: Jadval mos keladi
+2025-03-04T05:54:16.386Z - bonus_condition_has_repositories: Tekshiruv yakunlandi
+2025-03-04T05:54:17.388Z - bonus_conditions: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:17.388Z - bonus_conditions: Tekshiruv boshlandi
+2025-03-04T05:54:17.392Z - bonus_conditions: MySQL qator soni - 46, PostgreSQL qator soni - 46
+2025-03-04T05:54:17.392Z - bonus_conditions: Qator soni mos keladi
+2025-03-04T05:54:17.394Z - bonus_conditions: ID lar tekshirildi - MySQL: 46, PostgreSQL: 46
+2025-03-04T05:54:17.394Z - bonus_conditions: ID lar mos keladi
+2025-03-04T05:54:17.398Z - bonus_conditions: Namuna qatorlari - MySQL: 46, PostgreSQL: 46
+2025-03-04T05:54:17.399Z - bonus_conditions: Namuna mos keladi
+2025-03-04T05:54:17.399Z - bonus_conditions - MySQL foreign keys: []
+2025-03-04T05:54:17.399Z - bonus_conditions - PostgreSQL foreign keys: []
+2025-03-04T05:54:17.399Z - bonus_conditions: Jadval mos keladi
+2025-03-04T05:54:17.399Z - bonus_conditions: Tekshiruv yakunlandi
+2025-03-04T05:54:18.399Z - bonus_products: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:18.400Z - bonus_products: Tekshiruv boshlandi
+2025-03-04T05:54:18.403Z - bonus_products: MySQL qator soni - 203, PostgreSQL qator soni - 203
+2025-03-04T05:54:18.403Z - bonus_products: Qator soni mos keladi
+2025-03-04T05:54:18.407Z - bonus_products: ID lar tekshirildi - MySQL: 203, PostgreSQL: 203
+2025-03-04T05:54:18.407Z - bonus_products: ID lar mos keladi
+2025-03-04T05:54:18.412Z - bonus_products: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:18.413Z - bonus_products: Namuna mos keladi
+2025-03-04T05:54:18.414Z - bonus_products - MySQL foreign keys: []
+2025-03-04T05:54:18.414Z - bonus_products - PostgreSQL foreign keys: []
+2025-03-04T05:54:18.414Z - bonus_products: Jadval mos keladi
+2025-03-04T05:54:18.414Z - bonus_products: Tekshiruv yakunlandi
+2025-03-04T05:54:19.416Z - bonus_products_has_repository_actions: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:19.416Z - bonus_products_has_repository_actions: Tekshiruv boshlandi
+2025-03-04T05:54:19.421Z - bonus_products_has_repository_actions: MySQL qator soni - 1726, PostgreSQL qator soni - 1726
+2025-03-04T05:54:19.422Z - bonus_products_has_repository_actions: Qator soni mos keladi
+2025-03-04T05:54:19.430Z - bonus_products_has_repository_actions: ID lar tekshirildi - MySQL: 1726, PostgreSQL: 1726
+2025-03-04T05:54:19.430Z - bonus_products_has_repository_actions: ID lar mos keladi
+2025-03-04T05:54:19.435Z - bonus_products_has_repository_actions: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:19.436Z - bonus_products_has_repository_actions: Namuna mos keladi
+2025-03-04T05:54:19.436Z - bonus_products_has_repository_actions - MySQL foreign keys: []
+2025-03-04T05:54:19.436Z - bonus_products_has_repository_actions - PostgreSQL foreign keys: []
+2025-03-04T05:54:19.437Z - bonus_products_has_repository_actions: Jadval mos keladi
+2025-03-04T05:54:19.437Z - bonus_products_has_repository_actions: Tekshiruv yakunlandi
+2025-03-04T05:54:20.439Z - bonus_sub_conditions: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:20.440Z - bonus_sub_conditions: Tekshiruv boshlandi
+2025-03-04T05:54:20.443Z - bonus_sub_conditions: MySQL qator soni - 359, PostgreSQL qator soni - 359
+2025-03-04T05:54:20.443Z - bonus_sub_conditions: Qator soni mos keladi
+2025-03-04T05:54:20.447Z - bonus_sub_conditions: ID lar tekshirildi - MySQL: 359, PostgreSQL: 359
+2025-03-04T05:54:20.447Z - bonus_sub_conditions: ID lar mos keladi
+2025-03-04T05:54:20.452Z - bonus_sub_conditions: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:20.454Z - bonus_sub_conditions: Namuna mos keladi
+2025-03-04T05:54:20.454Z - bonus_sub_conditions - MySQL foreign keys: []
+2025-03-04T05:54:20.454Z - bonus_sub_conditions - PostgreSQL foreign keys: []
+2025-03-04T05:54:20.454Z - bonus_sub_conditions: Jadval mos keladi
+2025-03-04T05:54:20.454Z - bonus_sub_conditions: Tekshiruv yakunlandi
+2025-03-04T05:54:21.455Z - brands: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:21.456Z - brands: Tekshiruv boshlandi
+2025-03-04T05:54:21.460Z - brands: MySQL qator soni - 3067, PostgreSQL qator soni - 3067
+2025-03-04T05:54:21.460Z - brands: Qator soni mos keladi
+2025-03-04T05:54:21.473Z - brands: ID lar tekshirildi - MySQL: 3067, PostgreSQL: 3067
+2025-03-04T05:54:21.474Z - brands: ID lar mos keladi
+2025-03-04T05:54:21.478Z - brands: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:21.479Z - brands: Namuna mos keladi
+2025-03-04T05:54:21.479Z - brands - MySQL foreign keys: []
+2025-03-04T05:54:21.479Z - brands - PostgreSQL foreign keys: []
+2025-03-04T05:54:21.479Z - brands: Jadval mos keladi
+2025-03-04T05:54:21.479Z - brands: Tekshiruv yakunlandi
+2025-03-04T05:54:22.480Z - calculation_comments: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:22.480Z - calculation_comments: Tekshiruv boshlandi
+2025-03-04T05:54:22.484Z - calculation_comments: MySQL qator soni - 1188, PostgreSQL qator soni - 1188
+2025-03-04T05:54:22.485Z - calculation_comments: Qator soni mos keladi
+2025-03-04T05:54:22.488Z - calculation_comments: ID lar tekshirildi - MySQL: 1188, PostgreSQL: 1188
+2025-03-04T05:54:22.489Z - calculation_comments: ID lar mos keladi
+2025-03-04T05:54:22.493Z - calculation_comments: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:22.493Z - calculation_comments: Namuna mos keladi
+2025-03-04T05:54:22.494Z - calculation_comments - MySQL foreign keys: []
+2025-03-04T05:54:22.494Z - calculation_comments - PostgreSQL foreign keys: []
+2025-03-04T05:54:22.494Z - calculation_comments: Jadval mos keladi
+2025-03-04T05:54:22.494Z - calculation_comments: Tekshiruv yakunlandi
+2025-03-04T05:54:23.496Z - calculation_employees: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:23.496Z - calculation_employees: Tekshiruv boshlandi
+2025-03-04T05:54:23.501Z - calculation_employees: MySQL qator soni - 5293, PostgreSQL qator soni - 5293
+2025-03-04T05:54:23.501Z - calculation_employees: Qator soni mos keladi
+2025-03-04T05:54:23.515Z - calculation_employees: ID lar tekshirildi - MySQL: 5293, PostgreSQL: 5293
+2025-03-04T05:54:23.516Z - calculation_employees: ID lar mos keladi
+2025-03-04T05:54:23.519Z - calculation_employees: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:23.520Z - calculation_employees: Namuna mos keladi
+2025-03-04T05:54:23.520Z - calculation_employees - MySQL foreign keys: []
+2025-03-04T05:54:23.520Z - calculation_employees - PostgreSQL foreign keys: []
+2025-03-04T05:54:23.520Z - calculation_employees: Jadval mos keladi
+2025-03-04T05:54:23.520Z - calculation_employees: Tekshiruv yakunlandi
+2025-03-04T05:54:24.522Z - calculation_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:24.522Z - calculation_histories: Tekshiruv boshlandi
+2025-03-04T05:54:24.527Z - calculation_histories: MySQL qator soni - 517, PostgreSQL qator soni - 517
+2025-03-04T05:54:24.527Z - calculation_histories: Qator soni mos keladi
+2025-03-04T05:54:24.529Z - calculation_histories: ID lar tekshirildi - MySQL: 517, PostgreSQL: 517
+2025-03-04T05:54:24.530Z - calculation_histories: ID lar mos keladi
+2025-03-04T05:54:24.536Z - calculation_histories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:24.538Z - calculation_histories: Namuna mos keladi
+2025-03-04T05:54:24.538Z - calculation_histories - MySQL foreign keys: []
+2025-03-04T05:54:24.538Z - calculation_histories - PostgreSQL foreign keys: []
+2025-03-04T05:54:24.539Z - calculation_histories: Jadval mos keladi
+2025-03-04T05:54:24.539Z - calculation_histories: Tekshiruv yakunlandi
+2025-03-04T05:54:25.539Z - canceled_pre_order_product_infos: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:25.540Z - canceled_pre_order_product_infos: Tekshiruv boshlandi
+2025-03-04T05:54:25.543Z - canceled_pre_order_product_infos: MySQL qator soni - 1874, PostgreSQL qator soni - 1874
+2025-03-04T05:54:25.544Z - canceled_pre_order_product_infos: Qator soni mos keladi
+2025-03-04T05:54:25.550Z - canceled_pre_order_product_infos: ID lar tekshirildi - MySQL: 1874, PostgreSQL: 1874
+2025-03-04T05:54:25.551Z - canceled_pre_order_product_infos: ID lar mos keladi
+2025-03-04T05:54:25.555Z - canceled_pre_order_product_infos: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:25.556Z - canceled_pre_order_product_infos: Namuna mos keladi
+2025-03-04T05:54:25.557Z - canceled_pre_order_product_infos - MySQL foreign keys: [{"TABLE_NAME":"canceled_pre_order_product_infos","COLUMN_NAME":"auth_id","REFERENCED_TABLE_NAME":"users","REFERENCED_COLUMN_NAME":"id"},{"TABLE_NAME":"canceled_pre_order_product_infos","COLUMN_NAME":"pre_order_product_id","REFERENCED_TABLE_NAME":"pre_order_products","REFERENCED_COLUMN_NAME":"id"},{"TABLE_NAME":"canceled_pre_order_product_infos","COLUMN_NAME":"product_variant_id","REFERENCED_TABLE_NAME":"product_variants","REFERENCED_COLUMN_NAME":"id"}]
+2025-03-04T05:54:25.557Z - canceled_pre_order_product_infos - PostgreSQL foreign keys: []
+2025-03-04T05:54:25.557Z - canceled_pre_order_product_infos: Foreign key soni farq qiladi: MySQL=3 (auth_id -> users, pre_order_product_id -> pre_order_products, product_variant_id -> product_variants), PostgreSQL=0 ()
+2025-03-04T05:54:25.557Z - canceled_pre_order_product_infos: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=3 (auth_id -> users, pre_order_product_id -> pre_order_products, product_variant_id -> product_variants), PostgreSQL=0 ()
+2025-03-04T05:54:25.558Z - canceled_pre_order_product_infos: Tekshiruv yakunlandi
+2025-03-04T05:54:26.558Z - candidate_clients: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:26.558Z - candidate_clients: Tekshiruv boshlandi
+2025-03-04T05:54:26.562Z - candidate_clients: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:54:26.562Z - candidate_clients: Qator soni mos keladi
+2025-03-04T05:54:26.563Z - candidate_clients: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:54:26.564Z - candidate_clients: ID lar mos keladi
+2025-03-04T05:54:26.564Z - candidate_clients: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:54:26.564Z - candidate_clients - MySQL foreign keys: []
+2025-03-04T05:54:26.564Z - candidate_clients - PostgreSQL foreign keys: []
+2025-03-04T05:54:26.564Z - candidate_clients: Jadval mos keladi
+2025-03-04T05:54:26.564Z - candidate_clients: Tekshiruv yakunlandi
+2025-03-04T05:54:27.565Z - cars: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:27.565Z - cars: Tekshiruv boshlandi
+2025-03-04T05:54:27.573Z - cars: MySQL qator soni - 286, PostgreSQL qator soni - 286
+2025-03-04T05:54:27.573Z - cars: Qator soni mos keladi
+2025-03-04T05:54:27.575Z - cars: ID lar tekshirildi - MySQL: 286, PostgreSQL: 286
+2025-03-04T05:54:27.576Z - cars: ID lar mos keladi
+2025-03-04T05:54:27.581Z - cars: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:27.582Z - cars: Namuna mos keladi
+2025-03-04T05:54:27.582Z - cars - MySQL foreign keys: []
+2025-03-04T05:54:27.583Z - cars - PostgreSQL foreign keys: []
+2025-03-04T05:54:27.583Z - cars: Jadval mos keladi
+2025-03-04T05:54:27.583Z - cars: Tekshiruv yakunlandi
+2025-03-04T05:54:28.584Z - cash_boxes: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:28.585Z - cash_boxes: Tekshiruv boshlandi
+2025-03-04T05:54:28.588Z - cash_boxes: MySQL qator soni - 36, PostgreSQL qator soni - 36
+2025-03-04T05:54:28.589Z - cash_boxes: Qator soni mos keladi
+2025-03-04T05:54:28.590Z - cash_boxes: ID lar tekshirildi - MySQL: 36, PostgreSQL: 36
+2025-03-04T05:54:28.590Z - cash_boxes: ID lar mos keladi
+2025-03-04T05:54:28.594Z - cash_boxes: Namuna qatorlari - MySQL: 36, PostgreSQL: 36
+2025-03-04T05:54:28.595Z - cash_boxes: Namuna mos keladi
+2025-03-04T05:54:28.595Z - cash_boxes - MySQL foreign keys: []
+2025-03-04T05:54:28.595Z - cash_boxes - PostgreSQL foreign keys: []
+2025-03-04T05:54:28.595Z - cash_boxes: Jadval mos keladi
+2025-03-04T05:54:28.595Z - cash_boxes: Tekshiruv yakunlandi
+2025-03-04T05:54:29.597Z - cash_flow_currencies: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:29.597Z - cash_flow_currencies: Tekshiruv boshlandi
+2025-03-04T05:54:29.604Z - cash_flow_currencies: MySQL qator soni - 13977, PostgreSQL qator soni - 13977
+2025-03-04T05:54:29.604Z - cash_flow_currencies: Qator soni mos keladi
+2025-03-04T05:54:29.633Z - cash_flow_currencies: ID lar tekshirildi - MySQL: 13977, PostgreSQL: 13977
+2025-03-04T05:54:29.634Z - cash_flow_currencies: ID lar mos keladi
+2025-03-04T05:54:29.638Z - cash_flow_currencies: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:29.639Z - cash_flow_currencies: Namuna mos keladi
+2025-03-04T05:54:29.639Z - cash_flow_currencies - MySQL foreign keys: []
+2025-03-04T05:54:29.639Z - cash_flow_currencies - PostgreSQL foreign keys: []
+2025-03-04T05:54:29.639Z - cash_flow_currencies: Jadval mos keladi
+2025-03-04T05:54:29.639Z - cash_flow_currencies: Tekshiruv yakunlandi
+2025-03-04T05:54:30.640Z - cash_flow_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:30.640Z - cash_flow_histories: Tekshiruv boshlandi
+2025-03-04T05:54:30.646Z - cash_flow_histories: MySQL qator soni - 17241, PostgreSQL qator soni - 17241
+2025-03-04T05:54:30.646Z - cash_flow_histories: Qator soni mos keladi
+2025-03-04T05:54:30.668Z - cash_flow_histories: ID lar tekshirildi - MySQL: 17241, PostgreSQL: 17241
+2025-03-04T05:54:30.671Z - cash_flow_histories: ID lar mos keladi
+2025-03-04T05:54:30.677Z - cash_flow_histories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:30.677Z - cash_flow_histories: Namuna mos keladi
+2025-03-04T05:54:30.677Z - cash_flow_histories - MySQL foreign keys: []
+2025-03-04T05:54:30.677Z - cash_flow_histories - PostgreSQL foreign keys: []
+2025-03-04T05:54:30.677Z - cash_flow_histories: Jadval mos keladi
+2025-03-04T05:54:30.677Z - cash_flow_histories: Tekshiruv yakunlandi
+2025-03-04T05:54:31.678Z - cash_flows: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:31.678Z - cash_flows: Tekshiruv boshlandi
+2025-03-04T05:54:31.701Z - cash_flows: MySQL qator soni - 25110, PostgreSQL qator soni - 25110
+2025-03-04T05:54:31.701Z - cash_flows: Qator soni mos keladi
+2025-03-04T05:54:31.739Z - cash_flows: ID lar tekshirildi - MySQL: 25110, PostgreSQL: 25110
+2025-03-04T05:54:31.742Z - cash_flows: ID lar mos keladi
+2025-03-04T05:54:31.746Z - cash_flows: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:31.747Z - cash_flows: Namuna mos keladi
+2025-03-04T05:54:31.747Z - cash_flows - MySQL foreign keys: []
+2025-03-04T05:54:31.747Z - cash_flows - PostgreSQL foreign keys: []
+2025-03-04T05:54:31.747Z - cash_flows: Jadval mos keladi
+2025-03-04T05:54:31.747Z - cash_flows: Tekshiruv yakunlandi
+2025-03-04T05:54:32.749Z - cash_operation_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:32.749Z - cash_operation_histories: Tekshiruv boshlandi
+2025-03-04T05:54:32.762Z - cash_operation_histories: MySQL qator soni - 39192, PostgreSQL qator soni - 39192
+2025-03-04T05:54:32.763Z - cash_operation_histories: Qator soni mos keladi
+2025-03-04T05:54:32.810Z - cash_operation_histories: ID lar tekshirildi - MySQL: 39192, PostgreSQL: 39192
+2025-03-04T05:54:32.813Z - cash_operation_histories: ID lar mos keladi
+2025-03-04T05:54:32.825Z - cash_operation_histories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:32.825Z - cash_operation_histories: Namuna mos keladi
+2025-03-04T05:54:32.825Z - cash_operation_histories - MySQL foreign keys: []
+2025-03-04T05:54:32.825Z - cash_operation_histories - PostgreSQL foreign keys: []
+2025-03-04T05:54:32.825Z - cash_operation_histories: Jadval mos keladi
+2025-03-04T05:54:32.825Z - cash_operation_histories: Tekshiruv yakunlandi
+2025-03-04T05:54:33.827Z - cash_operations: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:33.827Z - cash_operations: Tekshiruv boshlandi
+2025-03-04T05:54:33.855Z - cash_operations: MySQL qator soni - 49257, PostgreSQL qator soni - 49257
+2025-03-04T05:54:33.855Z - cash_operations: Qator soni mos keladi
+2025-03-04T05:54:33.923Z - cash_operations: ID lar tekshirildi - MySQL: 49257, PostgreSQL: 49257
+2025-03-04T05:54:33.926Z - cash_operations: ID lar mos keladi
+2025-03-04T05:54:33.938Z - cash_operations: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:33.939Z - cash_operations: Namuna mos keladi
+2025-03-04T05:54:33.939Z - cash_operations - MySQL foreign keys: []
+2025-03-04T05:54:33.939Z - cash_operations - PostgreSQL foreign keys: []
+2025-03-04T05:54:33.939Z - cash_operations: Jadval mos keladi
+2025-03-04T05:54:33.939Z - cash_operations: Tekshiruv yakunlandi
+2025-03-04T05:54:34.941Z - cashbox_exchange_operations: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:34.941Z - cashbox_exchange_operations: Tekshiruv boshlandi
+2025-03-04T05:54:34.946Z - cashbox_exchange_operations: MySQL qator soni - 6312, PostgreSQL qator soni - 6312
+2025-03-04T05:54:34.946Z - cashbox_exchange_operations: Qator soni mos keladi
+2025-03-04T05:54:34.953Z - cashbox_exchange_operations: ID lar tekshirildi - MySQL: 6312, PostgreSQL: 6312
+2025-03-04T05:54:34.954Z - cashbox_exchange_operations: ID lar mos keladi
+2025-03-04T05:54:34.957Z - cashbox_exchange_operations: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:34.958Z - cashbox_exchange_operations: Namuna mos keladi
+2025-03-04T05:54:34.958Z - cashbox_exchange_operations - MySQL foreign keys: []
+2025-03-04T05:54:34.958Z - cashbox_exchange_operations - PostgreSQL foreign keys: []
+2025-03-04T05:54:34.959Z - cashbox_exchange_operations: Jadval mos keladi
+2025-03-04T05:54:34.959Z - cashbox_exchange_operations: Tekshiruv yakunlandi
+2025-03-04T05:54:35.961Z - cells: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:35.961Z - cells: Tekshiruv boshlandi
+2025-03-04T05:54:35.964Z - cells: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:54:35.964Z - cells: Qator soni mos keladi
+2025-03-04T05:54:35.966Z - cells: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:54:35.967Z - cells: ID lar mos keladi
+2025-03-04T05:54:35.967Z - cells: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:54:35.967Z - cells - MySQL foreign keys: []
+2025-03-04T05:54:35.967Z - cells - PostgreSQL foreign keys: []
+2025-03-04T05:54:35.967Z - cells: Jadval mos keladi
+2025-03-04T05:54:35.967Z - cells: Tekshiruv yakunlandi
+2025-03-04T05:54:36.969Z - change_factures: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:36.969Z - change_factures: Tekshiruv boshlandi
+2025-03-04T05:54:36.972Z - change_factures: MySQL qator soni - 88, PostgreSQL qator soni - 88
+2025-03-04T05:54:36.972Z - change_factures: Qator soni mos keladi
+2025-03-04T05:54:36.974Z - change_factures: ID lar tekshirildi - MySQL: 88, PostgreSQL: 88
+2025-03-04T05:54:36.974Z - change_factures: ID lar mos keladi
+2025-03-04T05:54:36.979Z - change_factures: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:36.980Z - change_factures: Namuna mos keladi
+2025-03-04T05:54:36.980Z - change_factures - MySQL foreign keys: []
+2025-03-04T05:54:36.980Z - change_factures - PostgreSQL foreign keys: []
+2025-03-04T05:54:36.980Z - change_factures: Jadval mos keladi
+2025-03-04T05:54:36.980Z - change_factures: Tekshiruv yakunlandi
+2025-03-04T05:54:37.982Z - classifiers: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:37.982Z - classifiers: Tekshiruv boshlandi
+2025-03-04T05:54:37.985Z - classifiers: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:54:37.985Z - classifiers: Qator soni mos keladi
+2025-03-04T05:54:37.987Z - classifiers: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:54:37.987Z - classifiers: ID lar mos keladi
+2025-03-04T05:54:37.990Z - classifiers: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:54:37.991Z - classifiers: Namuna mos keladi
+2025-03-04T05:54:37.991Z - classifiers - MySQL foreign keys: []
+2025-03-04T05:54:37.991Z - classifiers - PostgreSQL foreign keys: []
+2025-03-04T05:54:37.991Z - classifiers: Jadval mos keladi
+2025-03-04T05:54:37.991Z - classifiers: Tekshiruv yakunlandi
+2025-03-04T05:54:38.993Z - client_categories: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:38.993Z - client_categories: Tekshiruv boshlandi
+2025-03-04T05:54:38.996Z - client_categories: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:54:38.997Z - client_categories: Qator soni mos keladi
+2025-03-04T05:54:38.999Z - client_categories: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:54:38.999Z - client_categories: ID lar mos keladi
+2025-03-04T05:54:38.999Z - client_categories: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:54:38.999Z - client_categories - MySQL foreign keys: []
+2025-03-04T05:54:38.999Z - client_categories - PostgreSQL foreign keys: []
+2025-03-04T05:54:38.999Z - client_categories: Jadval mos keladi
+2025-03-04T05:54:38.999Z - client_categories: Tekshiruv yakunlandi
+2025-03-04T05:54:40.001Z - client_pictures: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:40.001Z - client_pictures: Tekshiruv boshlandi
+2025-03-04T05:54:40.004Z - client_pictures: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:54:40.004Z - client_pictures: Qator soni mos keladi
+2025-03-04T05:54:40.006Z - client_pictures: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:54:40.006Z - client_pictures: ID lar mos keladi
+2025-03-04T05:54:40.006Z - client_pictures: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:54:40.007Z - client_pictures - MySQL foreign keys: []
+2025-03-04T05:54:40.007Z - client_pictures - PostgreSQL foreign keys: []
+2025-03-04T05:54:40.007Z - client_pictures: Jadval mos keladi
+2025-03-04T05:54:40.007Z - client_pictures: Tekshiruv yakunlandi
+2025-03-04T05:54:41.009Z - costs: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:41.009Z - costs: Tekshiruv boshlandi
+2025-03-04T05:54:41.012Z - costs: MySQL qator soni - 160, PostgreSQL qator soni - 160
+2025-03-04T05:54:41.012Z - costs: Qator soni mos keladi
+2025-03-04T05:54:41.013Z - costs: ID lar tekshirildi - MySQL: 160, PostgreSQL: 160
+2025-03-04T05:54:41.013Z - costs: ID lar mos keladi
+2025-03-04T05:54:41.016Z - costs: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:41.017Z - costs: Namuna mos keladi
+2025-03-04T05:54:41.017Z - costs - MySQL foreign keys: []
+2025-03-04T05:54:41.017Z - costs - PostgreSQL foreign keys: []
+2025-03-04T05:54:41.017Z - costs: Jadval mos keladi
+2025-03-04T05:54:41.017Z - costs: Tekshiruv yakunlandi
+2025-03-04T05:54:42.019Z - currencies: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:42.019Z - currencies: Tekshiruv boshlandi
+2025-03-04T05:54:42.024Z - currencies: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:54:42.024Z - currencies: Qator soni mos keladi
+2025-03-04T05:54:42.026Z - currencies: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:54:42.026Z - currencies: ID lar mos keladi
+2025-03-04T05:54:42.029Z - currencies: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:54:42.029Z - currencies: Namuna mos keladi
+2025-03-04T05:54:42.029Z - currencies - MySQL foreign keys: []
+2025-03-04T05:54:42.029Z - currencies - PostgreSQL foreign keys: []
+2025-03-04T05:54:42.030Z - currencies: Jadval mos keladi
+2025-03-04T05:54:42.030Z - currencies: Tekshiruv yakunlandi
+2025-03-04T05:54:43.030Z - currency_changes: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:43.031Z - currency_changes: Tekshiruv boshlandi
+2025-03-04T05:54:43.035Z - currency_changes: MySQL qator soni - 850, PostgreSQL qator soni - 850
+2025-03-04T05:54:43.036Z - currency_changes: Qator soni mos keladi
+2025-03-04T05:54:43.040Z - currency_changes: ID lar tekshirildi - MySQL: 850, PostgreSQL: 850
+2025-03-04T05:54:43.041Z - currency_changes: ID lar mos keladi
+2025-03-04T05:54:43.044Z - currency_changes: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:43.045Z - currency_changes: Namuna mos keladi
+2025-03-04T05:54:43.045Z - currency_changes - MySQL foreign keys: []
+2025-03-04T05:54:43.045Z - currency_changes - PostgreSQL foreign keys: []
+2025-03-04T05:54:43.045Z - currency_changes: Jadval mos keladi
+2025-03-04T05:54:43.045Z - currency_changes: Tekshiruv yakunlandi
+2025-03-04T05:54:44.047Z - defective_products_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:44.047Z - defective_products_histories: Tekshiruv boshlandi
+2025-03-04T05:54:44.053Z - defective_products_histories: MySQL qator soni - 4691, PostgreSQL qator soni - 4691
+2025-03-04T05:54:44.053Z - defective_products_histories: Qator soni mos keladi
+2025-03-04T05:54:44.062Z - defective_products_histories: ID lar tekshirildi - MySQL: 4691, PostgreSQL: 4691
+2025-03-04T05:54:44.063Z - defective_products_histories: ID lar mos keladi
+2025-03-04T05:54:44.069Z - defective_products_histories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:44.070Z - defective_products_histories: Namuna mos keladi
+2025-03-04T05:54:44.070Z - defective_products_histories - MySQL foreign keys: []
+2025-03-04T05:54:44.070Z - defective_products_histories - PostgreSQL foreign keys: []
+2025-03-04T05:54:44.070Z - defective_products_histories: Jadval mos keladi
+2025-03-04T05:54:44.070Z - defective_products_histories: Tekshiruv yakunlandi
+2025-03-04T05:54:45.072Z - drivers: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:45.073Z - drivers: Tekshiruv boshlandi
+2025-03-04T05:54:45.075Z - drivers: MySQL qator soni - 285, PostgreSQL qator soni - 285
+2025-03-04T05:54:45.076Z - drivers: Qator soni mos keladi
+2025-03-04T05:54:45.078Z - drivers: ID lar tekshirildi - MySQL: 285, PostgreSQL: 285
+2025-03-04T05:54:45.079Z - drivers: ID lar mos keladi
+2025-03-04T05:54:45.084Z - drivers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:45.085Z - drivers: Namuna mos keladi
+2025-03-04T05:54:45.085Z - drivers - MySQL foreign keys: []
+2025-03-04T05:54:45.085Z - drivers - PostgreSQL foreign keys: []
+2025-03-04T05:54:45.085Z - drivers: Jadval mos keladi
+2025-03-04T05:54:45.085Z - drivers: Tekshiruv yakunlandi
+2025-03-04T05:54:46.087Z - employee_calculations: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:46.088Z - employee_calculations: Tekshiruv boshlandi
+2025-03-04T05:54:46.091Z - employee_calculations: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:54:46.091Z - employee_calculations: Qator soni mos keladi
+2025-03-04T05:54:46.094Z - employee_calculations: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:54:46.094Z - employee_calculations: ID lar mos keladi
+2025-03-04T05:54:46.094Z - employee_calculations: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:54:46.094Z - employee_calculations - MySQL foreign keys: []
+2025-03-04T05:54:46.094Z - employee_calculations - PostgreSQL foreign keys: []
+2025-03-04T05:54:46.094Z - employee_calculations: Jadval mos keladi
+2025-03-04T05:54:46.094Z - employee_calculations: Tekshiruv yakunlandi
+2025-03-04T05:54:47.096Z - employee_passports: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:47.096Z - employee_passports: Tekshiruv boshlandi
+2025-03-04T05:54:47.099Z - employee_passports: MySQL qator soni - 52, PostgreSQL qator soni - 52
+2025-03-04T05:54:47.099Z - employee_passports: Qator soni mos keladi
+2025-03-04T05:54:47.101Z - employee_passports: ID lar tekshirildi - MySQL: 52, PostgreSQL: 52
+2025-03-04T05:54:47.101Z - employee_passports: ID lar mos keladi
+2025-03-04T05:54:47.107Z - employee_passports: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:47.109Z - employee_passports: Namuna mos keladi
+2025-03-04T05:54:47.109Z - employee_passports - MySQL foreign keys: []
+2025-03-04T05:54:47.109Z - employee_passports - PostgreSQL foreign keys: []
+2025-03-04T05:54:47.109Z - employee_passports: Jadval mos keladi
+2025-03-04T05:54:47.109Z - employee_passports: Tekshiruv yakunlandi
+2025-03-04T05:54:48.111Z - employee_payments: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:48.111Z - employee_payments: Tekshiruv boshlandi
+2025-03-04T05:54:48.116Z - employee_payments: MySQL qator soni - 3942, PostgreSQL qator soni - 3942
+2025-03-04T05:54:48.116Z - employee_payments: Qator soni mos keladi
+2025-03-04T05:54:48.125Z - employee_payments: ID lar tekshirildi - MySQL: 3942, PostgreSQL: 3942
+2025-03-04T05:54:48.125Z - employee_payments: ID lar mos keladi
+2025-03-04T05:54:48.132Z - employee_payments: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:48.134Z - employee_payments: Namuna mos keladi
+2025-03-04T05:54:48.134Z - employee_payments - MySQL foreign keys: []
+2025-03-04T05:54:48.134Z - employee_payments - PostgreSQL foreign keys: []
+2025-03-04T05:54:48.134Z - employee_payments: Jadval mos keladi
+2025-03-04T05:54:48.134Z - employee_payments: Tekshiruv yakunlandi
+2025-03-04T05:54:49.136Z - employee_tables: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:49.136Z - employee_tables: Tekshiruv boshlandi
+2025-03-04T05:54:49.141Z - employee_tables: MySQL qator soni - 2613, PostgreSQL qator soni - 2613
+2025-03-04T05:54:49.142Z - employee_tables: Qator soni mos keladi
+2025-03-04T05:54:49.148Z - employee_tables: ID lar tekshirildi - MySQL: 2613, PostgreSQL: 2613
+2025-03-04T05:54:49.149Z - employee_tables: ID lar mos keladi
+2025-03-04T05:54:49.155Z - employee_tables: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:49.156Z - employee_tables: Namuna mos keladi
+2025-03-04T05:54:49.156Z - employee_tables - MySQL foreign keys: [{"TABLE_NAME":"employee_tables","COLUMN_NAME":"position_id","REFERENCED_TABLE_NAME":"positions","REFERENCED_COLUMN_NAME":"id"}]
+2025-03-04T05:54:49.156Z - employee_tables - PostgreSQL foreign keys: []
+2025-03-04T05:54:49.156Z - employee_tables: Foreign key soni farq qiladi: MySQL=1 (position_id -> positions), PostgreSQL=0 ()
+2025-03-04T05:54:49.157Z - employee_tables: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=1 (position_id -> positions), PostgreSQL=0 ()
+2025-03-04T05:54:49.157Z - employee_tables: Tekshiruv yakunlandi
+2025-03-04T05:54:50.157Z - employees: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:50.158Z - employees: Tekshiruv boshlandi
+2025-03-04T05:54:50.163Z - employees: MySQL qator soni - 125, PostgreSQL qator soni - 125
+2025-03-04T05:54:50.163Z - employees: Qator soni mos keladi
+2025-03-04T05:54:50.166Z - employees: ID lar tekshirildi - MySQL: 125, PostgreSQL: 125
+2025-03-04T05:54:50.166Z - employees: ID lar mos keladi
+2025-03-04T05:54:50.173Z - employees: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:50.177Z - employees: Namuna mos keladi
+2025-03-04T05:54:50.177Z - employees - MySQL foreign keys: []
+2025-03-04T05:54:50.177Z - employees - PostgreSQL foreign keys: []
+2025-03-04T05:54:50.177Z - employees: Jadval mos keladi
+2025-03-04T05:54:50.177Z - employees: Tekshiruv yakunlandi
+2025-03-04T05:54:51.178Z - events: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:51.179Z - events: Tekshiruv boshlandi
+2025-03-04T05:54:51.182Z - events: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:54:51.182Z - events: Qator soni mos keladi
+2025-03-04T05:54:51.185Z - events: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:54:51.185Z - events: ID lar mos keladi
+2025-03-04T05:54:51.185Z - events: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:54:51.185Z - events - MySQL foreign keys: []
+2025-03-04T05:54:51.185Z - events - PostgreSQL foreign keys: []
+2025-03-04T05:54:51.185Z - events: Jadval mos keladi
+2025-03-04T05:54:51.185Z - events: Tekshiruv yakunlandi
+2025-03-04T05:54:52.187Z - excel_order_job_statuses: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:52.187Z - excel_order_job_statuses: Tekshiruv boshlandi
+2025-03-04T05:54:52.191Z - excel_order_job_statuses: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:54:52.191Z - excel_order_job_statuses: Qator soni mos keladi
+2025-03-04T05:54:52.193Z - excel_order_job_statuses: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:54:52.193Z - excel_order_job_statuses: ID lar mos keladi
+2025-03-04T05:54:52.193Z - excel_order_job_statuses: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:54:52.193Z - excel_order_job_statuses - MySQL foreign keys: [{"TABLE_NAME":"excel_order_job_statuses","COLUMN_NAME":"auth_id","REFERENCED_TABLE_NAME":"users","REFERENCED_COLUMN_NAME":"id"},{"TABLE_NAME":"excel_order_job_statuses","COLUMN_NAME":"partner_id","REFERENCED_TABLE_NAME":"partners","REFERENCED_COLUMN_NAME":"id"}]
+2025-03-04T05:54:52.193Z - excel_order_job_statuses - PostgreSQL foreign keys: []
+2025-03-04T05:54:52.193Z - excel_order_job_statuses: Foreign key soni farq qiladi: MySQL=2 (auth_id -> users, partner_id -> partners), PostgreSQL=0 ()
+2025-03-04T05:54:52.193Z - excel_order_job_statuses: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=2 (auth_id -> users, partner_id -> partners), PostgreSQL=0 ()
+2025-03-04T05:54:52.193Z - excel_order_job_statuses: Tekshiruv yakunlandi
+2025-03-04T05:54:53.195Z - expense_with_employees: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:53.195Z - expense_with_employees: Tekshiruv boshlandi
+2025-03-04T05:54:53.198Z - expense_with_employees: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:54:53.199Z - expense_with_employees: Qator soni mos keladi
+2025-03-04T05:54:53.200Z - expense_with_employees: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:54:53.201Z - expense_with_employees: ID lar mos keladi
+2025-03-04T05:54:53.201Z - expense_with_employees: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:54:53.201Z - expense_with_employees - MySQL foreign keys: []
+2025-03-04T05:54:53.201Z - expense_with_employees - PostgreSQL foreign keys: []
+2025-03-04T05:54:53.201Z - expense_with_employees: Jadval mos keladi
+2025-03-04T05:54:53.201Z - expense_with_employees: Tekshiruv yakunlandi
+2025-03-04T05:54:54.203Z - expense_with_partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:54.203Z - expense_with_partners: Tekshiruv boshlandi
+2025-03-04T05:54:54.234Z - expense_with_partners: MySQL qator soni - 74709, PostgreSQL qator soni - 74709
+2025-03-04T05:54:54.235Z - expense_with_partners: Qator soni mos keladi
+2025-03-04T05:54:54.333Z - expense_with_partners: ID lar tekshirildi - MySQL: 74709, PostgreSQL: 74709
+2025-03-04T05:54:54.344Z - expense_with_partners: ID lar mos keladi
+2025-03-04T05:54:54.347Z - expense_with_partners: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:54.348Z - expense_with_partners: Namuna mos keladi
+2025-03-04T05:54:54.348Z - expense_with_partners - MySQL foreign keys: []
+2025-03-04T05:54:54.348Z - expense_with_partners - PostgreSQL foreign keys: []
+2025-03-04T05:54:54.348Z - expense_with_partners: Jadval mos keladi
+2025-03-04T05:54:54.348Z - expense_with_partners: Tekshiruv yakunlandi
+2025-03-04T05:54:55.349Z - expenses: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:55.349Z - expenses: Tekshiruv boshlandi
+2025-03-04T05:54:55.399Z - expenses: MySQL qator soni - 103880, PostgreSQL qator soni - 103880
+2025-03-04T05:54:55.399Z - expenses: Qator soni mos keladi
+2025-03-04T05:54:55.514Z - expenses: ID lar tekshirildi - MySQL: 103880, PostgreSQL: 103880
+2025-03-04T05:54:55.521Z - expenses: ID lar mos keladi
+2025-03-04T05:54:55.534Z - expenses: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:55.535Z - expenses: Namuna mos keladi
+2025-03-04T05:54:55.535Z - expenses - MySQL foreign keys: []
+2025-03-04T05:54:55.535Z - expenses - PostgreSQL foreign keys: []
+2025-03-04T05:54:55.535Z - expenses: Jadval mos keladi
+2025-03-04T05:54:55.535Z - expenses: Tekshiruv yakunlandi
+2025-03-04T05:54:56.537Z - face_manager_organizations: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:56.537Z - face_manager_organizations: Tekshiruv boshlandi
+2025-03-04T05:54:56.540Z - face_manager_organizations: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-04T05:54:56.540Z - face_manager_organizations: Qator soni mos keladi
+2025-03-04T05:54:56.541Z - face_manager_organizations: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:54:56.542Z - face_manager_organizations: ID lar mos keladi
+2025-03-04T05:54:56.544Z - face_manager_organizations: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:54:56.545Z - face_manager_organizations: Namuna mos keladi
+2025-03-04T05:54:56.545Z - face_manager_organizations - MySQL foreign keys: []
+2025-03-04T05:54:56.545Z - face_manager_organizations - PostgreSQL foreign keys: []
+2025-03-04T05:54:56.545Z - face_manager_organizations: Jadval mos keladi
+2025-03-04T05:54:56.545Z - face_manager_organizations: Tekshiruv yakunlandi
+2025-03-04T05:54:57.546Z - face_manager_tokens: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:57.547Z - face_manager_tokens: Tekshiruv boshlandi
+2025-03-04T05:54:57.550Z - face_manager_tokens: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:54:57.550Z - face_manager_tokens: Qator soni mos keladi
+2025-03-04T05:54:57.553Z - face_manager_tokens: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:54:57.553Z - face_manager_tokens: ID lar mos keladi
+2025-03-04T05:54:57.556Z - face_manager_tokens: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:54:57.556Z - face_manager_tokens: Namuna mos keladi
+2025-03-04T05:54:57.556Z - face_manager_tokens - MySQL foreign keys: []
+2025-03-04T05:54:57.556Z - face_manager_tokens - PostgreSQL foreign keys: []
+2025-03-04T05:54:57.556Z - face_manager_tokens: Jadval mos keladi
+2025-03-04T05:54:57.556Z - face_manager_tokens: Tekshiruv yakunlandi
+2025-03-04T05:54:58.558Z - failed_jobs: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:58.558Z - failed_jobs: Tekshiruv boshlandi
+2025-03-04T05:54:58.561Z - failed_jobs: MySQL qator soni - 30, PostgreSQL qator soni - 30
+2025-03-04T05:54:58.561Z - failed_jobs: Qator soni mos keladi
+2025-03-04T05:54:58.563Z - failed_jobs: ID lar tekshirildi - MySQL: 30, PostgreSQL: 30
+2025-03-04T05:54:58.563Z - failed_jobs: ID lar mos keladi
+2025-03-04T05:54:58.591Z - failed_jobs: Namuna qatorlari - MySQL: 30, PostgreSQL: 30
+2025-03-04T05:54:58.592Z - failed_jobs: Namuna mos keladi
+2025-03-04T05:54:58.593Z - failed_jobs - MySQL foreign keys: []
+2025-03-04T05:54:58.593Z - failed_jobs - PostgreSQL foreign keys: []
+2025-03-04T05:54:58.593Z - failed_jobs: Jadval mos keladi
+2025-03-04T05:54:58.593Z - failed_jobs: Tekshiruv yakunlandi
+2025-03-04T05:54:59.595Z - firm_account_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:54:59.595Z - firm_account_numbers: Tekshiruv boshlandi
+2025-03-04T05:54:59.597Z - firm_account_numbers: MySQL qator soni - 82, PostgreSQL qator soni - 82
+2025-03-04T05:54:59.597Z - firm_account_numbers: Qator soni mos keladi
+2025-03-04T05:54:59.599Z - firm_account_numbers: ID lar tekshirildi - MySQL: 82, PostgreSQL: 82
+2025-03-04T05:54:59.599Z - firm_account_numbers: ID lar mos keladi
+2025-03-04T05:54:59.601Z - firm_account_numbers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:54:59.602Z - firm_account_numbers: Namuna mos keladi
+2025-03-04T05:54:59.602Z - firm_account_numbers - MySQL foreign keys: []
+2025-03-04T05:54:59.602Z - firm_account_numbers - PostgreSQL foreign keys: []
+2025-03-04T05:54:59.602Z - firm_account_numbers: Jadval mos keladi
+2025-03-04T05:54:59.602Z - firm_account_numbers: Tekshiruv yakunlandi
+2025-03-04T05:55:00.603Z - firms: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:00.603Z - firms: Tekshiruv boshlandi
+2025-03-04T05:55:00.606Z - firms: MySQL qator soni - 12, PostgreSQL qator soni - 12
+2025-03-04T05:55:00.607Z - firms: Qator soni mos keladi
+2025-03-04T05:55:00.609Z - firms: ID lar tekshirildi - MySQL: 12, PostgreSQL: 12
+2025-03-04T05:55:00.609Z - firms: ID lar mos keladi
+2025-03-04T05:55:00.612Z - firms: Namuna qatorlari - MySQL: 12, PostgreSQL: 12
+2025-03-04T05:55:00.613Z - firms: Namuna mos keladi
+2025-03-04T05:55:00.613Z - firms - MySQL foreign keys: []
+2025-03-04T05:55:00.613Z - firms - PostgreSQL foreign keys: []
+2025-03-04T05:55:00.613Z - firms: Jadval mos keladi
+2025-03-04T05:55:00.613Z - firms: Tekshiruv yakunlandi
+2025-03-04T05:55:01.615Z - freeze_values: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:01.616Z - freeze_values: Tekshiruv boshlandi
+2025-03-04T05:55:01.620Z - freeze_values: MySQL qator soni - 2208, PostgreSQL qator soni - 2208
+2025-03-04T05:55:01.621Z - freeze_values: Qator soni mos keladi
+2025-03-04T05:55:01.628Z - freeze_values: ID lar tekshirildi - MySQL: 2208, PostgreSQL: 2208
+2025-03-04T05:55:01.628Z - freeze_values: ID lar mos keladi
+2025-03-04T05:55:01.632Z - freeze_values: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:01.632Z - freeze_values: Namuna mos keladi
+2025-03-04T05:55:01.632Z - freeze_values - MySQL foreign keys: []
+2025-03-04T05:55:01.632Z - freeze_values - PostgreSQL foreign keys: []
+2025-03-04T05:55:01.632Z - freeze_values: Jadval mos keladi
+2025-03-04T05:55:01.632Z - freeze_values: Tekshiruv yakunlandi
+2025-03-04T05:55:02.633Z - groups: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:02.633Z - groups: Tekshiruv boshlandi
+2025-03-04T05:55:02.634Z - groups: Xatolik yuz berdi: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'groups' at line 1
+2025-03-04T05:55:02.634Z - groups: Jadval mos emas - Sabab: Xatolik yuz berdi: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'groups' at line 1
+2025-03-04T05:55:02.635Z - groups: Tekshiruv yakunlandi
+2025-03-04T05:55:03.636Z - history_to_invalid_products: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:03.637Z - history_to_invalid_products: Tekshiruv boshlandi
+2025-03-04T05:55:03.640Z - history_to_invalid_products: MySQL qator soni - 27, PostgreSQL qator soni - 27
+2025-03-04T05:55:03.640Z - history_to_invalid_products: Qator soni mos keladi
+2025-03-04T05:55:03.642Z - history_to_invalid_products: ID lar tekshirildi - MySQL: 27, PostgreSQL: 27
+2025-03-04T05:55:03.642Z - history_to_invalid_products: ID lar mos keladi
+2025-03-04T05:55:03.646Z - history_to_invalid_products: Namuna qatorlari - MySQL: 27, PostgreSQL: 27
+2025-03-04T05:55:03.647Z - history_to_invalid_products: Namuna mos keladi
+2025-03-04T05:55:03.647Z - history_to_invalid_products - MySQL foreign keys: []
+2025-03-04T05:55:03.647Z - history_to_invalid_products - PostgreSQL foreign keys: []
+2025-03-04T05:55:03.647Z - history_to_invalid_products: Jadval mos keladi
+2025-03-04T05:55:03.647Z - history_to_invalid_products: Tekshiruv yakunlandi
+2025-03-04T05:55:04.649Z - income_expense_records: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:04.649Z - income_expense_records: Tekshiruv boshlandi
+2025-03-04T05:55:04.737Z - income_expense_records: MySQL qator soni - 861805, PostgreSQL qator soni - 861805
+2025-03-04T05:55:04.737Z - income_expense_records: Qator soni mos keladi
+2025-03-04T05:55:05.517Z - income_expense_records: ID lar tekshirildi - MySQL: 861805, PostgreSQL: 861805
+2025-03-04T05:55:05.635Z - income_expense_records: ID lar mos keladi
+2025-03-04T05:55:05.640Z - income_expense_records: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:05.640Z - income_expense_records: Namuna mos keladi
+2025-03-04T05:55:05.640Z - income_expense_records - MySQL foreign keys: []
+2025-03-04T05:55:05.640Z - income_expense_records - PostgreSQL foreign keys: []
+2025-03-04T05:55:05.641Z - income_expense_records: Jadval mos keladi
+2025-03-04T05:55:05.641Z - income_expense_records: Tekshiruv yakunlandi
+2025-03-04T05:55:06.641Z - income_supplier_details: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:06.642Z - income_supplier_details: Tekshiruv boshlandi
+2025-03-04T05:55:06.644Z - income_supplier_details: MySQL qator soni - 6, PostgreSQL qator soni - 6
+2025-03-04T05:55:06.645Z - income_supplier_details: Qator soni mos keladi
+2025-03-04T05:55:06.647Z - income_supplier_details: ID lar tekshirildi - MySQL: 6, PostgreSQL: 6
+2025-03-04T05:55:06.647Z - income_supplier_details: ID lar mos keladi
+2025-03-04T05:55:06.651Z - income_supplier_details: Namuna qatorlari - MySQL: 6, PostgreSQL: 6
+2025-03-04T05:55:06.651Z - income_supplier_details: Namuna mos keladi
+2025-03-04T05:55:06.651Z - income_supplier_details - MySQL foreign keys: [{"TABLE_NAME":"income_supplier_details","COLUMN_NAME":"auth_id","REFERENCED_TABLE_NAME":"users","REFERENCED_COLUMN_NAME":"id"},{"TABLE_NAME":"income_supplier_details","COLUMN_NAME":"invoice_id","REFERENCED_TABLE_NAME":"invoices","REFERENCED_COLUMN_NAME":"id"}]
+2025-03-04T05:55:06.651Z - income_supplier_details - PostgreSQL foreign keys: []
+2025-03-04T05:55:06.651Z - income_supplier_details: Foreign key soni farq qiladi: MySQL=2 (auth_id -> users, invoice_id -> invoices), PostgreSQL=0 ()
+2025-03-04T05:55:06.651Z - income_supplier_details: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=2 (auth_id -> users, invoice_id -> invoices), PostgreSQL=0 ()
+2025-03-04T05:55:06.651Z - income_supplier_details: Tekshiruv yakunlandi
+2025-03-04T05:55:07.653Z - indicators: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:07.654Z - indicators: Tekshiruv boshlandi
+2025-03-04T05:55:07.657Z - indicators: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:55:07.657Z - indicators: Qator soni mos keladi
+2025-03-04T05:55:07.659Z - indicators: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:55:07.660Z - indicators: ID lar mos keladi
+2025-03-04T05:55:07.660Z - indicators: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:55:07.660Z - indicators - MySQL foreign keys: []
+2025-03-04T05:55:07.660Z - indicators - PostgreSQL foreign keys: []
+2025-03-04T05:55:07.660Z - indicators: Jadval mos keladi
+2025-03-04T05:55:07.660Z - indicators: Tekshiruv yakunlandi
+2025-03-04T05:55:08.662Z - input_type_records: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:08.662Z - input_type_records: Tekshiruv boshlandi
+2025-03-04T05:55:08.664Z - input_type_records: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:55:08.664Z - input_type_records: Qator soni mos keladi
+2025-03-04T05:55:08.666Z - input_type_records: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:55:08.667Z - input_type_records: ID lar mos keladi
+2025-03-04T05:55:08.667Z - input_type_records: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:55:08.667Z - input_type_records - MySQL foreign keys: []
+2025-03-04T05:55:08.667Z - input_type_records - PostgreSQL foreign keys: []
+2025-03-04T05:55:08.667Z - input_type_records: Jadval mos keladi
+2025-03-04T05:55:08.667Z - input_type_records: Tekshiruv yakunlandi
+2025-03-04T05:55:09.669Z - input_types: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:09.669Z - input_types: Tekshiruv boshlandi
+2025-03-04T05:55:09.671Z - input_types: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:55:09.671Z - input_types: Qator soni mos keladi
+2025-03-04T05:55:09.673Z - input_types: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:55:09.673Z - input_types: ID lar mos keladi
+2025-03-04T05:55:09.673Z - input_types: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:55:09.674Z - input_types - MySQL foreign keys: []
+2025-03-04T05:55:09.674Z - input_types - PostgreSQL foreign keys: []
+2025-03-04T05:55:09.674Z - input_types: Jadval mos keladi
+2025-03-04T05:55:09.674Z - input_types: Tekshiruv yakunlandi
+2025-03-04T05:55:10.674Z - inventory_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:10.675Z - inventory_numbers: Tekshiruv boshlandi
+2025-03-04T05:55:10.678Z - inventory_numbers: MySQL qator soni - 10, PostgreSQL qator soni - 10
+2025-03-04T05:55:10.678Z - inventory_numbers: Qator soni mos keladi
+2025-03-04T05:55:10.680Z - inventory_numbers: ID lar tekshirildi - MySQL: 10, PostgreSQL: 10
+2025-03-04T05:55:10.680Z - inventory_numbers: ID lar mos keladi
+2025-03-04T05:55:10.683Z - inventory_numbers: Namuna qatorlari - MySQL: 10, PostgreSQL: 10
+2025-03-04T05:55:10.684Z - inventory_numbers: Namuna mos keladi
+2025-03-04T05:55:10.684Z - inventory_numbers - MySQL foreign keys: []
+2025-03-04T05:55:10.684Z - inventory_numbers - PostgreSQL foreign keys: []
+2025-03-04T05:55:10.684Z - inventory_numbers: Jadval mos keladi
+2025-03-04T05:55:10.684Z - inventory_numbers: Tekshiruv yakunlandi
+2025-03-04T05:55:11.685Z - invoices: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:11.685Z - invoices: Tekshiruv boshlandi
+2025-03-04T05:55:11.745Z - invoices: MySQL qator soni - 127740, PostgreSQL qator soni - 127740
+2025-03-04T05:55:11.745Z - invoices: Qator soni mos keladi
+2025-03-04T05:55:11.870Z - invoices: ID lar tekshirildi - MySQL: 127740, PostgreSQL: 127740
+2025-03-04T05:55:11.879Z - invoices: ID lar mos keladi
+2025-03-04T05:55:11.883Z - invoices: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:11.883Z - invoices: Qator ID=5 - MySQL: {"id":5,"date":"2021-08-14T19:00:00.000Z","title":"Invoice-2","barcode":"Pro10000001","type":"input","source":"partner","source_id":4,"status_id":10,"repository_id":1,"active":1,"created_at":"2021-08-15T14:50:13.000Z","updated_at":"2021-08-15T15:32:01.000Z","is_attach_prices":1,"is_done":0,"currency_value":null,"residue_value":0,"returned":0}
+2025-03-04T05:55:11.883Z - invoices: Qator ID=5 - PostgreSQL: {"id":"5","date":"Sun Aug 15 2021 00:00:00 GMT+0500 (Uzbekistan Standard Time)","title":"Invoice-2","barcode":"Pro10000001","type":"input","source":"partner","source_id":4,"status_id":10,"repository_id":1,"active":"1","created_at":"2021-08-15T14:50:13.000Z","updated_at":"2021-08-15T15:32:01.000Z","is_attach_prices":"1","is_done":"0","currency_value":null,"residue_value":0,"returned":"0"}
+2025-03-04T05:55:11.883Z - invoices: Namuna ma'lumotlari farq qiladi: Ustun 'is_attach_prices': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"
+2025-03-04T05:55:11.883Z - invoices: Jadval mos emas - Sabab: Namuna ma'lumotlari farq qiladi: Ustun 'is_attach_prices': MySQL="1970-01-01 00:00:00", PostgreSQL="2000-12-31 19:00:00"
+2025-03-04T05:55:11.883Z - invoices: Tekshiruv yakunlandi
+2025-03-04T05:55:12.884Z - ishonch_invoice_logs: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:12.885Z - ishonch_invoice_logs: Tekshiruv boshlandi
+2025-03-04T05:55:12.887Z - ishonch_invoice_logs: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:55:12.887Z - ishonch_invoice_logs: Qator soni mos keladi
+2025-03-04T05:55:12.889Z - ishonch_invoice_logs: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:55:12.889Z - ishonch_invoice_logs: ID lar mos keladi
+2025-03-04T05:55:12.889Z - ishonch_invoice_logs: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:55:12.889Z - ishonch_invoice_logs - MySQL foreign keys: []
+2025-03-04T05:55:12.889Z - ishonch_invoice_logs - PostgreSQL foreign keys: []
+2025-03-04T05:55:12.889Z - ishonch_invoice_logs: Jadval mos keladi
+2025-03-04T05:55:12.890Z - ishonch_invoice_logs: Tekshiruv yakunlandi
+2025-03-04T05:55:13.891Z - jobs: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:13.892Z - jobs: Tekshiruv boshlandi
+2025-03-04T05:55:13.895Z - jobs: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:55:13.895Z - jobs: Qator soni mos keladi
+2025-03-04T05:55:13.897Z - jobs: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:55:13.897Z - jobs: ID lar mos keladi
+2025-03-04T05:55:13.897Z - jobs: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:55:13.897Z - jobs - MySQL foreign keys: []
+2025-03-04T05:55:13.897Z - jobs - PostgreSQL foreign keys: []
+2025-03-04T05:55:13.897Z - jobs: Jadval mos keladi
+2025-03-04T05:55:13.897Z - jobs: Tekshiruv yakunlandi
+2025-03-04T05:55:14.899Z - main_backend_integrations: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:14.900Z - main_backend_integrations: Tekshiruv boshlandi
+2025-03-04T05:55:14.905Z - main_backend_integrations: MySQL qator soni - 5, PostgreSQL qator soni - 5
+2025-03-04T05:55:14.905Z - main_backend_integrations: Qator soni mos keladi
+2025-03-04T05:55:14.907Z - main_backend_integrations: ID lar tekshirildi - MySQL: 5, PostgreSQL: 5
+2025-03-04T05:55:14.907Z - main_backend_integrations: ID lar mos keladi
+2025-03-04T05:55:14.911Z - main_backend_integrations: Namuna qatorlari - MySQL: 5, PostgreSQL: 5
+2025-03-04T05:55:14.911Z - main_backend_integrations: Namuna mos keladi
+2025-03-04T05:55:14.911Z - main_backend_integrations - MySQL foreign keys: []
+2025-03-04T05:55:14.911Z - main_backend_integrations - PostgreSQL foreign keys: []
+2025-03-04T05:55:14.911Z - main_backend_integrations: Jadval mos keladi
+2025-03-04T05:55:14.911Z - main_backend_integrations: Tekshiruv yakunlandi
+2025-03-04T05:55:15.913Z - main_element_to_employees: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:15.913Z - main_element_to_employees: Tekshiruv boshlandi
+2025-03-04T05:55:15.917Z - main_element_to_employees: MySQL qator soni - 831, PostgreSQL qator soni - 831
+2025-03-04T05:55:15.918Z - main_element_to_employees: Qator soni mos keladi
+2025-03-04T05:55:15.921Z - main_element_to_employees: ID lar tekshirildi - MySQL: 831, PostgreSQL: 831
+2025-03-04T05:55:15.922Z - main_element_to_employees: ID lar mos keladi
+2025-03-04T05:55:15.926Z - main_element_to_employees: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:15.928Z - main_element_to_employees: Namuna mos keladi
+2025-03-04T05:55:15.928Z - main_element_to_employees - MySQL foreign keys: []
+2025-03-04T05:55:15.928Z - main_element_to_employees - PostgreSQL foreign keys: []
+2025-03-04T05:55:15.928Z - main_element_to_employees: Jadval mos keladi
+2025-03-04T05:55:15.928Z - main_element_to_employees: Tekshiruv yakunlandi
+2025-03-04T05:55:16.930Z - main_elements: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:16.931Z - main_elements: Tekshiruv boshlandi
+2025-03-04T05:55:16.934Z - main_elements: MySQL qator soni - 553, PostgreSQL qator soni - 553
+2025-03-04T05:55:16.935Z - main_elements: Qator soni mos keladi
+2025-03-04T05:55:16.939Z - main_elements: ID lar tekshirildi - MySQL: 553, PostgreSQL: 553
+2025-03-04T05:55:16.939Z - main_elements: ID lar mos keladi
+2025-03-04T05:55:16.947Z - main_elements: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:16.950Z - main_elements: Namuna mos keladi
+2025-03-04T05:55:16.951Z - main_elements - MySQL foreign keys: []
+2025-03-04T05:55:16.951Z - main_elements - PostgreSQL foreign keys: []
+2025-03-04T05:55:16.951Z - main_elements: Jadval mos keladi
+2025-03-04T05:55:16.951Z - main_elements: Tekshiruv yakunlandi
+2025-03-04T05:55:17.952Z - main_resources: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:17.953Z - main_resources: Tekshiruv boshlandi
+2025-03-04T05:55:17.956Z - main_resources: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:55:17.957Z - main_resources: Qator soni mos keladi
+2025-03-04T05:55:17.959Z - main_resources: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:55:17.959Z - main_resources: ID lar mos keladi
+2025-03-04T05:55:17.959Z - main_resources: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:55:17.959Z - main_resources - MySQL foreign keys: []
+2025-03-04T05:55:17.959Z - main_resources - PostgreSQL foreign keys: []
+2025-03-04T05:55:17.959Z - main_resources: Jadval mos keladi
+2025-03-04T05:55:17.959Z - main_resources: Tekshiruv yakunlandi
+2025-03-04T05:55:18.959Z - marge_group_partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:18.959Z - marge_group_partners: Tekshiruv boshlandi
+2025-03-04T05:55:18.962Z - marge_group_partners: MySQL qator soni - 697, PostgreSQL qator soni - 697
+2025-03-04T05:55:18.963Z - marge_group_partners: Qator soni mos keladi
+2025-03-04T05:55:18.967Z - marge_group_partners: ID lar tekshirildi - MySQL: 697, PostgreSQL: 697
+2025-03-04T05:55:18.967Z - marge_group_partners: ID lar mos keladi
+2025-03-04T05:55:18.971Z - marge_group_partners: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:18.973Z - marge_group_partners: Namuna mos keladi
+2025-03-04T05:55:18.973Z - marge_group_partners - MySQL foreign keys: []
+2025-03-04T05:55:18.973Z - marge_group_partners - PostgreSQL foreign keys: []
+2025-03-04T05:55:18.973Z - marge_group_partners: Jadval mos keladi
+2025-03-04T05:55:18.973Z - marge_group_partners: Tekshiruv yakunlandi
+2025-03-04T05:55:19.975Z - marge_groups: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:19.975Z - marge_groups: Tekshiruv boshlandi
+2025-03-04T05:55:19.977Z - marge_groups: MySQL qator soni - 33, PostgreSQL qator soni - 33
+2025-03-04T05:55:19.978Z - marge_groups: Qator soni mos keladi
+2025-03-04T05:55:19.980Z - marge_groups: ID lar tekshirildi - MySQL: 33, PostgreSQL: 33
+2025-03-04T05:55:19.980Z - marge_groups: ID lar mos keladi
+2025-03-04T05:55:19.984Z - marge_groups: Namuna qatorlari - MySQL: 33, PostgreSQL: 33
+2025-03-04T05:55:19.985Z - marge_groups: Namuna mos keladi
+2025-03-04T05:55:19.985Z - marge_groups - MySQL foreign keys: []
+2025-03-04T05:55:19.985Z - marge_groups - PostgreSQL foreign keys: []
+2025-03-04T05:55:19.985Z - marge_groups: Jadval mos keladi
+2025-03-04T05:55:19.985Z - marge_groups: Tekshiruv yakunlandi
+2025-03-04T05:55:20.987Z - marges: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:20.988Z - marges: Tekshiruv boshlandi
+2025-03-04T05:55:20.990Z - marges: MySQL qator soni - 38, PostgreSQL qator soni - 38
+2025-03-04T05:55:20.990Z - marges: Qator soni mos keladi
+2025-03-04T05:55:20.992Z - marges: ID lar tekshirildi - MySQL: 38, PostgreSQL: 38
+2025-03-04T05:55:20.992Z - marges: ID lar mos keladi
+2025-03-04T05:55:20.996Z - marges: Namuna qatorlari - MySQL: 38, PostgreSQL: 38
+2025-03-04T05:55:20.997Z - marges: Namuna mos keladi
+2025-03-04T05:55:20.997Z - marges - MySQL foreign keys: []
+2025-03-04T05:55:20.997Z - marges - PostgreSQL foreign keys: []
+2025-03-04T05:55:20.997Z - marges: Jadval mos keladi
+2025-03-04T05:55:20.997Z - marges: Tekshiruv yakunlandi
+2025-03-04T05:55:21.999Z - migrations: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:21.999Z - migrations: Tekshiruv boshlandi
+2025-03-04T05:55:22.003Z - migrations: MySQL qator soni - 664, PostgreSQL qator soni - 664
+2025-03-04T05:55:22.004Z - migrations: Qator soni mos keladi
+2025-03-04T05:55:22.006Z - migrations: ID lar tekshirildi - MySQL: 664, PostgreSQL: 664
+2025-03-04T05:55:22.006Z - migrations: ID lar mos keladi
+2025-03-04T05:55:22.009Z - migrations: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:22.009Z - migrations: Namuna mos keladi
+2025-03-04T05:55:22.009Z - migrations - MySQL foreign keys: []
+2025-03-04T05:55:22.009Z - migrations - PostgreSQL foreign keys: []
+2025-03-04T05:55:22.009Z - migrations: Jadval mos keladi
+2025-03-04T05:55:22.010Z - migrations: Tekshiruv yakunlandi
+2025-03-04T05:55:23.011Z - move_product_to_other_repositories: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:23.012Z - move_product_to_other_repositories: Tekshiruv boshlandi
+2025-03-04T05:55:23.016Z - move_product_to_other_repositories: MySQL qator soni - 1547, PostgreSQL qator soni - 1547
+2025-03-04T05:55:23.016Z - move_product_to_other_repositories: Qator soni mos keladi
+2025-03-04T05:55:23.021Z - move_product_to_other_repositories: ID lar tekshirildi - MySQL: 1547, PostgreSQL: 1547
+2025-03-04T05:55:23.021Z - move_product_to_other_repositories: ID lar mos keladi
+2025-03-04T05:55:23.028Z - move_product_to_other_repositories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:23.029Z - move_product_to_other_repositories: Namuna mos keladi
+2025-03-04T05:55:23.030Z - move_product_to_other_repositories - MySQL foreign keys: []
+2025-03-04T05:55:23.030Z - move_product_to_other_repositories - PostgreSQL foreign keys: []
+2025-03-04T05:55:23.030Z - move_product_to_other_repositories: Jadval mos keladi
+2025-03-04T05:55:23.030Z - move_product_to_other_repositories: Tekshiruv yakunlandi
+2025-03-04T05:55:24.032Z - numerations: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:24.032Z - numerations: Tekshiruv boshlandi
+2025-03-04T05:55:24.035Z - numerations: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:55:24.035Z - numerations: Qator soni mos keladi
+2025-03-04T05:55:24.037Z - numerations: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:55:24.037Z - numerations: ID lar mos keladi
+2025-03-04T05:55:24.041Z - numerations: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:55:24.041Z - numerations: Namuna mos keladi
+2025-03-04T05:55:24.041Z - numerations - MySQL foreign keys: []
+2025-03-04T05:55:24.041Z - numerations - PostgreSQL foreign keys: []
+2025-03-04T05:55:24.041Z - numerations: Jadval mos keladi
+2025-03-04T05:55:24.042Z - numerations: Tekshiruv yakunlandi
+2025-03-04T05:55:25.043Z - oauth_access_tokens: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:25.044Z - oauth_access_tokens: Tekshiruv boshlandi
+2025-03-04T05:55:25.078Z - oauth_access_tokens: MySQL qator soni - 58049, PostgreSQL qator soni - 58049
+2025-03-04T05:55:25.078Z - oauth_access_tokens: Qator soni mos keladi
+2025-03-04T05:55:25.163Z - oauth_access_tokens: ID lar tekshirildi - MySQL: 58049, PostgreSQL: 58049
+2025-03-04T05:55:25.171Z - oauth_access_tokens: ID lar mos keladi
+2025-03-04T05:55:25.172Z - oauth_access_tokens: Xatolik yuz berdi: Illegal double '000437628711e2838' value found during parsing
+2025-03-04T05:55:25.172Z - oauth_access_tokens: Jadval mos emas - Sabab: Xatolik yuz berdi: Illegal double '000437628711e2838' value found during parsing
+2025-03-04T05:55:25.172Z - oauth_access_tokens: Tekshiruv yakunlandi
+2025-03-04T05:55:26.174Z - oauth_auth_codes: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:26.174Z - oauth_auth_codes: Tekshiruv boshlandi
+2025-03-04T05:55:26.177Z - oauth_auth_codes: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:55:26.177Z - oauth_auth_codes: Qator soni mos keladi
+2025-03-04T05:55:26.179Z - oauth_auth_codes: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:55:26.179Z - oauth_auth_codes: ID lar mos keladi
+2025-03-04T05:55:26.179Z - oauth_auth_codes: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:55:26.179Z - oauth_auth_codes - MySQL foreign keys: []
+2025-03-04T05:55:26.179Z - oauth_auth_codes - PostgreSQL foreign keys: []
+2025-03-04T05:55:26.179Z - oauth_auth_codes: Jadval mos keladi
+2025-03-04T05:55:26.179Z - oauth_auth_codes: Tekshiruv yakunlandi
+2025-03-04T05:55:27.180Z - oauth_clients: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:27.181Z - oauth_clients: Tekshiruv boshlandi
+2025-03-04T05:55:27.185Z - oauth_clients: MySQL qator soni - 4, PostgreSQL qator soni - 4
+2025-03-04T05:55:27.185Z - oauth_clients: Qator soni mos keladi
+2025-03-04T05:55:27.187Z - oauth_clients: ID lar tekshirildi - MySQL: 4, PostgreSQL: 4
+2025-03-04T05:55:27.188Z - oauth_clients: ID lar mos keladi
+2025-03-04T05:55:27.191Z - oauth_clients: Namuna qatorlari - MySQL: 4, PostgreSQL: 4
+2025-03-04T05:55:27.191Z - oauth_clients: Namuna mos keladi
+2025-03-04T05:55:27.192Z - oauth_clients - MySQL foreign keys: []
+2025-03-04T05:55:27.192Z - oauth_clients - PostgreSQL foreign keys: []
+2025-03-04T05:55:27.192Z - oauth_clients: Jadval mos keladi
+2025-03-04T05:55:27.192Z - oauth_clients: Tekshiruv yakunlandi
+2025-03-04T05:55:28.194Z - oauth_personal_access_clients: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:28.194Z - oauth_personal_access_clients: Tekshiruv boshlandi
+2025-03-04T05:55:28.198Z - oauth_personal_access_clients: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:55:28.198Z - oauth_personal_access_clients: Qator soni mos keladi
+2025-03-04T05:55:28.200Z - oauth_personal_access_clients: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:55:28.200Z - oauth_personal_access_clients: ID lar mos keladi
+2025-03-04T05:55:28.203Z - oauth_personal_access_clients: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:55:28.204Z - oauth_personal_access_clients: Namuna mos keladi
+2025-03-04T05:55:28.204Z - oauth_personal_access_clients - MySQL foreign keys: []
+2025-03-04T05:55:28.204Z - oauth_personal_access_clients - PostgreSQL foreign keys: []
+2025-03-04T05:55:28.204Z - oauth_personal_access_clients: Jadval mos keladi
+2025-03-04T05:55:28.204Z - oauth_personal_access_clients: Tekshiruv yakunlandi
+2025-03-04T05:55:29.205Z - oauth_refresh_tokens: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:29.206Z - oauth_refresh_tokens: Tekshiruv boshlandi
+2025-03-04T05:55:29.259Z - oauth_refresh_tokens: MySQL qator soni - 80371, PostgreSQL qator soni - 80371
+2025-03-04T05:55:29.259Z - oauth_refresh_tokens: Qator soni mos keladi
+2025-03-04T05:55:29.393Z - oauth_refresh_tokens: ID lar tekshirildi - MySQL: 80371, PostgreSQL: 80371
+2025-03-04T05:55:29.411Z - oauth_refresh_tokens: ID lar mos keladi
+2025-03-04T05:55:29.415Z - oauth_refresh_tokens: Xatolik yuz berdi: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'e1101e94481d7b69d958076b54964f6b354053ae7293d0e7310efbc23d511610afbc94932,0005f7' at line 1
+2025-03-04T05:55:29.415Z - oauth_refresh_tokens: Jadval mos emas - Sabab: Xatolik yuz berdi: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'e1101e94481d7b69d958076b54964f6b354053ae7293d0e7310efbc23d511610afbc94932,0005f7' at line 1
+2025-03-04T05:55:29.415Z - oauth_refresh_tokens: Tekshiruv yakunlandi
+2025-03-04T05:55:30.416Z - one_time_calculations: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:30.417Z - one_time_calculations: Tekshiruv boshlandi
+2025-03-04T05:55:30.419Z - one_time_calculations: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:55:30.420Z - one_time_calculations: Qator soni mos keladi
+2025-03-04T05:55:30.421Z - one_time_calculations: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:55:30.421Z - one_time_calculations: ID lar mos keladi
+2025-03-04T05:55:30.422Z - one_time_calculations: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:55:30.422Z - one_time_calculations - MySQL foreign keys: []
+2025-03-04T05:55:30.422Z - one_time_calculations - PostgreSQL foreign keys: []
+2025-03-04T05:55:30.422Z - one_time_calculations: Jadval mos keladi
+2025-03-04T05:55:30.422Z - one_time_calculations: Tekshiruv yakunlandi
+2025-03-04T05:55:31.423Z - order_status_logs: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:31.424Z - order_status_logs: Tekshiruv boshlandi
+2025-03-04T05:55:31.474Z - order_status_logs: MySQL qator soni - 97209, PostgreSQL qator soni - 97209
+2025-03-04T05:55:31.474Z - order_status_logs: Qator soni mos keladi
+2025-03-04T05:55:31.565Z - order_status_logs: ID lar tekshirildi - MySQL: 97209, PostgreSQL: 97209
+2025-03-04T05:55:31.572Z - order_status_logs: ID lar mos keladi
+2025-03-04T05:55:31.582Z - order_status_logs: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:31.583Z - order_status_logs: Namuna mos keladi
+2025-03-04T05:55:31.583Z - order_status_logs - MySQL foreign keys: [{"TABLE_NAME":"order_status_logs","COLUMN_NAME":"author_id","REFERENCED_TABLE_NAME":"users","REFERENCED_COLUMN_NAME":"id"},{"TABLE_NAME":"order_status_logs","COLUMN_NAME":"old_status_id","REFERENCED_TABLE_NAME":"statuses","REFERENCED_COLUMN_NAME":"id"},{"TABLE_NAME":"order_status_logs","COLUMN_NAME":"order_id","REFERENCED_TABLE_NAME":"orders","REFERENCED_COLUMN_NAME":"id"},{"TABLE_NAME":"order_status_logs","COLUMN_NAME":"status_id","REFERENCED_TABLE_NAME":"statuses","REFERENCED_COLUMN_NAME":"id"}]
+2025-03-04T05:55:31.583Z - order_status_logs - PostgreSQL foreign keys: []
+2025-03-04T05:55:31.583Z - order_status_logs: Foreign key soni farq qiladi: MySQL=4 (author_id -> users, old_status_id -> statuses, order_id -> orders, status_id -> statuses), PostgreSQL=0 ()
+2025-03-04T05:55:31.583Z - order_status_logs: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=4 (author_id -> users, old_status_id -> statuses, order_id -> orders, status_id -> statuses), PostgreSQL=0 ()
+2025-03-04T05:55:31.583Z - order_status_logs: Tekshiruv yakunlandi
+2025-03-04T05:55:32.585Z - orders: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:32.585Z - orders: Tekshiruv boshlandi
+2025-03-04T05:55:32.614Z - orders: MySQL qator soni - 110082, PostgreSQL qator soni - 110082
+2025-03-04T05:55:32.614Z - orders: Qator soni mos keladi
+2025-03-04T05:55:32.743Z - orders: ID lar tekshirildi - MySQL: 110082, PostgreSQL: 110082
+2025-03-04T05:55:32.750Z - orders: ID lar mos keladi
+2025-03-04T05:55:32.753Z - orders: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:32.754Z - orders: Namuna mos keladi
+2025-03-04T05:55:32.754Z - orders - MySQL foreign keys: []
+2025-03-04T05:55:32.754Z - orders - PostgreSQL foreign keys: []
+2025-03-04T05:55:32.754Z - orders: Jadval mos keladi
+2025-03-04T05:55:32.754Z - orders: Tekshiruv yakunlandi
+2025-03-04T05:55:33.756Z - organization_types: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:33.757Z - organization_types: Tekshiruv boshlandi
+2025-03-04T05:55:33.760Z - organization_types: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:55:33.761Z - organization_types: Qator soni mos keladi
+2025-03-04T05:55:33.762Z - organization_types: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:55:33.763Z - organization_types: ID lar mos keladi
+2025-03-04T05:55:33.765Z - organization_types: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:55:33.766Z - organization_types: Namuna mos keladi
+2025-03-04T05:55:33.766Z - organization_types - MySQL foreign keys: []
+2025-03-04T05:55:33.766Z - organization_types - PostgreSQL foreign keys: []
+2025-03-04T05:55:33.766Z - organization_types: Jadval mos keladi
+2025-03-04T05:55:33.766Z - organization_types: Tekshiruv yakunlandi
+2025-03-04T05:55:34.767Z - organizations: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:34.768Z - organizations: Tekshiruv boshlandi
+2025-03-04T05:55:34.771Z - organizations: MySQL qator soni - 6, PostgreSQL qator soni - 6
+2025-03-04T05:55:34.771Z - organizations: Qator soni mos keladi
+2025-03-04T05:55:34.773Z - organizations: ID lar tekshirildi - MySQL: 6, PostgreSQL: 6
+2025-03-04T05:55:34.773Z - organizations: ID lar mos keladi
+2025-03-04T05:55:34.776Z - organizations: Namuna qatorlari - MySQL: 6, PostgreSQL: 6
+2025-03-04T05:55:34.777Z - organizations: Namuna mos keladi
+2025-03-04T05:55:34.777Z - organizations - MySQL foreign keys: []
+2025-03-04T05:55:34.777Z - organizations - PostgreSQL foreign keys: []
+2025-03-04T05:55:34.777Z - organizations: Jadval mos keladi
+2025-03-04T05:55:34.777Z - organizations: Tekshiruv yakunlandi
+2025-03-04T05:55:35.778Z - partner_account_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:35.779Z - partner_account_numbers: Tekshiruv boshlandi
+2025-03-04T05:55:35.782Z - partner_account_numbers: MySQL qator soni - 639, PostgreSQL qator soni - 639
+2025-03-04T05:55:35.782Z - partner_account_numbers: Qator soni mos keladi
+2025-03-04T05:55:35.793Z - partner_account_numbers: ID lar tekshirildi - MySQL: 639, PostgreSQL: 639
+2025-03-04T05:55:35.794Z - partner_account_numbers: ID lar mos keladi
+2025-03-04T05:55:35.799Z - partner_account_numbers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:35.800Z - partner_account_numbers: Namuna mos keladi
+2025-03-04T05:55:35.800Z - partner_account_numbers - MySQL foreign keys: []
+2025-03-04T05:55:35.800Z - partner_account_numbers - PostgreSQL foreign keys: []
+2025-03-04T05:55:35.800Z - partner_account_numbers: Jadval mos keladi
+2025-03-04T05:55:35.800Z - partner_account_numbers: Tekshiruv yakunlandi
+2025-03-04T05:55:36.802Z - partner_accounts: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:36.803Z - partner_accounts: Tekshiruv boshlandi
+2025-03-04T05:55:36.805Z - partner_accounts: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:55:36.806Z - partner_accounts: Qator soni mos keladi
+2025-03-04T05:55:36.807Z - partner_accounts: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:55:36.808Z - partner_accounts: ID lar mos keladi
+2025-03-04T05:55:36.808Z - partner_accounts: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:55:36.808Z - partner_accounts - MySQL foreign keys: []
+2025-03-04T05:55:36.808Z - partner_accounts - PostgreSQL foreign keys: []
+2025-03-04T05:55:36.808Z - partner_accounts: Jadval mos keladi
+2025-03-04T05:55:36.808Z - partner_accounts: Tekshiruv yakunlandi
+2025-03-04T05:55:37.809Z - partner_action_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:37.809Z - partner_action_histories: Tekshiruv boshlandi
+2025-03-04T05:55:37.812Z - partner_action_histories: MySQL qator soni - 31, PostgreSQL qator soni - 31
+2025-03-04T05:55:37.812Z - partner_action_histories: Qator soni mos keladi
+2025-03-04T05:55:37.814Z - partner_action_histories: ID lar tekshirildi - MySQL: 31, PostgreSQL: 31
+2025-03-04T05:55:37.815Z - partner_action_histories: ID lar mos keladi
+2025-03-04T05:55:37.819Z - partner_action_histories: Namuna qatorlari - MySQL: 31, PostgreSQL: 31
+2025-03-04T05:55:37.820Z - partner_action_histories: Namuna mos keladi
+2025-03-04T05:55:37.820Z - partner_action_histories - MySQL foreign keys: [{"TABLE_NAME":"partner_action_histories","COLUMN_NAME":"repository_partner_id","REFERENCED_TABLE_NAME":"repository_partners","REFERENCED_COLUMN_NAME":"id"},{"TABLE_NAME":"partner_action_histories","COLUMN_NAME":"user_id","REFERENCED_TABLE_NAME":"users","REFERENCED_COLUMN_NAME":"id"}]
+2025-03-04T05:55:37.820Z - partner_action_histories - PostgreSQL foreign keys: []
+2025-03-04T05:55:37.820Z - partner_action_histories: Foreign key soni farq qiladi: MySQL=2 (repository_partner_id -> repository_partners, user_id -> users), PostgreSQL=0 ()
+2025-03-04T05:55:37.820Z - partner_action_histories: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=2 (repository_partner_id -> repository_partners, user_id -> users), PostgreSQL=0 ()
+2025-03-04T05:55:37.820Z - partner_action_histories: Tekshiruv yakunlandi
+2025-03-04T05:55:38.822Z - partner_agent_groups: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:38.823Z - partner_agent_groups: Tekshiruv boshlandi
+2025-03-04T05:55:38.826Z - partner_agent_groups: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:55:38.826Z - partner_agent_groups: Qator soni mos keladi
+2025-03-04T05:55:38.828Z - partner_agent_groups: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:55:38.828Z - partner_agent_groups: ID lar mos keladi
+2025-03-04T05:55:38.828Z - partner_agent_groups: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:55:38.828Z - partner_agent_groups - MySQL foreign keys: []
+2025-03-04T05:55:38.828Z - partner_agent_groups - PostgreSQL foreign keys: []
+2025-03-04T05:55:38.829Z - partner_agent_groups: Jadval mos keladi
+2025-03-04T05:55:38.829Z - partner_agent_groups: Tekshiruv yakunlandi
+2025-03-04T05:55:39.830Z - partner_credit_limits: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:39.830Z - partner_credit_limits: Tekshiruv boshlandi
+2025-03-04T05:55:39.833Z - partner_credit_limits: MySQL qator soni - 1330, PostgreSQL qator soni - 1330
+2025-03-04T05:55:39.834Z - partner_credit_limits: Qator soni mos keladi
+2025-03-04T05:55:39.838Z - partner_credit_limits: ID lar tekshirildi - MySQL: 1330, PostgreSQL: 1330
+2025-03-04T05:55:39.838Z - partner_credit_limits: ID lar mos keladi
+2025-03-04T05:55:39.843Z - partner_credit_limits: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:39.844Z - partner_credit_limits: Namuna mos keladi
+2025-03-04T05:55:39.845Z - partner_credit_limits - MySQL foreign keys: []
+2025-03-04T05:55:39.845Z - partner_credit_limits - PostgreSQL foreign keys: []
+2025-03-04T05:55:39.845Z - partner_credit_limits: Jadval mos keladi
+2025-03-04T05:55:39.845Z - partner_credit_limits: Tekshiruv yakunlandi
+2025-03-04T05:55:40.846Z - partner_debt_operations: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:40.847Z - partner_debt_operations: Tekshiruv boshlandi
+2025-03-04T05:55:40.851Z - partner_debt_operations: MySQL qator soni - 4568, PostgreSQL qator soni - 4568
+2025-03-04T05:55:40.851Z - partner_debt_operations: Qator soni mos keladi
+2025-03-04T05:55:40.859Z - partner_debt_operations: ID lar tekshirildi - MySQL: 4568, PostgreSQL: 4568
+2025-03-04T05:55:40.860Z - partner_debt_operations: ID lar mos keladi
+2025-03-04T05:55:40.866Z - partner_debt_operations: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:40.866Z - partner_debt_operations: Namuna mos keladi
+2025-03-04T05:55:40.866Z - partner_debt_operations - MySQL foreign keys: []
+2025-03-04T05:55:40.866Z - partner_debt_operations - PostgreSQL foreign keys: []
+2025-03-04T05:55:40.866Z - partner_debt_operations: Jadval mos keladi
+2025-03-04T05:55:40.866Z - partner_debt_operations: Tekshiruv yakunlandi
+2025-03-04T05:55:41.868Z - partner_debts: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:41.869Z - partner_debts: Tekshiruv boshlandi
+2025-03-04T05:55:41.924Z - partner_debts: MySQL qator soni - 216306, PostgreSQL qator soni - 216306
+2025-03-04T05:55:41.925Z - partner_debts: Qator soni mos keladi
+2025-03-04T05:55:42.114Z - partner_debts: ID lar tekshirildi - MySQL: 216306, PostgreSQL: 216306
+2025-03-04T05:55:42.144Z - partner_debts: ID lar mos keladi
+2025-03-04T05:55:42.149Z - partner_debts: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:42.150Z - partner_debts: Namuna mos keladi
+2025-03-04T05:55:42.150Z - partner_debts - MySQL foreign keys: []
+2025-03-04T05:55:42.151Z - partner_debts - PostgreSQL foreign keys: []
+2025-03-04T05:55:42.151Z - partner_debts: Jadval mos keladi
+2025-03-04T05:55:42.151Z - partner_debts: Tekshiruv yakunlandi
+2025-03-04T05:55:43.152Z - partner_money: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:43.153Z - partner_money: Tekshiruv boshlandi
+2025-03-04T05:55:43.156Z - partner_money: MySQL qator soni - 1023, PostgreSQL qator soni - 1023
+2025-03-04T05:55:43.156Z - partner_money: Qator soni mos keladi
+2025-03-04T05:55:43.161Z - partner_money: ID lar tekshirildi - MySQL: 1023, PostgreSQL: 1023
+2025-03-04T05:55:43.161Z - partner_money: ID lar mos keladi
+2025-03-04T05:55:43.165Z - partner_money: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:43.166Z - partner_money: Namuna mos keladi
+2025-03-04T05:55:43.167Z - partner_money - MySQL foreign keys: []
+2025-03-04T05:55:43.167Z - partner_money - PostgreSQL foreign keys: []
+2025-03-04T05:55:43.167Z - partner_money: Jadval mos keladi
+2025-03-04T05:55:43.167Z - partner_money: Tekshiruv yakunlandi
+2025-03-04T05:55:44.168Z - partner_of_ishonch_ids: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:44.169Z - partner_of_ishonch_ids: Tekshiruv boshlandi
+2025-03-04T05:55:44.171Z - partner_of_ishonch_ids: MySQL qator soni - 127, PostgreSQL qator soni - 127
+2025-03-04T05:55:44.171Z - partner_of_ishonch_ids: Qator soni mos keladi
+2025-03-04T05:55:44.174Z - partner_of_ishonch_ids: ID lar tekshirildi - MySQL: 127, PostgreSQL: 127
+2025-03-04T05:55:44.174Z - partner_of_ishonch_ids: ID lar mos keladi
+2025-03-04T05:55:44.178Z - partner_of_ishonch_ids: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:44.179Z - partner_of_ishonch_ids: Namuna mos keladi
+2025-03-04T05:55:44.179Z - partner_of_ishonch_ids - MySQL foreign keys: [{"TABLE_NAME":"partner_of_ishonch_ids","COLUMN_NAME":"partner_id","REFERENCED_TABLE_NAME":"partners","REFERENCED_COLUMN_NAME":"id"}]
+2025-03-04T05:55:44.179Z - partner_of_ishonch_ids - PostgreSQL foreign keys: []
+2025-03-04T05:55:44.179Z - partner_of_ishonch_ids: Foreign key soni farq qiladi: MySQL=1 (partner_id -> partners), PostgreSQL=0 ()
+2025-03-04T05:55:44.179Z - partner_of_ishonch_ids: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=1 (partner_id -> partners), PostgreSQL=0 ()
+2025-03-04T05:55:44.179Z - partner_of_ishonch_ids: Tekshiruv yakunlandi
+2025-03-04T05:55:45.181Z - partner_pas: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:45.182Z - partner_pas: Tekshiruv boshlandi
+2025-03-04T05:55:45.185Z - partner_pas: MySQL qator soni - 555, PostgreSQL qator soni - 555
+2025-03-04T05:55:45.185Z - partner_pas: Qator soni mos keladi
+2025-03-04T05:55:45.188Z - partner_pas: ID lar tekshirildi - MySQL: 555, PostgreSQL: 555
+2025-03-04T05:55:45.188Z - partner_pas: ID lar mos keladi
+2025-03-04T05:55:45.193Z - partner_pas: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:45.194Z - partner_pas: Namuna mos keladi
+2025-03-04T05:55:45.194Z - partner_pas - MySQL foreign keys: []
+2025-03-04T05:55:45.195Z - partner_pas - PostgreSQL foreign keys: []
+2025-03-04T05:55:45.195Z - partner_pas: Jadval mos keladi
+2025-03-04T05:55:45.195Z - partner_pas: Tekshiruv yakunlandi
+2025-03-04T05:55:46.197Z - partner_protocol_files: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:46.197Z - partner_protocol_files: Tekshiruv boshlandi
+2025-03-04T05:55:46.201Z - partner_protocol_files: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:55:46.201Z - partner_protocol_files: Qator soni mos keladi
+2025-03-04T05:55:46.203Z - partner_protocol_files: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:55:46.203Z - partner_protocol_files: ID lar mos keladi
+2025-03-04T05:55:46.203Z - partner_protocol_files: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:55:46.203Z - partner_protocol_files - MySQL foreign keys: [{"TABLE_NAME":"partner_protocol_files","COLUMN_NAME":"partner_id","REFERENCED_TABLE_NAME":"partners","REFERENCED_COLUMN_NAME":"id"},{"TABLE_NAME":"partner_protocol_files","COLUMN_NAME":"user_id","REFERENCED_TABLE_NAME":"users","REFERENCED_COLUMN_NAME":"id"}]
+2025-03-04T05:55:46.203Z - partner_protocol_files - PostgreSQL foreign keys: []
+2025-03-04T05:55:46.203Z - partner_protocol_files: Foreign key soni farq qiladi: MySQL=2 (partner_id -> partners, user_id -> users), PostgreSQL=0 ()
+2025-03-04T05:55:46.203Z - partner_protocol_files: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=2 (partner_id -> partners, user_id -> users), PostgreSQL=0 ()
+2025-03-04T05:55:46.203Z - partner_protocol_files: Tekshiruv yakunlandi
+2025-03-04T05:55:47.205Z - partner_protocols: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:47.205Z - partner_protocols: Tekshiruv boshlandi
+2025-03-04T05:55:47.208Z - partner_protocols: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:55:47.209Z - partner_protocols: Qator soni mos keladi
+2025-03-04T05:55:47.211Z - partner_protocols: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:55:47.211Z - partner_protocols: ID lar mos keladi
+2025-03-04T05:55:47.211Z - partner_protocols: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:55:47.211Z - partner_protocols - MySQL foreign keys: [{"TABLE_NAME":"partner_protocols","COLUMN_NAME":"currency_id","REFERENCED_TABLE_NAME":"currencies","REFERENCED_COLUMN_NAME":"id"},{"TABLE_NAME":"partner_protocols","COLUMN_NAME":"partner_id","REFERENCED_TABLE_NAME":"partners","REFERENCED_COLUMN_NAME":"id"},{"TABLE_NAME":"partner_protocols","COLUMN_NAME":"user_id","REFERENCED_TABLE_NAME":"users","REFERENCED_COLUMN_NAME":"id"}]
+2025-03-04T05:55:47.211Z - partner_protocols - PostgreSQL foreign keys: []
+2025-03-04T05:55:47.211Z - partner_protocols: Foreign key soni farq qiladi: MySQL=3 (currency_id -> currencies, partner_id -> partners, user_id -> users), PostgreSQL=0 ()
+2025-03-04T05:55:47.211Z - partner_protocols: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=3 (currency_id -> currencies, partner_id -> partners, user_id -> users), PostgreSQL=0 ()
+2025-03-04T05:55:47.211Z - partner_protocols: Tekshiruv yakunlandi
+2025-03-04T05:55:48.212Z - partner_types: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:48.213Z - partner_types: Tekshiruv boshlandi
+2025-03-04T05:55:48.216Z - partner_types: MySQL qator soni - 1126, PostgreSQL qator soni - 1126
+2025-03-04T05:55:48.216Z - partner_types: Qator soni mos keladi
+2025-03-04T05:55:48.219Z - partner_types: ID lar tekshirildi - MySQL: 1126, PostgreSQL: 1126
+2025-03-04T05:55:48.219Z - partner_types: ID lar mos keladi
+2025-03-04T05:55:48.222Z - partner_types: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:48.222Z - partner_types: Namuna mos keladi
+2025-03-04T05:55:48.222Z - partner_types - MySQL foreign keys: []
+2025-03-04T05:55:48.222Z - partner_types - PostgreSQL foreign keys: []
+2025-03-04T05:55:48.222Z - partner_types: Jadval mos keladi
+2025-03-04T05:55:48.222Z - partner_types: Tekshiruv yakunlandi
+2025-03-04T05:55:49.224Z - partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:49.224Z - partners: Tekshiruv boshlandi
+2025-03-04T05:55:49.228Z - partners: MySQL qator soni - 1126, PostgreSQL qator soni - 1126
+2025-03-04T05:55:49.228Z - partners: Qator soni mos keladi
+2025-03-04T05:55:49.232Z - partners: ID lar tekshirildi - MySQL: 1126, PostgreSQL: 1126
+2025-03-04T05:55:49.233Z - partners: ID lar mos keladi
+2025-03-04T05:55:49.239Z - partners: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:49.239Z - partners: Namuna mos keladi
+2025-03-04T05:55:49.239Z - partners - MySQL foreign keys: [{"TABLE_NAME":"partners","COLUMN_NAME":"updated_by","REFERENCED_TABLE_NAME":"users","REFERENCED_COLUMN_NAME":"id"}]
+2025-03-04T05:55:49.239Z - partners - PostgreSQL foreign keys: []
+2025-03-04T05:55:49.239Z - partners: Foreign key soni farq qiladi: MySQL=1 (updated_by -> users), PostgreSQL=0 ()
+2025-03-04T05:55:49.239Z - partners: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=1 (updated_by -> users), PostgreSQL=0 ()
+2025-03-04T05:55:49.239Z - partners: Tekshiruv yakunlandi
+2025-03-04T05:55:50.241Z - password_resets: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:50.241Z - password_resets: Tekshiruv boshlandi
+2025-03-04T05:55:50.244Z - password_resets: MySQL qator soni - 1, PostgreSQL qator soni - 1
+2025-03-04T05:55:50.244Z - password_resets: Qator soni mos keladi
+2025-03-04T05:55:50.245Z - password_resets: Xatolik yuz berdi: Unknown column 'id' in 'field list'
+2025-03-04T05:55:50.245Z - password_resets: Jadval mos emas - Sabab: Xatolik yuz berdi: Unknown column 'id' in 'field list'
+2025-03-04T05:55:50.245Z - password_resets: Tekshiruv yakunlandi
+2025-03-04T05:55:51.246Z - pay_for_invoices: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:51.246Z - pay_for_invoices: Tekshiruv boshlandi
+2025-03-04T05:55:51.249Z - pay_for_invoices: MySQL qator soni - 673, PostgreSQL qator soni - 673
+2025-03-04T05:55:51.250Z - pay_for_invoices: Qator soni mos keladi
+2025-03-04T05:55:51.253Z - pay_for_invoices: ID lar tekshirildi - MySQL: 673, PostgreSQL: 673
+2025-03-04T05:55:51.253Z - pay_for_invoices: ID lar mos keladi
+2025-03-04T05:55:51.256Z - pay_for_invoices: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:51.257Z - pay_for_invoices: Namuna mos keladi
+2025-03-04T05:55:51.257Z - pay_for_invoices - MySQL foreign keys: []
+2025-03-04T05:55:51.257Z - pay_for_invoices - PostgreSQL foreign keys: []
+2025-03-04T05:55:51.257Z - pay_for_invoices: Jadval mos keladi
+2025-03-04T05:55:51.258Z - pay_for_invoices: Tekshiruv yakunlandi
+2025-03-04T05:55:52.259Z - personal_account_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:52.259Z - personal_account_numbers: Tekshiruv boshlandi
+2025-03-04T05:55:52.262Z - personal_account_numbers: MySQL qator soni - 17, PostgreSQL qator soni - 17
+2025-03-04T05:55:52.262Z - personal_account_numbers: Qator soni mos keladi
+2025-03-04T05:55:52.265Z - personal_account_numbers: ID lar tekshirildi - MySQL: 17, PostgreSQL: 17
+2025-03-04T05:55:52.265Z - personal_account_numbers: ID lar mos keladi
+2025-03-04T05:55:52.268Z - personal_account_numbers: Namuna qatorlari - MySQL: 17, PostgreSQL: 17
+2025-03-04T05:55:52.269Z - personal_account_numbers: Namuna mos keladi
+2025-03-04T05:55:52.269Z - personal_account_numbers - MySQL foreign keys: []
+2025-03-04T05:55:52.269Z - personal_account_numbers - PostgreSQL foreign keys: []
+2025-03-04T05:55:52.269Z - personal_account_numbers: Jadval mos keladi
+2025-03-04T05:55:52.269Z - personal_account_numbers: Tekshiruv yakunlandi
+2025-03-04T05:55:53.271Z - photo_reports: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:53.271Z - photo_reports: Tekshiruv boshlandi
+2025-03-04T05:55:53.273Z - photo_reports: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:55:53.273Z - photo_reports: Qator soni mos keladi
+2025-03-04T05:55:53.275Z - photo_reports: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:55:53.276Z - photo_reports: ID lar mos keladi
+2025-03-04T05:55:53.276Z - photo_reports: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:55:53.276Z - photo_reports - MySQL foreign keys: []
+2025-03-04T05:55:53.276Z - photo_reports - PostgreSQL foreign keys: []
+2025-03-04T05:55:53.276Z - photo_reports: Jadval mos keladi
+2025-03-04T05:55:53.276Z - photo_reports: Tekshiruv yakunlandi
+2025-03-04T05:55:54.278Z - positions: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:54.278Z - positions: Tekshiruv boshlandi
+2025-03-04T05:55:54.280Z - positions: MySQL qator soni - 24, PostgreSQL qator soni - 24
+2025-03-04T05:55:54.280Z - positions: Qator soni mos keladi
+2025-03-04T05:55:54.281Z - positions: ID lar tekshirildi - MySQL: 24, PostgreSQL: 24
+2025-03-04T05:55:54.281Z - positions: ID lar mos keladi
+2025-03-04T05:55:54.283Z - positions: Namuna qatorlari - MySQL: 24, PostgreSQL: 24
+2025-03-04T05:55:54.284Z - positions: Namuna mos keladi
+2025-03-04T05:55:54.284Z - positions - MySQL foreign keys: []
+2025-03-04T05:55:54.284Z - positions - PostgreSQL foreign keys: []
+2025-03-04T05:55:54.284Z - positions: Jadval mos keladi
+2025-03-04T05:55:54.284Z - positions: Tekshiruv yakunlandi
+2025-03-04T05:55:55.285Z - practice_days: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:55.286Z - practice_days: Tekshiruv boshlandi
+2025-03-04T05:55:55.291Z - practice_days: MySQL qator soni - 3663, PostgreSQL qator soni - 3663
+2025-03-04T05:55:55.291Z - practice_days: Qator soni mos keladi
+2025-03-04T05:55:55.299Z - practice_days: ID lar tekshirildi - MySQL: 3663, PostgreSQL: 3663
+2025-03-04T05:55:55.300Z - practice_days: ID lar mos keladi
+2025-03-04T05:55:55.305Z - practice_days: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:55.307Z - practice_days: Namuna mos keladi
+2025-03-04T05:55:55.307Z - practice_days - MySQL foreign keys: []
+2025-03-04T05:55:55.307Z - practice_days - PostgreSQL foreign keys: []
+2025-03-04T05:55:55.307Z - practice_days: Jadval mos keladi
+2025-03-04T05:55:55.307Z - practice_days: Tekshiruv yakunlandi
+2025-03-04T05:55:56.309Z - practice_months: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:56.309Z - practice_months: Tekshiruv boshlandi
+2025-03-04T05:55:56.313Z - practice_months: MySQL qator soni - 166, PostgreSQL qator soni - 166
+2025-03-04T05:55:56.313Z - practice_months: Qator soni mos keladi
+2025-03-04T05:55:56.315Z - practice_months: ID lar tekshirildi - MySQL: 166, PostgreSQL: 166
+2025-03-04T05:55:56.315Z - practice_months: ID lar mos keladi
+2025-03-04T05:55:56.318Z - practice_months: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:56.320Z - practice_months: Namuna mos keladi
+2025-03-04T05:55:56.320Z - practice_months - MySQL foreign keys: []
+2025-03-04T05:55:56.320Z - practice_months - PostgreSQL foreign keys: []
+2025-03-04T05:55:56.320Z - practice_months: Jadval mos keladi
+2025-03-04T05:55:56.320Z - practice_months: Tekshiruv yakunlandi
+2025-03-04T05:55:57.322Z - pre_order_invoices: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:57.322Z - pre_order_invoices: Tekshiruv boshlandi
+2025-03-04T05:55:57.327Z - pre_order_invoices: MySQL qator soni - 3994, PostgreSQL qator soni - 3994
+2025-03-04T05:55:57.327Z - pre_order_invoices: Qator soni mos keladi
+2025-03-04T05:55:57.335Z - pre_order_invoices: ID lar tekshirildi - MySQL: 3994, PostgreSQL: 3994
+2025-03-04T05:55:57.336Z - pre_order_invoices: ID lar mos keladi
+2025-03-04T05:55:57.341Z - pre_order_invoices: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:57.343Z - pre_order_invoices: Namuna mos keladi
+2025-03-04T05:55:57.343Z - pre_order_invoices - MySQL foreign keys: [{"TABLE_NAME":"pre_order_invoices","COLUMN_NAME":"pre_order_id","REFERENCED_TABLE_NAME":"pre_orders","REFERENCED_COLUMN_NAME":"id"}]
+2025-03-04T05:55:57.343Z - pre_order_invoices - PostgreSQL foreign keys: []
+2025-03-04T05:55:57.343Z - pre_order_invoices: Foreign key soni farq qiladi: MySQL=1 (pre_order_id -> pre_orders), PostgreSQL=0 ()
+2025-03-04T05:55:57.343Z - pre_order_invoices: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=1 (pre_order_id -> pre_orders), PostgreSQL=0 ()
+2025-03-04T05:55:57.343Z - pre_order_invoices: Tekshiruv yakunlandi
+2025-03-04T05:55:58.345Z - pre_order_products: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:58.345Z - pre_order_products: Tekshiruv boshlandi
+2025-03-04T05:55:58.355Z - pre_order_products: MySQL qator soni - 19659, PostgreSQL qator soni - 19659
+2025-03-04T05:55:58.355Z - pre_order_products: Qator soni mos keladi
+2025-03-04T05:55:58.384Z - pre_order_products: ID lar tekshirildi - MySQL: 19659, PostgreSQL: 19659
+2025-03-04T05:55:58.386Z - pre_order_products: ID lar mos keladi
+2025-03-04T05:55:58.390Z - pre_order_products: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:58.390Z - pre_order_products: Namuna mos keladi
+2025-03-04T05:55:58.390Z - pre_order_products - MySQL foreign keys: []
+2025-03-04T05:55:58.390Z - pre_order_products - PostgreSQL foreign keys: []
+2025-03-04T05:55:58.390Z - pre_order_products: Jadval mos keladi
+2025-03-04T05:55:58.390Z - pre_order_products: Tekshiruv yakunlandi
+2025-03-04T05:55:59.392Z - pre_orders: Jadval tekshiruvi boshlandi
+2025-03-04T05:55:59.392Z - pre_orders: Tekshiruv boshlandi
+2025-03-04T05:55:59.397Z - pre_orders: MySQL qator soni - 3286, PostgreSQL qator soni - 3286
+2025-03-04T05:55:59.397Z - pre_orders: Qator soni mos keladi
+2025-03-04T05:55:59.406Z - pre_orders: ID lar tekshirildi - MySQL: 3286, PostgreSQL: 3286
+2025-03-04T05:55:59.407Z - pre_orders: ID lar mos keladi
+2025-03-04T05:55:59.412Z - pre_orders: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:55:59.413Z - pre_orders: Namuna mos keladi
+2025-03-04T05:55:59.414Z - pre_orders - MySQL foreign keys: []
+2025-03-04T05:55:59.414Z - pre_orders - PostgreSQL foreign keys: []
+2025-03-04T05:55:59.414Z - pre_orders: Jadval mos keladi
+2025-03-04T05:55:59.414Z - pre_orders: Tekshiruv yakunlandi
+2025-03-04T05:56:00.415Z - prepaid_expenses: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:00.416Z - prepaid_expenses: Tekshiruv boshlandi
+2025-03-04T05:56:00.420Z - prepaid_expenses: MySQL qator soni - 1245, PostgreSQL qator soni - 1245
+2025-03-04T05:56:00.420Z - prepaid_expenses: Qator soni mos keladi
+2025-03-04T05:56:00.424Z - prepaid_expenses: ID lar tekshirildi - MySQL: 1245, PostgreSQL: 1245
+2025-03-04T05:56:00.425Z - prepaid_expenses: ID lar mos keladi
+2025-03-04T05:56:00.430Z - prepaid_expenses: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:00.432Z - prepaid_expenses: Namuna mos keladi
+2025-03-04T05:56:00.432Z - prepaid_expenses - MySQL foreign keys: []
+2025-03-04T05:56:00.432Z - prepaid_expenses - PostgreSQL foreign keys: []
+2025-03-04T05:56:00.432Z - prepaid_expenses: Jadval mos keladi
+2025-03-04T05:56:00.432Z - prepaid_expenses: Tekshiruv yakunlandi
+2025-03-04T05:56:01.434Z - product_bonuses: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:01.434Z - product_bonuses: Tekshiruv boshlandi
+2025-03-04T05:56:01.439Z - product_bonuses: MySQL qator soni - 2686, PostgreSQL qator soni - 2686
+2025-03-04T05:56:01.439Z - product_bonuses: Qator soni mos keladi
+2025-03-04T05:56:01.442Z - product_bonuses: ID lar tekshirildi - MySQL: 2686, PostgreSQL: 2686
+2025-03-04T05:56:01.442Z - product_bonuses: ID lar mos keladi
+2025-03-04T05:56:01.445Z - product_bonuses: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:01.446Z - product_bonuses: Namuna mos keladi
+2025-03-04T05:56:01.446Z - product_bonuses - MySQL foreign keys: []
+2025-03-04T05:56:01.446Z - product_bonuses - PostgreSQL foreign keys: []
+2025-03-04T05:56:01.446Z - product_bonuses: Jadval mos keladi
+2025-03-04T05:56:01.446Z - product_bonuses: Tekshiruv yakunlandi
+2025-03-04T05:56:02.447Z - product_categories: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:02.448Z - product_categories: Tekshiruv boshlandi
+2025-03-04T05:56:02.452Z - product_categories: MySQL qator soni - 754, PostgreSQL qator soni - 754
+2025-03-04T05:56:02.452Z - product_categories: Qator soni mos keladi
+2025-03-04T05:56:02.457Z - product_categories: ID lar tekshirildi - MySQL: 754, PostgreSQL: 754
+2025-03-04T05:56:02.457Z - product_categories: ID lar mos keladi
+2025-03-04T05:56:02.466Z - product_categories: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:02.468Z - product_categories: Namuna mos keladi
+2025-03-04T05:56:02.468Z - product_categories - MySQL foreign keys: []
+2025-03-04T05:56:02.468Z - product_categories - PostgreSQL foreign keys: []
+2025-03-04T05:56:02.468Z - product_categories: Jadval mos keladi
+2025-03-04T05:56:02.468Z - product_categories: Tekshiruv yakunlandi
+2025-03-04T05:56:03.470Z - product_category_brands: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:03.470Z - product_category_brands: Tekshiruv boshlandi
+2025-03-04T05:56:03.475Z - product_category_brands: MySQL qator soni - 2646, PostgreSQL qator soni - 2646
+2025-03-04T05:56:03.475Z - product_category_brands: Qator soni mos keladi
+2025-03-04T05:56:03.488Z - product_category_brands: ID lar tekshirildi - MySQL: 2646, PostgreSQL: 2646
+2025-03-04T05:56:03.488Z - product_category_brands: ID lar mos keladi
+2025-03-04T05:56:03.492Z - product_category_brands: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:03.493Z - product_category_brands: Namuna mos keladi
+2025-03-04T05:56:03.493Z - product_category_brands - MySQL foreign keys: []
+2025-03-04T05:56:03.493Z - product_category_brands - PostgreSQL foreign keys: []
+2025-03-04T05:56:03.493Z - product_category_brands: Jadval mos keladi
+2025-03-04T05:56:03.493Z - product_category_brands: Tekshiruv yakunlandi
+2025-03-04T05:56:04.495Z - product_category_properties: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:04.495Z - product_category_properties: Tekshiruv boshlandi
+2025-03-04T05:56:04.498Z - product_category_properties: MySQL qator soni - 926, PostgreSQL qator soni - 926
+2025-03-04T05:56:04.498Z - product_category_properties: Qator soni mos keladi
+2025-03-04T05:56:04.502Z - product_category_properties: ID lar tekshirildi - MySQL: 926, PostgreSQL: 926
+2025-03-04T05:56:04.502Z - product_category_properties: ID lar mos keladi
+2025-03-04T05:56:04.507Z - product_category_properties: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:04.508Z - product_category_properties: Namuna mos keladi
+2025-03-04T05:56:04.508Z - product_category_properties - MySQL foreign keys: []
+2025-03-04T05:56:04.508Z - product_category_properties - PostgreSQL foreign keys: []
+2025-03-04T05:56:04.508Z - product_category_properties: Jadval mos keladi
+2025-03-04T05:56:04.508Z - product_category_properties: Tekshiruv yakunlandi
+2025-03-04T05:56:05.509Z - product_images: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:05.509Z - product_images: Tekshiruv boshlandi
+2025-03-04T05:56:05.513Z - product_images: MySQL qator soni - 9, PostgreSQL qator soni - 9
+2025-03-04T05:56:05.513Z - product_images: Qator soni mos keladi
+2025-03-04T05:56:05.515Z - product_images: ID lar tekshirildi - MySQL: 9, PostgreSQL: 9
+2025-03-04T05:56:05.515Z - product_images: ID lar mos keladi
+2025-03-04T05:56:05.518Z - product_images: Namuna qatorlari - MySQL: 9, PostgreSQL: 9
+2025-03-04T05:56:05.518Z - product_images: Namuna mos keladi
+2025-03-04T05:56:05.518Z - product_images - MySQL foreign keys: []
+2025-03-04T05:56:05.518Z - product_images - PostgreSQL foreign keys: []
+2025-03-04T05:56:05.518Z - product_images: Jadval mos keladi
+2025-03-04T05:56:05.518Z - product_images: Tekshiruv yakunlandi
+2025-03-04T05:56:06.520Z - product_info_on_dates: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:06.520Z - product_info_on_dates: Tekshiruv boshlandi
+2025-03-04T05:56:06.522Z - product_info_on_dates: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:56:06.522Z - product_info_on_dates: Qator soni mos keladi
+2025-03-04T05:56:06.525Z - product_info_on_dates: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:56:06.525Z - product_info_on_dates: ID lar mos keladi
+2025-03-04T05:56:06.525Z - product_info_on_dates: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:56:06.525Z - product_info_on_dates - MySQL foreign keys: []
+2025-03-04T05:56:06.525Z - product_info_on_dates - PostgreSQL foreign keys: []
+2025-03-04T05:56:06.525Z - product_info_on_dates: Jadval mos keladi
+2025-03-04T05:56:06.525Z - product_info_on_dates: Tekshiruv yakunlandi
+2025-03-04T05:56:07.526Z - product_live_cycle_histories: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:07.527Z - product_live_cycle_histories: Tekshiruv boshlandi
+2025-03-04T05:56:07.529Z - product_live_cycle_histories: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:56:07.530Z - product_live_cycle_histories: Qator soni mos keladi
+2025-03-04T05:56:07.533Z - product_live_cycle_histories: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:56:07.533Z - product_live_cycle_histories: ID lar mos keladi
+2025-03-04T05:56:07.533Z - product_live_cycle_histories: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:56:07.533Z - product_live_cycle_histories - MySQL foreign keys: []
+2025-03-04T05:56:07.533Z - product_live_cycle_histories - PostgreSQL foreign keys: []
+2025-03-04T05:56:07.533Z - product_live_cycle_histories: Jadval mos keladi
+2025-03-04T05:56:07.533Z - product_live_cycle_histories: Tekshiruv yakunlandi
+2025-03-04T05:56:08.535Z - product_numerations: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:08.535Z - product_numerations: Tekshiruv boshlandi
+2025-03-04T05:56:08.538Z - product_numerations: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:56:08.538Z - product_numerations: Qator soni mos keladi
+2025-03-04T05:56:08.540Z - product_numerations: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:56:08.540Z - product_numerations: ID lar mos keladi
+2025-03-04T05:56:08.541Z - product_numerations: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:56:08.541Z - product_numerations - MySQL foreign keys: []
+2025-03-04T05:56:08.541Z - product_numerations - PostgreSQL foreign keys: []
+2025-03-04T05:56:08.541Z - product_numerations: Jadval mos keladi
+2025-03-04T05:56:08.541Z - product_numerations: Tekshiruv yakunlandi
+2025-03-04T05:56:09.542Z - product_other_categories: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:09.543Z - product_other_categories: Tekshiruv boshlandi
+2025-03-04T05:56:09.545Z - product_other_categories: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:56:09.545Z - product_other_categories: Qator soni mos keladi
+2025-03-04T05:56:09.547Z - product_other_categories: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:56:09.547Z - product_other_categories: ID lar mos keladi
+2025-03-04T05:56:09.548Z - product_other_categories: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:56:09.548Z - product_other_categories - MySQL foreign keys: []
+2025-03-04T05:56:09.548Z - product_other_categories - PostgreSQL foreign keys: []
+2025-03-04T05:56:09.548Z - product_other_categories: Jadval mos keladi
+2025-03-04T05:56:09.548Z - product_other_categories: Tekshiruv yakunlandi
+2025-03-04T05:56:10.550Z - product_property_data: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:10.550Z - product_property_data: Tekshiruv boshlandi
+2025-03-04T05:56:10.565Z - product_property_data: MySQL qator soni - 57894, PostgreSQL qator soni - 57894
+2025-03-04T05:56:10.566Z - product_property_data: Qator soni mos keladi
+2025-03-04T05:56:10.634Z - product_property_data: ID lar tekshirildi - MySQL: 57894, PostgreSQL: 57894
+2025-03-04T05:56:10.639Z - product_property_data: ID lar mos keladi
+2025-03-04T05:56:10.646Z - product_property_data: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:10.647Z - product_property_data: Namuna mos keladi
+2025-03-04T05:56:10.647Z - product_property_data - MySQL foreign keys: []
+2025-03-04T05:56:10.647Z - product_property_data - PostgreSQL foreign keys: []
+2025-03-04T05:56:10.647Z - product_property_data: Jadval mos keladi
+2025-03-04T05:56:10.647Z - product_property_data: Tekshiruv yakunlandi
+2025-03-04T05:56:11.648Z - product_service_list_items: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:11.648Z - product_service_list_items: Tekshiruv boshlandi
+2025-03-04T05:56:11.651Z - product_service_list_items: MySQL qator soni - 49, PostgreSQL qator soni - 49
+2025-03-04T05:56:11.652Z - product_service_list_items: Qator soni mos keladi
+2025-03-04T05:56:11.653Z - product_service_list_items: ID lar tekshirildi - MySQL: 49, PostgreSQL: 49
+2025-03-04T05:56:11.653Z - product_service_list_items: ID lar mos keladi
+2025-03-04T05:56:11.656Z - product_service_list_items: Namuna qatorlari - MySQL: 49, PostgreSQL: 49
+2025-03-04T05:56:11.656Z - product_service_list_items: Namuna mos keladi
+2025-03-04T05:56:11.656Z - product_service_list_items - MySQL foreign keys: []
+2025-03-04T05:56:11.656Z - product_service_list_items - PostgreSQL foreign keys: []
+2025-03-04T05:56:11.657Z - product_service_list_items: Jadval mos keladi
+2025-03-04T05:56:11.657Z - product_service_list_items: Tekshiruv yakunlandi
+2025-03-04T05:56:12.658Z - product_service_lists: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:12.659Z - product_service_lists: Tekshiruv boshlandi
+2025-03-04T05:56:12.663Z - product_service_lists: MySQL qator soni - 23, PostgreSQL qator soni - 23
+2025-03-04T05:56:12.663Z - product_service_lists: Qator soni mos keladi
+2025-03-04T05:56:12.665Z - product_service_lists: ID lar tekshirildi - MySQL: 23, PostgreSQL: 23
+2025-03-04T05:56:12.665Z - product_service_lists: ID lar mos keladi
+2025-03-04T05:56:12.667Z - product_service_lists: Namuna qatorlari - MySQL: 23, PostgreSQL: 23
+2025-03-04T05:56:12.668Z - product_service_lists: Namuna mos keladi
+2025-03-04T05:56:12.668Z - product_service_lists - MySQL foreign keys: []
+2025-03-04T05:56:12.668Z - product_service_lists - PostgreSQL foreign keys: []
+2025-03-04T05:56:12.668Z - product_service_lists: Jadval mos keladi
+2025-03-04T05:56:12.668Z - product_service_lists: Tekshiruv yakunlandi
+2025-03-04T05:56:13.670Z - product_sizes: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:13.670Z - product_sizes: Tekshiruv boshlandi
+2025-03-04T05:56:13.673Z - product_sizes: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:56:13.674Z - product_sizes: Qator soni mos keladi
+2025-03-04T05:56:13.675Z - product_sizes: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:56:13.676Z - product_sizes: ID lar mos keladi
+2025-03-04T05:56:13.676Z - product_sizes: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:56:13.676Z - product_sizes - MySQL foreign keys: [{"TABLE_NAME":"product_sizes","COLUMN_NAME":"product_id","REFERENCED_TABLE_NAME":"products","REFERENCED_COLUMN_NAME":"id"}]
+2025-03-04T05:56:13.676Z - product_sizes - PostgreSQL foreign keys: []
+2025-03-04T05:56:13.676Z - product_sizes: Foreign key soni farq qiladi: MySQL=1 (product_id -> products), PostgreSQL=0 ()
+2025-03-04T05:56:13.676Z - product_sizes: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=1 (product_id -> products), PostgreSQL=0 ()
+2025-03-04T05:56:13.676Z - product_sizes: Tekshiruv yakunlandi
+2025-03-04T05:56:14.678Z - product_variant_additionals: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:14.678Z - product_variant_additionals: Tekshiruv boshlandi
+2025-03-04T05:56:14.712Z - product_variant_additionals: MySQL qator soni - 113182, PostgreSQL qator soni - 113182
+2025-03-04T05:56:14.713Z - product_variant_additionals: Qator soni mos keladi
+2025-03-04T05:56:14.835Z - product_variant_additionals: ID lar tekshirildi - MySQL: 113182, PostgreSQL: 113182
+2025-03-04T05:56:14.843Z - product_variant_additionals: ID lar mos keladi
+2025-03-04T05:56:14.845Z - product_variant_additionals: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:14.846Z - product_variant_additionals: Namuna mos keladi
+2025-03-04T05:56:14.846Z - product_variant_additionals - MySQL foreign keys: []
+2025-03-04T05:56:14.846Z - product_variant_additionals - PostgreSQL foreign keys: []
+2025-03-04T05:56:14.846Z - product_variant_additionals: Jadval mos keladi
+2025-03-04T05:56:14.846Z - product_variant_additionals: Tekshiruv yakunlandi
+2025-03-04T05:56:15.848Z - product_variant_codes: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:15.848Z - product_variant_codes: Tekshiruv boshlandi
+2025-03-04T05:56:15.852Z - product_variant_codes: MySQL qator soni - 511, PostgreSQL qator soni - 511
+2025-03-04T05:56:15.852Z - product_variant_codes: Qator soni mos keladi
+2025-03-04T05:56:15.856Z - product_variant_codes: ID lar tekshirildi - MySQL: 511, PostgreSQL: 511
+2025-03-04T05:56:15.856Z - product_variant_codes: ID lar mos keladi
+2025-03-04T05:56:15.860Z - product_variant_codes: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:15.862Z - product_variant_codes: Namuna mos keladi
+2025-03-04T05:56:15.862Z - product_variant_codes - MySQL foreign keys: []
+2025-03-04T05:56:15.862Z - product_variant_codes - PostgreSQL foreign keys: []
+2025-03-04T05:56:15.862Z - product_variant_codes: Jadval mos keladi
+2025-03-04T05:56:15.862Z - product_variant_codes: Tekshiruv yakunlandi
+2025-03-04T05:56:16.864Z - product_variant_images: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:16.864Z - product_variant_images: Tekshiruv boshlandi
+2025-03-04T05:56:16.868Z - product_variant_images: MySQL qator soni - 2309, PostgreSQL qator soni - 2309
+2025-03-04T05:56:16.868Z - product_variant_images: Qator soni mos keladi
+2025-03-04T05:56:16.876Z - product_variant_images: ID lar tekshirildi - MySQL: 2309, PostgreSQL: 2309
+2025-03-04T05:56:16.876Z - product_variant_images: ID lar mos keladi
+2025-03-04T05:56:16.881Z - product_variant_images: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:16.882Z - product_variant_images: Namuna mos keladi
+2025-03-04T05:56:16.882Z - product_variant_images - MySQL foreign keys: []
+2025-03-04T05:56:16.882Z - product_variant_images - PostgreSQL foreign keys: []
+2025-03-04T05:56:16.882Z - product_variant_images: Jadval mos keladi
+2025-03-04T05:56:16.882Z - product_variant_images: Tekshiruv yakunlandi
+2025-03-04T05:56:17.884Z - product_variant_property_data: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:17.884Z - product_variant_property_data: Tekshiruv boshlandi
+2025-03-04T05:56:17.889Z - product_variant_property_data: MySQL qator soni - 4751, PostgreSQL qator soni - 4751
+2025-03-04T05:56:17.889Z - product_variant_property_data: Qator soni mos keladi
+2025-03-04T05:56:17.901Z - product_variant_property_data: ID lar tekshirildi - MySQL: 4751, PostgreSQL: 4751
+2025-03-04T05:56:17.902Z - product_variant_property_data: ID lar mos keladi
+2025-03-04T05:56:17.910Z - product_variant_property_data: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:17.911Z - product_variant_property_data: Namuna mos keladi
+2025-03-04T05:56:17.912Z - product_variant_property_data - MySQL foreign keys: []
+2025-03-04T05:56:17.912Z - product_variant_property_data - PostgreSQL foreign keys: []
+2025-03-04T05:56:17.912Z - product_variant_property_data: Jadval mos keladi
+2025-03-04T05:56:17.912Z - product_variant_property_data: Tekshiruv yakunlandi
+2025-03-04T05:56:18.912Z - product_variant_serial_markers: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:18.912Z - product_variant_serial_markers: Tekshiruv boshlandi
+2025-03-04T05:56:18.959Z - product_variant_serial_markers: MySQL qator soni - 121868, PostgreSQL qator soni - 121868
+2025-03-04T05:56:18.960Z - product_variant_serial_markers: Qator soni mos keladi
+2025-03-04T05:56:19.082Z - product_variant_serial_markers: ID lar tekshirildi - MySQL: 121868, PostgreSQL: 121868
+2025-03-04T05:56:19.091Z - product_variant_serial_markers: ID lar mos keladi
+2025-03-04T05:56:19.096Z - product_variant_serial_markers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:19.097Z - product_variant_serial_markers: Namuna mos keladi
+2025-03-04T05:56:19.097Z - product_variant_serial_markers - MySQL foreign keys: []
+2025-03-04T05:56:19.097Z - product_variant_serial_markers - PostgreSQL foreign keys: []
+2025-03-04T05:56:19.097Z - product_variant_serial_markers: Jadval mos keladi
+2025-03-04T05:56:19.097Z - product_variant_serial_markers: Tekshiruv yakunlandi
+2025-03-04T05:56:20.099Z - product_variant_serial_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:20.099Z - product_variant_serial_numbers: Tekshiruv boshlandi
+2025-03-04T05:56:20.495Z - product_variant_serial_numbers: MySQL qator soni - 2272861, PostgreSQL qator soni - 2272861
+2025-03-04T05:56:20.495Z - product_variant_serial_numbers: Qator soni mos keladi
+2025-03-04T05:56:22.664Z - product_variant_serial_numbers: ID lar tekshirildi - MySQL: 2272861, PostgreSQL: 2272861
+2025-03-04T05:56:22.855Z - product_variant_serial_numbers: ID lar mos keladi
+2025-03-04T05:56:22.860Z - product_variant_serial_numbers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:22.860Z - product_variant_serial_numbers: Namuna mos keladi
+2025-03-04T05:56:22.860Z - product_variant_serial_numbers - MySQL foreign keys: []
+2025-03-04T05:56:22.860Z - product_variant_serial_numbers - PostgreSQL foreign keys: []
+2025-03-04T05:56:22.860Z - product_variant_serial_numbers: Jadval mos keladi
+2025-03-04T05:56:22.860Z - product_variant_serial_numbers: Tekshiruv yakunlandi
+2025-03-04T05:56:23.861Z - product_variants: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:23.861Z - product_variants: Tekshiruv boshlandi
+2025-03-04T05:56:23.932Z - product_variants: MySQL qator soni - 573669, PostgreSQL qator soni - 573669
+2025-03-04T05:56:23.932Z - product_variants: Qator soni mos keladi
+2025-03-04T05:56:24.512Z - product_variants: ID lar tekshirildi - MySQL: 573669, PostgreSQL: 573669
+2025-03-04T05:56:24.574Z - product_variants: ID lar mos keladi
+2025-03-04T05:56:24.589Z - product_variants: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:24.590Z - product_variants: Namuna mos keladi
+2025-03-04T05:56:24.590Z - product_variants - MySQL foreign keys: []
+2025-03-04T05:56:24.590Z - product_variants - PostgreSQL foreign keys: []
+2025-03-04T05:56:24.590Z - product_variants: Jadval mos keladi
+2025-03-04T05:56:24.590Z - product_variants: Tekshiruv yakunlandi
+2025-03-04T05:56:25.592Z - products: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:25.592Z - products: Tekshiruv boshlandi
+2025-03-04T05:56:25.622Z - products: MySQL qator soni - 94258, PostgreSQL qator soni - 94258
+2025-03-04T05:56:25.622Z - products: Qator soni mos keladi
+2025-03-04T05:56:25.711Z - products: ID lar tekshirildi - MySQL: 94258, PostgreSQL: 94258
+2025-03-04T05:56:25.718Z - products: ID lar mos keladi
+2025-03-04T05:56:25.726Z - products: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:25.727Z - products: Namuna mos keladi
+2025-03-04T05:56:25.727Z - products - MySQL foreign keys: []
+2025-03-04T05:56:25.727Z - products - PostgreSQL foreign keys: []
+2025-03-04T05:56:25.727Z - products: Jadval mos keladi
+2025-03-04T05:56:25.727Z - products: Tekshiruv yakunlandi
+2025-03-04T05:56:26.728Z - properties: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:26.729Z - properties: Tekshiruv boshlandi
+2025-03-04T05:56:26.733Z - properties: MySQL qator soni - 945, PostgreSQL qator soni - 945
+2025-03-04T05:56:26.733Z - properties: Qator soni mos keladi
+2025-03-04T05:56:26.738Z - properties: ID lar tekshirildi - MySQL: 945, PostgreSQL: 945
+2025-03-04T05:56:26.738Z - properties: ID lar mos keladi
+2025-03-04T05:56:26.745Z - properties: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:26.746Z - properties: Namuna mos keladi
+2025-03-04T05:56:26.746Z - properties - MySQL foreign keys: []
+2025-03-04T05:56:26.746Z - properties - PostgreSQL foreign keys: []
+2025-03-04T05:56:26.746Z - properties: Jadval mos keladi
+2025-03-04T05:56:26.746Z - properties: Tekshiruv yakunlandi
+2025-03-04T05:56:27.748Z - property_data: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:27.748Z - property_data: Tekshiruv boshlandi
+2025-03-04T05:56:27.752Z - property_data: MySQL qator soni - 3477, PostgreSQL qator soni - 3477
+2025-03-04T05:56:27.752Z - property_data: Qator soni mos keladi
+2025-03-04T05:56:27.761Z - property_data: ID lar tekshirildi - MySQL: 3477, PostgreSQL: 3477
+2025-03-04T05:56:27.761Z - property_data: ID lar mos keladi
+2025-03-04T05:56:27.766Z - property_data: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:27.767Z - property_data: Namuna mos keladi
+2025-03-04T05:56:27.767Z - property_data - MySQL foreign keys: []
+2025-03-04T05:56:27.767Z - property_data - PostgreSQL foreign keys: []
+2025-03-04T05:56:27.767Z - property_data: Jadval mos keladi
+2025-03-04T05:56:27.767Z - property_data: Tekshiruv yakunlandi
+2025-03-04T05:56:28.769Z - property_groups: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:28.769Z - property_groups: Tekshiruv boshlandi
+2025-03-04T05:56:28.775Z - property_groups: MySQL qator soni - 43, PostgreSQL qator soni - 43
+2025-03-04T05:56:28.775Z - property_groups: Qator soni mos keladi
+2025-03-04T05:56:28.777Z - property_groups: ID lar tekshirildi - MySQL: 43, PostgreSQL: 43
+2025-03-04T05:56:28.778Z - property_groups: ID lar mos keladi
+2025-03-04T05:56:28.782Z - property_groups: Namuna qatorlari - MySQL: 43, PostgreSQL: 43
+2025-03-04T05:56:28.783Z - property_groups: Namuna mos keladi
+2025-03-04T05:56:28.783Z - property_groups - MySQL foreign keys: []
+2025-03-04T05:56:28.783Z - property_groups - PostgreSQL foreign keys: []
+2025-03-04T05:56:28.783Z - property_groups: Jadval mos keladi
+2025-03-04T05:56:28.783Z - property_groups: Tekshiruv yakunlandi
+2025-03-04T05:56:29.785Z - raise_categories: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:29.785Z - raise_categories: Tekshiruv boshlandi
+2025-03-04T05:56:29.789Z - raise_categories: MySQL qator soni - 27, PostgreSQL qator soni - 27
+2025-03-04T05:56:29.789Z - raise_categories: Qator soni mos keladi
+2025-03-04T05:56:29.791Z - raise_categories: ID lar tekshirildi - MySQL: 27, PostgreSQL: 27
+2025-03-04T05:56:29.792Z - raise_categories: ID lar mos keladi
+2025-03-04T05:56:29.795Z - raise_categories: Namuna qatorlari - MySQL: 27, PostgreSQL: 27
+2025-03-04T05:56:29.796Z - raise_categories: Namuna mos keladi
+2025-03-04T05:56:29.796Z - raise_categories - MySQL foreign keys: []
+2025-03-04T05:56:29.796Z - raise_categories - PostgreSQL foreign keys: []
+2025-03-04T05:56:29.796Z - raise_categories: Jadval mos keladi
+2025-03-04T05:56:29.796Z - raise_categories: Tekshiruv yakunlandi
+2025-03-04T05:56:30.798Z - repo_to_repos: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:30.798Z - repo_to_repos: Tekshiruv boshlandi
+2025-03-04T05:56:30.802Z - repo_to_repos: MySQL qator soni - 1385, PostgreSQL qator soni - 1385
+2025-03-04T05:56:30.802Z - repo_to_repos: Qator soni mos keladi
+2025-03-04T05:56:30.807Z - repo_to_repos: ID lar tekshirildi - MySQL: 1385, PostgreSQL: 1385
+2025-03-04T05:56:30.807Z - repo_to_repos: ID lar mos keladi
+2025-03-04T05:56:30.812Z - repo_to_repos: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:30.813Z - repo_to_repos: Namuna mos keladi
+2025-03-04T05:56:30.813Z - repo_to_repos - MySQL foreign keys: []
+2025-03-04T05:56:30.813Z - repo_to_repos - PostgreSQL foreign keys: []
+2025-03-04T05:56:30.813Z - repo_to_repos: Jadval mos keladi
+2025-03-04T05:56:30.813Z - repo_to_repos: Tekshiruv yakunlandi
+2025-03-04T05:56:31.815Z - report_to_users: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:31.815Z - report_to_users: Tekshiruv boshlandi
+2025-03-04T05:56:31.818Z - report_to_users: MySQL qator soni - 324, PostgreSQL qator soni - 324
+2025-03-04T05:56:31.818Z - report_to_users: Qator soni mos keladi
+2025-03-04T05:56:31.820Z - report_to_users: ID lar tekshirildi - MySQL: 324, PostgreSQL: 324
+2025-03-04T05:56:31.821Z - report_to_users: ID lar mos keladi
+2025-03-04T05:56:31.824Z - report_to_users: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:31.825Z - report_to_users: Namuna mos keladi
+2025-03-04T05:56:31.825Z - report_to_users - MySQL foreign keys: []
+2025-03-04T05:56:31.825Z - report_to_users - PostgreSQL foreign keys: []
+2025-03-04T05:56:31.825Z - report_to_users: Jadval mos keladi
+2025-03-04T05:56:31.825Z - report_to_users: Tekshiruv yakunlandi
+2025-03-04T05:56:32.827Z - reports: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:32.827Z - reports: Tekshiruv boshlandi
+2025-03-04T05:56:32.830Z - reports: MySQL qator soni - 21, PostgreSQL qator soni - 21
+2025-03-04T05:56:32.830Z - reports: Qator soni mos keladi
+2025-03-04T05:56:32.832Z - reports: ID lar tekshirildi - MySQL: 21, PostgreSQL: 21
+2025-03-04T05:56:32.832Z - reports: ID lar mos keladi
+2025-03-04T05:56:32.835Z - reports: Namuna qatorlari - MySQL: 21, PostgreSQL: 21
+2025-03-04T05:56:32.835Z - reports: Namuna mos keladi
+2025-03-04T05:56:32.835Z - reports - MySQL foreign keys: []
+2025-03-04T05:56:32.835Z - reports - PostgreSQL foreign keys: []
+2025-03-04T05:56:32.835Z - reports: Jadval mos keladi
+2025-03-04T05:56:32.835Z - reports: Tekshiruv yakunlandi
+2025-03-04T05:56:33.837Z - repositories: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:33.838Z - repositories: Tekshiruv boshlandi
+2025-03-04T05:56:33.841Z - repositories: MySQL qator soni - 10, PostgreSQL qator soni - 10
+2025-03-04T05:56:33.841Z - repositories: Qator soni mos keladi
+2025-03-04T05:56:33.844Z - repositories: ID lar tekshirildi - MySQL: 10, PostgreSQL: 10
+2025-03-04T05:56:33.844Z - repositories: ID lar mos keladi
+2025-03-04T05:56:33.847Z - repositories: Namuna qatorlari - MySQL: 10, PostgreSQL: 10
+2025-03-04T05:56:33.847Z - repositories: Namuna mos keladi
+2025-03-04T05:56:33.848Z - repositories - MySQL foreign keys: []
+2025-03-04T05:56:33.848Z - repositories - PostgreSQL foreign keys: []
+2025-03-04T05:56:33.848Z - repositories: Jadval mos keladi
+2025-03-04T05:56:33.848Z - repositories: Tekshiruv yakunlandi
+2025-03-04T05:56:34.850Z - repository_actions: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:34.850Z - repository_actions: Tekshiruv boshlandi
+2025-03-04T05:56:35.559Z - repository_actions: MySQL qator soni - 4447675, PostgreSQL qator soni - 4447675
+2025-03-04T05:56:35.559Z - repository_actions: Qator soni mos keladi
+2025-03-04T05:56:39.800Z - repository_actions: ID lar tekshirildi - MySQL: 4447675, PostgreSQL: 4447675
+2025-03-04T05:56:40.476Z - repository_actions: ID lar mos keladi
+2025-03-04T05:56:40.483Z - repository_actions: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:40.483Z - repository_actions: Namuna mos keladi
+2025-03-04T05:56:40.484Z - repository_actions - MySQL foreign keys: []
+2025-03-04T05:56:40.484Z - repository_actions - PostgreSQL foreign keys: []
+2025-03-04T05:56:40.484Z - repository_actions: Jadval mos keladi
+2025-03-04T05:56:40.484Z - repository_actions: Tekshiruv yakunlandi
+2025-03-04T05:56:41.486Z - repository_partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:41.487Z - repository_partners: Tekshiruv boshlandi
+2025-03-04T05:56:41.489Z - repository_partners: MySQL qator soni - 1346, PostgreSQL qator soni - 1346
+2025-03-04T05:56:41.489Z - repository_partners: Qator soni mos keladi
+2025-03-04T05:56:41.494Z - repository_partners: ID lar tekshirildi - MySQL: 1346, PostgreSQL: 1346
+2025-03-04T05:56:41.494Z - repository_partners: ID lar mos keladi
+2025-03-04T05:56:41.498Z - repository_partners: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:41.499Z - repository_partners: Namuna mos keladi
+2025-03-04T05:56:41.499Z - repository_partners - MySQL foreign keys: []
+2025-03-04T05:56:41.499Z - repository_partners - PostgreSQL foreign keys: []
+2025-03-04T05:56:41.499Z - repository_partners: Jadval mos keladi
+2025-03-04T05:56:41.499Z - repository_partners: Tekshiruv yakunlandi
+2025-03-04T05:56:42.501Z - repository_users: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:42.501Z - repository_users: Tekshiruv boshlandi
+2025-03-04T05:56:42.505Z - repository_users: MySQL qator soni - 27, PostgreSQL qator soni - 27
+2025-03-04T05:56:42.505Z - repository_users: Qator soni mos keladi
+2025-03-04T05:56:42.508Z - repository_users: ID lar tekshirildi - MySQL: 27, PostgreSQL: 27
+2025-03-04T05:56:42.508Z - repository_users: ID lar mos keladi
+2025-03-04T05:56:42.512Z - repository_users: Namuna qatorlari - MySQL: 27, PostgreSQL: 27
+2025-03-04T05:56:42.513Z - repository_users: Namuna mos keladi
+2025-03-04T05:56:42.513Z - repository_users - MySQL foreign keys: []
+2025-03-04T05:56:42.513Z - repository_users - PostgreSQL foreign keys: []
+2025-03-04T05:56:42.513Z - repository_users: Jadval mos keladi
+2025-03-04T05:56:42.513Z - repository_users: Tekshiruv yakunlandi
+2025-03-04T05:56:43.515Z - response_driver_sold_main_elements: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:43.515Z - response_driver_sold_main_elements: Tekshiruv boshlandi
+2025-03-04T05:56:43.519Z - response_driver_sold_main_elements: MySQL qator soni - 14, PostgreSQL qator soni - 14
+2025-03-04T05:56:43.519Z - response_driver_sold_main_elements: Qator soni mos keladi
+2025-03-04T05:56:43.521Z - response_driver_sold_main_elements: ID lar tekshirildi - MySQL: 14, PostgreSQL: 14
+2025-03-04T05:56:43.521Z - response_driver_sold_main_elements: ID lar mos keladi
+2025-03-04T05:56:43.524Z - response_driver_sold_main_elements: Namuna qatorlari - MySQL: 14, PostgreSQL: 14
+2025-03-04T05:56:43.525Z - response_driver_sold_main_elements: Namuna mos keladi
+2025-03-04T05:56:43.525Z - response_driver_sold_main_elements - MySQL foreign keys: []
+2025-03-04T05:56:43.525Z - response_driver_sold_main_elements - PostgreSQL foreign keys: []
+2025-03-04T05:56:43.525Z - response_driver_sold_main_elements: Jadval mos keladi
+2025-03-04T05:56:43.525Z - response_driver_sold_main_elements: Tekshiruv yakunlandi
+2025-03-04T05:56:44.527Z - rules: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:44.527Z - rules: Tekshiruv boshlandi
+2025-03-04T05:56:44.531Z - rules: MySQL qator soni - 266, PostgreSQL qator soni - 266
+2025-03-04T05:56:44.531Z - rules: Qator soni mos keladi
+2025-03-04T05:56:44.534Z - rules: ID lar tekshirildi - MySQL: 266, PostgreSQL: 266
+2025-03-04T05:56:44.534Z - rules: ID lar mos keladi
+2025-03-04T05:56:44.538Z - rules: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:44.539Z - rules: Namuna mos keladi
+2025-03-04T05:56:44.539Z - rules - MySQL foreign keys: []
+2025-03-04T05:56:44.539Z - rules - PostgreSQL foreign keys: []
+2025-03-04T05:56:44.539Z - rules: Jadval mos keladi
+2025-03-04T05:56:44.539Z - rules: Tekshiruv yakunlandi
+2025-03-04T05:56:45.540Z - salary_employees: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:45.540Z - salary_employees: Tekshiruv boshlandi
+2025-03-04T05:56:45.544Z - salary_employees: MySQL qator soni - 129, PostgreSQL qator soni - 129
+2025-03-04T05:56:45.544Z - salary_employees: Qator soni mos keladi
+2025-03-04T05:56:45.547Z - salary_employees: ID lar tekshirildi - MySQL: 129, PostgreSQL: 129
+2025-03-04T05:56:45.547Z - salary_employees: ID lar mos keladi
+2025-03-04T05:56:45.551Z - salary_employees: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:45.552Z - salary_employees: Namuna mos keladi
+2025-03-04T05:56:45.553Z - salary_employees - MySQL foreign keys: []
+2025-03-04T05:56:45.553Z - salary_employees - PostgreSQL foreign keys: []
+2025-03-04T05:56:45.553Z - salary_employees: Jadval mos keladi
+2025-03-04T05:56:45.553Z - salary_employees: Tekshiruv yakunlandi
+2025-03-04T05:56:46.555Z - sectors: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:46.555Z - sectors: Tekshiruv boshlandi
+2025-03-04T05:56:46.558Z - sectors: MySQL qator soni - 3, PostgreSQL qator soni - 3
+2025-03-04T05:56:46.558Z - sectors: Qator soni mos keladi
+2025-03-04T05:56:46.560Z - sectors: ID lar tekshirildi - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:56:46.560Z - sectors: ID lar mos keladi
+2025-03-04T05:56:46.562Z - sectors: Namuna qatorlari - MySQL: 3, PostgreSQL: 3
+2025-03-04T05:56:46.563Z - sectors: Namuna mos keladi
+2025-03-04T05:56:46.563Z - sectors - MySQL foreign keys: []
+2025-03-04T05:56:46.563Z - sectors - PostgreSQL foreign keys: []
+2025-03-04T05:56:46.563Z - sectors: Jadval mos keladi
+2025-03-04T05:56:46.563Z - sectors: Tekshiruv yakunlandi
+2025-03-04T05:56:47.565Z - selling_price_options: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:47.565Z - selling_price_options: Tekshiruv boshlandi
+2025-03-04T05:56:47.611Z - selling_price_options: MySQL qator soni - 337473, PostgreSQL qator soni - 337473
+2025-03-04T05:56:47.611Z - selling_price_options: Qator soni mos keladi
+2025-03-04T05:56:47.895Z - selling_price_options: ID lar tekshirildi - MySQL: 337473, PostgreSQL: 337473
+2025-03-04T05:56:47.916Z - selling_price_options: ID lar mos keladi
+2025-03-04T05:56:47.920Z - selling_price_options: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:47.920Z - selling_price_options: Namuna mos keladi
+2025-03-04T05:56:47.920Z - selling_price_options - MySQL foreign keys: []
+2025-03-04T05:56:47.920Z - selling_price_options - PostgreSQL foreign keys: []
+2025-03-04T05:56:47.920Z - selling_price_options: Jadval mos keladi
+2025-03-04T05:56:47.920Z - selling_price_options: Tekshiruv yakunlandi
+2025-03-04T05:56:48.922Z - selling_prices: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:48.922Z - selling_prices: Tekshiruv boshlandi
+2025-03-04T05:56:48.955Z - selling_prices: MySQL qator soni - 112491, PostgreSQL qator soni - 112491
+2025-03-04T05:56:48.956Z - selling_prices: Qator soni mos keladi
+2025-03-04T05:56:49.079Z - selling_prices: ID lar tekshirildi - MySQL: 112491, PostgreSQL: 112491
+2025-03-04T05:56:49.086Z - selling_prices: ID lar mos keladi
+2025-03-04T05:56:49.089Z - selling_prices: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:49.090Z - selling_prices: Namuna mos keladi
+2025-03-04T05:56:49.090Z - selling_prices - MySQL foreign keys: []
+2025-03-04T05:56:49.090Z - selling_prices - PostgreSQL foreign keys: []
+2025-03-04T05:56:49.090Z - selling_prices: Jadval mos keladi
+2025-03-04T05:56:49.090Z - selling_prices: Tekshiruv yakunlandi
+2025-03-04T05:56:50.092Z - serial_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:50.092Z - serial_numbers: Tekshiruv boshlandi
+2025-03-04T05:56:50.094Z - serial_numbers: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:56:50.094Z - serial_numbers: Qator soni mos keladi
+2025-03-04T05:56:50.095Z - serial_numbers: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:56:50.096Z - serial_numbers: ID lar mos keladi
+2025-03-04T05:56:50.096Z - serial_numbers: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:56:50.096Z - serial_numbers - MySQL foreign keys: []
+2025-03-04T05:56:50.096Z - serial_numbers - PostgreSQL foreign keys: []
+2025-03-04T05:56:50.096Z - serial_numbers: Jadval mos keladi
+2025-03-04T05:56:50.096Z - serial_numbers: Tekshiruv yakunlandi
+2025-03-04T05:56:51.096Z - services: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:51.096Z - services: Tekshiruv boshlandi
+2025-03-04T05:56:51.099Z - services: MySQL qator soni - 47, PostgreSQL qator soni - 47
+2025-03-04T05:56:51.099Z - services: Qator soni mos keladi
+2025-03-04T05:56:51.100Z - services: ID lar tekshirildi - MySQL: 47, PostgreSQL: 47
+2025-03-04T05:56:51.101Z - services: ID lar mos keladi
+2025-03-04T05:56:51.103Z - services: Namuna qatorlari - MySQL: 47, PostgreSQL: 47
+2025-03-04T05:56:51.103Z - services: Namuna mos keladi
+2025-03-04T05:56:51.103Z - services - MySQL foreign keys: []
+2025-03-04T05:56:51.103Z - services - PostgreSQL foreign keys: []
+2025-03-04T05:56:51.103Z - services: Jadval mos keladi
+2025-03-04T05:56:51.103Z - services: Tekshiruv yakunlandi
+2025-03-04T05:56:52.105Z - sold_main_elements: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:52.105Z - sold_main_elements: Tekshiruv boshlandi
+2025-03-04T05:56:52.109Z - sold_main_elements: MySQL qator soni - 16, PostgreSQL qator soni - 16
+2025-03-04T05:56:52.109Z - sold_main_elements: Qator soni mos keladi
+2025-03-04T05:56:52.111Z - sold_main_elements: ID lar tekshirildi - MySQL: 16, PostgreSQL: 16
+2025-03-04T05:56:52.111Z - sold_main_elements: ID lar mos keladi
+2025-03-04T05:56:52.114Z - sold_main_elements: Namuna qatorlari - MySQL: 16, PostgreSQL: 16
+2025-03-04T05:56:52.115Z - sold_main_elements: Namuna mos keladi
+2025-03-04T05:56:52.115Z - sold_main_elements - MySQL foreign keys: []
+2025-03-04T05:56:52.115Z - sold_main_elements - PostgreSQL foreign keys: []
+2025-03-04T05:56:52.115Z - sold_main_elements: Jadval mos keladi
+2025-03-04T05:56:52.115Z - sold_main_elements: Tekshiruv yakunlandi
+2025-03-04T05:56:53.117Z - special_categories: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:53.117Z - special_categories: Tekshiruv boshlandi
+2025-03-04T05:56:53.119Z - special_categories: MySQL qator soni - 4, PostgreSQL qator soni - 4
+2025-03-04T05:56:53.120Z - special_categories: Qator soni mos keladi
+2025-03-04T05:56:53.121Z - special_categories: ID lar tekshirildi - MySQL: 4, PostgreSQL: 4
+2025-03-04T05:56:53.122Z - special_categories: ID lar mos keladi
+2025-03-04T05:56:53.125Z - special_categories: Namuna qatorlari - MySQL: 4, PostgreSQL: 4
+2025-03-04T05:56:53.125Z - special_categories: Namuna mos keladi
+2025-03-04T05:56:53.125Z - special_categories - MySQL foreign keys: []
+2025-03-04T05:56:53.125Z - special_categories - PostgreSQL foreign keys: []
+2025-03-04T05:56:53.125Z - special_categories: Jadval mos keladi
+2025-03-04T05:56:53.125Z - special_categories: Tekshiruv yakunlandi
+2025-03-04T05:56:54.127Z - special_category_products: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:54.127Z - special_category_products: Tekshiruv boshlandi
+2025-03-04T05:56:54.136Z - special_category_products: MySQL qator soni - 15013, PostgreSQL qator soni - 15013
+2025-03-04T05:56:54.137Z - special_category_products: Qator soni mos keladi
+2025-03-04T05:56:54.161Z - special_category_products: ID lar tekshirildi - MySQL: 15013, PostgreSQL: 15013
+2025-03-04T05:56:54.162Z - special_category_products: ID lar mos keladi
+2025-03-04T05:56:54.173Z - special_category_products: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:54.173Z - special_category_products: Namuna mos keladi
+2025-03-04T05:56:54.173Z - special_category_products - MySQL foreign keys: [{"TABLE_NAME":"special_category_products","COLUMN_NAME":"product_variant_id","REFERENCED_TABLE_NAME":"product_variants","REFERENCED_COLUMN_NAME":"id"},{"TABLE_NAME":"special_category_products","COLUMN_NAME":"special_category_id","REFERENCED_TABLE_NAME":"special_categories","REFERENCED_COLUMN_NAME":"id"}]
+2025-03-04T05:56:54.173Z - special_category_products - PostgreSQL foreign keys: []
+2025-03-04T05:56:54.173Z - special_category_products: Foreign key soni farq qiladi: MySQL=2 (product_variant_id -> product_variants, special_category_id -> special_categories), PostgreSQL=0 ()
+2025-03-04T05:56:54.173Z - special_category_products: Jadval mos emas - Sabab: Foreign key soni farq qiladi: MySQL=2 (product_variant_id -> product_variants, special_category_id -> special_categories), PostgreSQL=0 ()
+2025-03-04T05:56:54.173Z - special_category_products: Tekshiruv yakunlandi
+2025-03-04T05:56:55.175Z - statement_has_cash_operations: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:55.175Z - statement_has_cash_operations: Tekshiruv boshlandi
+2025-03-04T05:56:55.181Z - statement_has_cash_operations: MySQL qator soni - 12822, PostgreSQL qator soni - 12822
+2025-03-04T05:56:55.181Z - statement_has_cash_operations: Qator soni mos keladi
+2025-03-04T05:56:55.200Z - statement_has_cash_operations: ID lar tekshirildi - MySQL: 12822, PostgreSQL: 12822
+2025-03-04T05:56:55.201Z - statement_has_cash_operations: ID lar mos keladi
+2025-03-04T05:56:55.205Z - statement_has_cash_operations: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:55.206Z - statement_has_cash_operations: Namuna mos keladi
+2025-03-04T05:56:55.206Z - statement_has_cash_operations - MySQL foreign keys: []
+2025-03-04T05:56:55.206Z - statement_has_cash_operations - PostgreSQL foreign keys: []
+2025-03-04T05:56:55.206Z - statement_has_cash_operations: Jadval mos keladi
+2025-03-04T05:56:55.206Z - statement_has_cash_operations: Tekshiruv yakunlandi
+2025-03-04T05:56:56.208Z - statement_list_items: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:56.208Z - statement_list_items: Tekshiruv boshlandi
+2025-03-04T05:56:56.215Z - statement_list_items: MySQL qator soni - 5200, PostgreSQL qator soni - 5200
+2025-03-04T05:56:56.215Z - statement_list_items: Qator soni mos keladi
+2025-03-04T05:56:56.233Z - statement_list_items: ID lar tekshirildi - MySQL: 5200, PostgreSQL: 5200
+2025-03-04T05:56:56.234Z - statement_list_items: ID lar mos keladi
+2025-03-04T05:56:56.237Z - statement_list_items: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:56.238Z - statement_list_items: Namuna mos keladi
+2025-03-04T05:56:56.238Z - statement_list_items - MySQL foreign keys: []
+2025-03-04T05:56:56.238Z - statement_list_items - PostgreSQL foreign keys: []
+2025-03-04T05:56:56.238Z - statement_list_items: Jadval mos keladi
+2025-03-04T05:56:56.238Z - statement_list_items: Tekshiruv yakunlandi
+2025-03-04T05:56:57.240Z - statement_lists: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:57.241Z - statement_lists: Tekshiruv boshlandi
+2025-03-04T05:56:57.246Z - statement_lists: MySQL qator soni - 1300, PostgreSQL qator soni - 1300
+2025-03-04T05:56:57.246Z - statement_lists: Qator soni mos keladi
+2025-03-04T05:56:57.251Z - statement_lists: ID lar tekshirildi - MySQL: 1300, PostgreSQL: 1300
+2025-03-04T05:56:57.252Z - statement_lists: ID lar mos keladi
+2025-03-04T05:56:57.258Z - statement_lists: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:57.259Z - statement_lists: Namuna mos keladi
+2025-03-04T05:56:57.259Z - statement_lists - MySQL foreign keys: []
+2025-03-04T05:56:57.259Z - statement_lists - PostgreSQL foreign keys: []
+2025-03-04T05:56:57.259Z - statement_lists: Jadval mos keladi
+2025-03-04T05:56:57.260Z - statement_lists: Tekshiruv yakunlandi
+2025-03-04T05:56:58.261Z - statements: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:58.262Z - statements: Tekshiruv boshlandi
+2025-03-04T05:56:58.273Z - statements: MySQL qator soni - 19799, PostgreSQL qator soni - 19799
+2025-03-04T05:56:58.273Z - statements: Qator soni mos keladi
+2025-03-04T05:56:58.299Z - statements: ID lar tekshirildi - MySQL: 19799, PostgreSQL: 19799
+2025-03-04T05:56:58.305Z - statements: ID lar mos keladi
+2025-03-04T05:56:58.309Z - statements: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:58.309Z - statements: Namuna mos keladi
+2025-03-04T05:56:58.310Z - statements - MySQL foreign keys: []
+2025-03-04T05:56:58.310Z - statements - PostgreSQL foreign keys: []
+2025-03-04T05:56:58.310Z - statements: Jadval mos keladi
+2025-03-04T05:56:58.310Z - statements: Tekshiruv yakunlandi
+2025-03-04T05:56:59.309Z - statuses: Jadval tekshiruvi boshlandi
+2025-03-04T05:56:59.309Z - statuses: Tekshiruv boshlandi
+2025-03-04T05:56:59.312Z - statuses: MySQL qator soni - 54, PostgreSQL qator soni - 54
+2025-03-04T05:56:59.313Z - statuses: Qator soni mos keladi
+2025-03-04T05:56:59.314Z - statuses: ID lar tekshirildi - MySQL: 54, PostgreSQL: 54
+2025-03-04T05:56:59.315Z - statuses: ID lar mos keladi
+2025-03-04T05:56:59.317Z - statuses: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:56:59.317Z - statuses: Namuna mos keladi
+2025-03-04T05:56:59.317Z - statuses - MySQL foreign keys: []
+2025-03-04T05:56:59.317Z - statuses - PostgreSQL foreign keys: []
+2025-03-04T05:56:59.317Z - statuses: Jadval mos keladi
+2025-03-04T05:56:59.317Z - statuses: Tekshiruv yakunlandi
+2025-03-04T05:57:00.318Z - temp_daily_remains: Jadval tekshiruvi boshlandi
+2025-03-04T05:57:00.318Z - temp_daily_remains: Tekshiruv boshlandi
+2025-03-04T05:57:00.360Z - temp_daily_remains: MySQL qator soni - 253143, PostgreSQL qator soni - 253143
+2025-03-04T05:57:00.361Z - temp_daily_remains: Qator soni mos keladi
+2025-03-04T05:57:00.362Z - temp_daily_remains: Xatolik yuz berdi: Unknown column 'id' in 'field list'
+2025-03-04T05:57:00.362Z - temp_daily_remains: Jadval mos emas - Sabab: Xatolik yuz berdi: Unknown column 'id' in 'field list'
+2025-03-04T05:57:00.362Z - temp_daily_remains: Tekshiruv yakunlandi
+2025-03-04T05:57:01.364Z - types: Jadval tekshiruvi boshlandi
+2025-03-04T05:57:01.365Z - types: Tekshiruv boshlandi
+2025-03-04T05:57:01.367Z - types: MySQL qator soni - 9, PostgreSQL qator soni - 9
+2025-03-04T05:57:01.368Z - types: Qator soni mos keladi
+2025-03-04T05:57:01.369Z - types: ID lar tekshirildi - MySQL: 9, PostgreSQL: 9
+2025-03-04T05:57:01.369Z - types: ID lar mos keladi
+2025-03-04T05:57:01.372Z - types: Namuna qatorlari - MySQL: 9, PostgreSQL: 9
+2025-03-04T05:57:01.372Z - types: Namuna mos keladi
+2025-03-04T05:57:01.372Z - types - MySQL foreign keys: []
+2025-03-04T05:57:01.372Z - types - PostgreSQL foreign keys: []
+2025-03-04T05:57:01.372Z - types: Jadval mos keladi
+2025-03-04T05:57:01.372Z - types: Tekshiruv yakunlandi
+2025-03-04T05:57:02.374Z - units: Jadval tekshiruvi boshlandi
+2025-03-04T05:57:02.374Z - units: Tekshiruv boshlandi
+2025-03-04T05:57:02.378Z - units: MySQL qator soni - 31, PostgreSQL qator soni - 31
+2025-03-04T05:57:02.378Z - units: Qator soni mos keladi
+2025-03-04T05:57:02.380Z - units: ID lar tekshirildi - MySQL: 31, PostgreSQL: 31
+2025-03-04T05:57:02.381Z - units: ID lar mos keladi
+2025-03-04T05:57:02.384Z - units: Namuna qatorlari - MySQL: 31, PostgreSQL: 31
+2025-03-04T05:57:02.385Z - units: Namuna mos keladi
+2025-03-04T05:57:02.385Z - units - MySQL foreign keys: []
+2025-03-04T05:57:02.385Z - units - PostgreSQL foreign keys: []
+2025-03-04T05:57:02.385Z - units: Jadval mos keladi
+2025-03-04T05:57:02.385Z - units: Tekshiruv yakunlandi
+2025-03-04T05:57:03.386Z - unknown_serial_numbers: Jadval tekshiruvi boshlandi
+2025-03-04T05:57:03.387Z - unknown_serial_numbers: Tekshiruv boshlandi
+2025-03-04T05:57:03.390Z - unknown_serial_numbers: MySQL qator soni - 400, PostgreSQL qator soni - 400
+2025-03-04T05:57:03.390Z - unknown_serial_numbers: Qator soni mos keladi
+2025-03-04T05:57:03.393Z - unknown_serial_numbers: ID lar tekshirildi - MySQL: 400, PostgreSQL: 400
+2025-03-04T05:57:03.393Z - unknown_serial_numbers: ID lar mos keladi
+2025-03-04T05:57:03.398Z - unknown_serial_numbers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:57:03.399Z - unknown_serial_numbers: Namuna mos keladi
+2025-03-04T05:57:03.399Z - unknown_serial_numbers - MySQL foreign keys: []
+2025-03-04T05:57:03.399Z - unknown_serial_numbers - PostgreSQL foreign keys: []
+2025-03-04T05:57:03.399Z - unknown_serial_numbers: Jadval mos keladi
+2025-03-04T05:57:03.399Z - unknown_serial_numbers: Tekshiruv yakunlandi
+2025-03-04T05:57:04.400Z - user_access_modifiers: Jadval tekshiruvi boshlandi
+2025-03-04T05:57:04.400Z - user_access_modifiers: Tekshiruv boshlandi
+2025-03-04T05:57:04.403Z - user_access_modifiers: MySQL qator soni - 190, PostgreSQL qator soni - 190
+2025-03-04T05:57:04.404Z - user_access_modifiers: Qator soni mos keladi
+2025-03-04T05:57:04.406Z - user_access_modifiers: ID lar tekshirildi - MySQL: 190, PostgreSQL: 190
+2025-03-04T05:57:04.407Z - user_access_modifiers: ID lar mos keladi
+2025-03-04T05:57:04.410Z - user_access_modifiers: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:57:04.411Z - user_access_modifiers: Namuna mos keladi
+2025-03-04T05:57:04.411Z - user_access_modifiers - MySQL foreign keys: []
+2025-03-04T05:57:04.411Z - user_access_modifiers - PostgreSQL foreign keys: []
+2025-03-04T05:57:04.411Z - user_access_modifiers: Jadval mos keladi
+2025-03-04T05:57:04.411Z - user_access_modifiers: Tekshiruv yakunlandi
+2025-03-04T05:57:05.413Z - user_apps: Jadval tekshiruvi boshlandi
+2025-03-04T05:57:05.413Z - user_apps: Tekshiruv boshlandi
+2025-03-04T05:57:05.416Z - user_apps: MySQL qator soni - 0, PostgreSQL qator soni - 0
+2025-03-04T05:57:05.416Z - user_apps: Qator soni mos keladi
+2025-03-04T05:57:05.418Z - user_apps: ID lar tekshirildi - MySQL: 0, PostgreSQL: 0
+2025-03-04T05:57:05.418Z - user_apps: ID lar mos keladi
+2025-03-04T05:57:05.418Z - user_apps: Namuna yo'q (jadval bo'sh)
+2025-03-04T05:57:05.418Z - user_apps - MySQL foreign keys: []
+2025-03-04T05:57:05.418Z - user_apps - PostgreSQL foreign keys: []
+2025-03-04T05:57:05.418Z - user_apps: Jadval mos keladi
+2025-03-04T05:57:05.418Z - user_apps: Tekshiruv yakunlandi
+2025-03-04T05:57:06.420Z - user_rules: Jadval tekshiruvi boshlandi
+2025-03-04T05:57:06.421Z - user_rules: Tekshiruv boshlandi
+2025-03-04T05:57:06.426Z - user_rules: MySQL qator soni - 5427, PostgreSQL qator soni - 5427
+2025-03-04T05:57:06.426Z - user_rules: Qator soni mos keladi
+2025-03-04T05:57:06.435Z - user_rules: ID lar tekshirildi - MySQL: 5427, PostgreSQL: 5427
+2025-03-04T05:57:06.436Z - user_rules: ID lar mos keladi
+2025-03-04T05:57:06.439Z - user_rules: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:57:06.440Z - user_rules: Namuna mos keladi
+2025-03-04T05:57:06.440Z - user_rules - MySQL foreign keys: []
+2025-03-04T05:57:06.440Z - user_rules - PostgreSQL foreign keys: []
+2025-03-04T05:57:06.440Z - user_rules: Jadval mos keladi
+2025-03-04T05:57:06.440Z - user_rules: Tekshiruv yakunlandi
+2025-03-04T05:57:07.448Z - users: Jadval tekshiruvi boshlandi
+2025-03-04T05:57:07.449Z - users: Tekshiruv boshlandi
+2025-03-04T05:57:07.451Z - users: MySQL qator soni - 315, PostgreSQL qator soni - 315
+2025-03-04T05:57:07.451Z - users: Qator soni mos keladi
+2025-03-04T05:57:07.455Z - users: ID lar tekshirildi - MySQL: 315, PostgreSQL: 315
+2025-03-04T05:57:07.455Z - users: ID lar mos keladi
+2025-03-04T05:57:07.458Z - users: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:57:07.460Z - users: Namuna mos keladi
+2025-03-04T05:57:07.460Z - users - MySQL foreign keys: []
+2025-03-04T05:57:07.460Z - users - PostgreSQL foreign keys: []
+2025-03-04T05:57:07.460Z - users: Jadval mos keladi
+2025-03-04T05:57:07.460Z - users: Tekshiruv yakunlandi
+2025-03-04T05:57:08.461Z - users_has_partners: Jadval tekshiruvi boshlandi
+2025-03-04T05:57:08.462Z - users_has_partners: Tekshiruv boshlandi
+2025-03-04T05:57:08.466Z - users_has_partners: MySQL qator soni - 89, PostgreSQL qator soni - 89
+2025-03-04T05:57:08.466Z - users_has_partners: Qator soni mos keladi
+2025-03-04T05:57:08.469Z - users_has_partners: ID lar tekshirildi - MySQL: 89, PostgreSQL: 89
+2025-03-04T05:57:08.469Z - users_has_partners: ID lar mos keladi
+2025-03-04T05:57:08.474Z - users_has_partners: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:57:08.475Z - users_has_partners: Namuna mos keladi
+2025-03-04T05:57:08.475Z - users_has_partners - MySQL foreign keys: []
+2025-03-04T05:57:08.475Z - users_has_partners - PostgreSQL foreign keys: []
+2025-03-04T05:57:08.475Z - users_has_partners: Jadval mos keladi
+2025-03-04T05:57:08.475Z - users_has_partners: Tekshiruv yakunlandi
+2025-03-04T05:57:09.476Z - versions: Jadval tekshiruvi boshlandi
+2025-03-04T05:57:09.476Z - versions: Tekshiruv boshlandi
+2025-03-04T05:57:09.480Z - versions: MySQL qator soni - 22, PostgreSQL qator soni - 22
+2025-03-04T05:57:09.480Z - versions: Qator soni mos keladi
+2025-03-04T05:57:09.482Z - versions: ID lar tekshirildi - MySQL: 22, PostgreSQL: 22
+2025-03-04T05:57:09.482Z - versions: ID lar mos keladi
+2025-03-04T05:57:09.485Z - versions: Namuna qatorlari - MySQL: 22, PostgreSQL: 22
+2025-03-04T05:57:09.486Z - versions: Namuna mos keladi
+2025-03-04T05:57:09.486Z - versions - MySQL foreign keys: []
+2025-03-04T05:57:09.486Z - versions - PostgreSQL foreign keys: []
+2025-03-04T05:57:09.486Z - versions: Jadval mos keladi
+2025-03-04T05:57:09.486Z - versions: Tekshiruv yakunlandi
+2025-03-04T05:57:10.488Z - workplace_has_clients: Jadval tekshiruvi boshlandi
+2025-03-04T05:57:10.489Z - workplace_has_clients: Tekshiruv boshlandi
+2025-03-04T05:57:10.492Z - workplace_has_clients: MySQL qator soni - 97, PostgreSQL qator soni - 97
+2025-03-04T05:57:10.492Z - workplace_has_clients: Qator soni mos keladi
+2025-03-04T05:57:10.494Z - workplace_has_clients: ID lar tekshirildi - MySQL: 97, PostgreSQL: 97
+2025-03-04T05:57:10.494Z - workplace_has_clients: ID lar mos keladi
+2025-03-04T05:57:10.498Z - workplace_has_clients: Namuna qatorlari - MySQL: 50, PostgreSQL: 50
+2025-03-04T05:57:10.499Z - workplace_has_clients: Namuna mos keladi
+2025-03-04T05:57:10.499Z - workplace_has_clients - MySQL foreign keys: []
+2025-03-04T05:57:10.499Z - workplace_has_clients - PostgreSQL foreign keys: []
+2025-03-04T05:57:10.499Z - workplace_has_clients: Jadval mos keladi
+2025-03-04T05:57:10.499Z - workplace_has_clients: Tekshiruv yakunlandi
+2025-03-04T05:57:11.500Z - workplaces: Jadval tekshiruvi boshlandi
+2025-03-04T05:57:11.501Z - workplaces: Tekshiruv boshlandi
+2025-03-04T05:57:11.504Z - workplaces: MySQL qator soni - 2, PostgreSQL qator soni - 2
+2025-03-04T05:57:11.504Z - workplaces: Qator soni mos keladi
+2025-03-04T05:57:11.506Z - workplaces: ID lar tekshirildi - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:57:11.506Z - workplaces: ID lar mos keladi
+2025-03-04T05:57:11.509Z - workplaces: Namuna qatorlari - MySQL: 2, PostgreSQL: 2
+2025-03-04T05:57:11.510Z - workplaces: Namuna mos keladi
+2025-03-04T05:57:11.510Z - workplaces - MySQL foreign keys: []
+2025-03-04T05:57:11.510Z - workplaces - PostgreSQL foreign keys: []
+2025-03-04T05:57:11.510Z - workplaces: Jadval mos keladi
+2025-03-04T05:57:11.510Z - workplaces: Tekshiruv yakunlandi
+2025-03-04T05:57:12.512Z - Barcha tekshiruvlar yakunlandi

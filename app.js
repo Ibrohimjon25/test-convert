@@ -41,6 +41,16 @@ async function getForeignKeys(conn, dbType, database) {
         const [rows] = await conn.execute(query, [database]);
         return rows;
     } else if (dbType === 'postgres') {
+        // Dinamik schema aniqlash
+        const schemaQuery = `
+            SELECT table_schema 
+            FROM information_schema.tables 
+            WHERE table_name = 'canceled_pre_order_product_infos' 
+            LIMIT 1;
+        `;
+        const schemaResult = await conn.query(schemaQuery);
+        const schema = schemaResult.rows.length > 0 ? schemaResult.rows[0].table_schema : 'public';
+
         query = `
             SELECT 
                 tc.table_name AS TABLE_NAME, 
@@ -54,9 +64,11 @@ async function getForeignKeys(conn, dbType, database) {
                 JOIN information_schema.constraint_column_usage AS ccu 
                     ON ccu.constraint_name = tc.constraint_name 
             WHERE 
-                tc.constraint_type = 'FOREIGN KEY' AND tc.table_schema = 'public';
+                tc.constraint_type = 'FOREIGN KEY' 
+                AND tc.table_schema = $1;
         `;
-        const result = await conn.query(query);
+        const result = await conn.query(query, [schema]);
+        logToFile(`PostgreSQL schema: ${schema}, foreign keys found: ${result.rows.length}`);
         return result.rows;
     }
 }
@@ -82,7 +94,7 @@ function compareRows(mysqlRow, pgRow) {
         let pgValue = pgRow[key];
         
         // Vaqt ustunlari uchun normalizatsiya
-        if (key.includes('_at') || key === 'date') { // created_at, updated_at kabi vaqt ustunlari
+        if (key.includes('_at') || key === 'date') { 
             mysqlValue = normalizeDate(mysqlValue);
             pgValue = normalizeDate(pgValue);
         } else {
@@ -181,23 +193,30 @@ async function checkSingleTable(table, mysqlConn, pgClient, foreignKeysMysql, fo
             logToFile(`${table}: Namuna yo'q (jadval bo'sh)`);
         }
 
-        // Foreign key tekshiruvi
+        // Foreign key tekshiruvi (yangilangan qism)
         const fkMysql = foreignKeysMysql.filter(fk => fk.TABLE_NAME === table);
         const fkPg = foreignKeysPg.filter(fk => fk.TABLE_NAME === table);
 
+        logToFile(`${table} - MySQL foreign keys: ${JSON.stringify(fkMysql)}`);
+        logToFile(`${table} - PostgreSQL foreign keys: ${JSON.stringify(fkPg)}`);
+
         if (fkMysql.length !== fkPg.length) {
             isMatch = false;
-            mismatchReason = `Foreign key soni farq qiladi: MySQL=${fkMysql.length}, PostgreSQL=${fkPg.length}`;
+            mismatchReason = `Foreign key soni farq qiladi: MySQL=${fkMysql.length} (${fkMysql.map(fk => `${fk.COLUMN_NAME} -> ${fk.REFERENCED_TABLE_NAME}`).join(', ')}), PostgreSQL=${fkPg.length} (${fkPg.map(fk => `${fk.COLUMN_NAME} -> ${fk.REFERENCED_TABLE_NAME}`).join(', ')})`;
             console.log(`${table}: ${mismatchReason}`);
             logToFile(`${table}: ${mismatchReason}`);
             return { isMatch, mismatchReason };
         }
 
         for (const fk of fkMysql) {
-            const pgFk = fkPg.find(p => p.COLUMN_NAME === fk.COLUMN_NAME && p.REFERENCED_TABLE_NAME === fk.REFERENCED_TABLE_NAME);
+            const pgFk = fkPg.find(p => 
+                p.COLUMN_NAME.toLowerCase() === fk.COLUMN_NAME.toLowerCase() && 
+                p.REFERENCED_TABLE_NAME.toLowerCase() === fk.REFERENCED_TABLE_NAME.toLowerCase() &&
+                p.REFERENCED_COLUMN_NAME.toLowerCase() === fk.REFERENCED_COLUMN_NAME.toLowerCase()
+            );
             if (!pgFk) {
                 isMatch = false;
-                mismatchReason = `Foreign key topilmadi: ${fk.COLUMN_NAME} -> ${fk.REFERENCED_TABLE_NAME}`;
+                mismatchReason = `Foreign key topilmadi: ${fk.COLUMN_NAME} -> ${fk.REFERENCED_TABLE_NAME} (${fk.REFERENCED_COLUMN_NAME})`;
                 console.log(`${table}: ${mismatchReason}`);
                 logToFile(`${table}: ${mismatchReason}`);
                 return { isMatch, mismatchReason };
@@ -205,17 +224,12 @@ async function checkSingleTable(table, mysqlConn, pgClient, foreignKeysMysql, fo
 
             const [mysqlFkValues] = await mysqlConn.execute(`SELECT DISTINCT ${fk.COLUMN_NAME} FROM ${table} WHERE ${fk.COLUMN_NAME} IS NOT NULL`);
             const pgFkValues = await pgClient.query(`SELECT DISTINCT ${fk.COLUMN_NAME} FROM ${table} WHERE ${fk.COLUMN_NAME} IS NOT NULL`);
-            const mysqlFkSet = new Set(mysqlFkValues.map(row => row[fk.COLUMN_NAME]));
-            const pgFkSet = new Set(pgFkValues.rows.map(row => row[fk.COLUMN_NAME]));
+            const mysqlFkSet = new Set(mysqlFkValues.map(row => String(row[fk.COLUMN_NAME])));
+            const pgFkSet = new Set(pgFkValues.rows.map(row => String(row[fk.COLUMN_NAME])));
 
-            const mysqlFkList = mysqlFkValues.length ? mysqlFkValues.map(row => `'${row[fk.COLUMN_NAME]}'`).join(',') : 'NULL';
-            const pgFkList = pgFkValues.rows.length ? pgFkValues.rows.map(row => `'${row[fk.COLUMN_NAME]}'`).join(',') : 'NULL';
-            const [refMysqlCount] = await mysqlConn.execute(`SELECT COUNT(*) as count FROM ${fk.REFERENCED_TABLE_NAME} WHERE ${fk.REFERENCED_COLUMN_NAME} IN (${mysqlFkList})`);
-            const refPgCount = await pgClient.query(`SELECT COUNT(*) as count FROM ${fk.REFERENCED_TABLE_NAME} WHERE ${fk.REFERENCED_COLUMN_NAME} IN (${pgFkList})`);
-
-            if (mysqlFkSet.size !== pgFkSet.size || Number(refMysqlCount[0].count) !== Number(refPgCount.rows[0].count)) {
+            if (mysqlFkSet.size !== pgFkSet.size || ![...mysqlFkSet].every(val => pgFkSet.has(val))) {
                 isMatch = false;
-                mismatchReason = `Foreign key qiymatlari yoki bog'lanishlar farq qiladi: ${fk.COLUMN_NAME} -> ${fk.REFERENCED_TABLE_NAME}`;
+                mismatchReason = `Foreign key qiymatlari farq qiladi: ${fk.COLUMN_NAME} -> ${fk.REFERENCED_TABLE_NAME}`;
                 console.log(`${table}: ${mismatchReason}`);
                 logToFile(`${table}: ${mismatchReason}`);
                 return { isMatch, mismatchReason };
