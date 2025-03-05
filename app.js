@@ -13,7 +13,7 @@ const pgConfig = {
     host: 'localhost', 
     user: 'postgres', 
     password: '1', 
-    database: 'laravel8' 
+    database: 'date-issue7' 
 };
 
 function logToFile(message) {
@@ -24,14 +24,47 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-// Vaqtni moslashtirish uchun yordamchi funksiya
-function normalizeDate(value) {
+function normalizeDate(value, columnType) {
     if (value === null) return 'NULL';
-    const date = new Date(value);
-    return date.toISOString().replace('T', ' ').substring(0, 19); // "YYYY-MM-DD HH:MM:SS"
+    if (columnType === 'date' || columnType === 'datetime' || columnType === 'timestamp' || columnType === 'timestamp without time zone') {
+        const date = new Date(value);
+        if (isNaN(date.getTime())) {
+            return String(value);
+        }
+        return date.toISOString().replace('T', ' ').substring(0, 19);
+    }
+    return String(value);
 }
 
-function compareRows(mysqlRow, pgRow) {
+async function getColumnTypes(table, mysqlConn, pgClient) {
+    const mysqlQuery = `
+        SELECT COLUMN_NAME, DATA_TYPE 
+        FROM information_schema.COLUMNS 
+        WHERE TABLE_SCHEMA = ? AND TABLE_NAME = ?;
+    `;
+    const pgQuery = `
+        SELECT column_name, data_type 
+        FROM information_schema.columns 
+        WHERE table_schema = 'public' AND table_name = $1;
+    `;
+
+    const [mysqlColumns] = await mysqlConn.execute(mysqlQuery, [mysqlConfig.database, table]);
+    const pgColumns = await pgClient.query(pgQuery, [table]);
+
+    const mysqlTypes = {};
+    const pgTypes = {};
+
+    mysqlColumns.forEach(col => {
+        mysqlTypes[col.COLUMN_NAME] = col.DATA_TYPE.toLowerCase();
+    });
+    pgColumns.rows.forEach(col => {
+        pgTypes[col.column_name] = col.data_type.toLowerCase();
+    });
+
+    return { mysqlTypes, pgTypes };
+}
+
+function compareRows(mysqlRow, pgRow, mysqlTypes, pgTypes) {
     const mysqlKeys = Object.keys(mysqlRow).sort();
     const pgKeys = Object.keys(pgRow).sort();
     if (mysqlKeys.join() !== pgKeys.join()) {
@@ -43,12 +76,10 @@ function compareRows(mysqlRow, pgRow) {
         let mysqlValue = mysqlRow[key];
         let pgValue = pgRow[key];
 
-        // Faqat vaqt ustunlari uchun normalizatsiya qilamiz
-        if (key === 'created_at' || key === 'updated_at' || key === 'deleted_at' || key === 'date') { 
-            mysqlValue = normalizeDate(mysqlValue);
-            pgValue = normalizeDate(pgValue);
+        if (key === 'created_at' || key === 'updated_at' || key === 'deleted_at' || key === 'date') {
+            mysqlValue = normalizeDate(mysqlValue, mysqlTypes[key]);
+            pgValue = normalizeDate(pgValue, pgTypes[key]);
         } else {
-            // Boshqa barcha qiymatlarni String sifatida taqqoslaymiz
             mysqlValue = mysqlValue === null ? 'NULL' : String(mysqlValue);
             pgValue = pgValue === null ? 'NULL' : String(pgValue);
         }
@@ -59,7 +90,7 @@ function compareRows(mysqlRow, pgRow) {
     }
 
     if (differences.length > 0) {
-        return { match: false, reason: `Namuna ma'lumotlari farq qiladi: ${differences.join('; ')}` };
+        return { match: false, reason: `Ma'lumotlar farq qiladi: ${differences.join('; ')}` };
     }
     return { match: true, reason: '' };
 }
@@ -87,7 +118,8 @@ async function checkSingleTable(table, mysqlConn, pgClient) {
         console.log(`${table}: Qator soni to'g'ri - ${mysqlRowCount}`);
         logToFile(`${table}: Qator soni mos keladi`);
 
-        // ID tekshiruvi - agar jadvalda id bo‘lsa
+        const { mysqlTypes, pgTypes } = await getColumnTypes(table, mysqlConn, pgClient);
+
         let mysqlIds, pgIds;
         try {
             [mysqlIds] = await mysqlConn.execute(`SELECT id FROM \`${table}\` ORDER BY id`);
@@ -135,7 +167,7 @@ async function checkSingleTable(table, mysqlConn, pgClient) {
             for (let i = 0; i < mysqlSample.length; i++) {
                 const mysqlRow = mysqlSample[i];
                 const pgRow = pgSample.rows[i];
-                const comparison = compareRows(mysqlRow, pgRow);
+                const comparison = compareRows(mysqlRow, pgRow, mysqlTypes, pgTypes);
                 if (!comparison.match) {
                     isMatch = false;
                     mismatchReason = comparison.reason;
@@ -188,7 +220,7 @@ async function checkDataIntegrity() {
         for (const table of mysqlTableNames) {
             console.log(`\nTekshirilmoqda: ${table}`);
             logToFile(`${table}: Jadval tekshiruvi boshlandi`);
-            const { isMatch, mismatchReason } = await checkSingleTable(table, mysqlConn, pgClient); // foreignKeysMysql va foreignKeysPg olib tashlandi
+            const { isMatch, mismatchReason } = await checkSingleTable(table, mysqlConn, pgClient);
 
             if (isMatch) {
                 console.log(`✅ ${table}: Jadval mos keladi`);
